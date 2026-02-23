@@ -1,0 +1,961 @@
+orderRef,carrier,tracking,updates,order_id,logistics_partner,tracking_code,status_history,timeline
+ORD-000355,FedEx,TRK-a8dd765c303a,"[{'status': 'CREATED', 'time': '2023-03-04T23:44:39Z'}, {'status': 'PICKED_UP', 'time': '2023-03-05T13:44:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-07T13:44:39Z'}, {'status': 'DELIVERED', 'time': '2023-03-08 04:44'}]",,,,,
+,,,,ORD-000498,GIG,TRK8508579,"[{'status': 'CREATED', 'time': '2023-08-17T05:17:45Z'}]",
+ORD-001063,Kwik,TRK-66f5518549f0,"[{'status': 'CREATED', 'time': '2023-09-14T00:57:16Z'}]",,,,,
+,,,,ORD-000581,FedEx,TRK7781026,"[{'status': 'CREATED', 'time': '2023-07-23 00:15'}]",
+,GIG,415622307,,,,,,"[{'status': 'CREATED', 'time': '2023-12-09 22:33'}, {'status': 'PICKED_UP', 'time': '2023-12-11T10:33:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-12T20:33:28Z'}]"
+,Local,308439479,,,,,,"[{'status': 'CREATED', 'time': '2023-10-26T18:56:12Z'}, {'status': 'PICKED_UP', 'time': '2023-10-28 18:56'}, {'status': 'IN_TRANSIT', 'time': '2023-10-29T15:56:12Z'}, {'status': 'DELIVERED', 'time': '2023-10-29T18:56:12Z'}]"
+,,,,ORD-000341,Kwik,TRK5573907,"[{'status': 'CREATED', 'time': '2023-08-22T23:36:37Z'}, {'status': 'PICKED_UP', 'time': '2023-08-24T18:36:37Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-25T01:36:37Z'}, {'status': 'DELIVERED', 'time': '2023-08-26T14:36:37Z'}]",
+ORD-001161,Kwik,TRK-42186b0c08c1,"[{'status': 'CREATED', 'time': '2023-05-03T15:39:46Z'}, {'status': 'PICKED_UP', 'time': '2023-05-04T09:39:46Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-06T02:39:46Z'}, {'status': 'DELIVERED', 'time': '2023-05-07T16:39:46Z'}]",,,,,
+ORD-000511,GIG,TRK-4f1928ad39c1,"[{'status': 'CREATED', 'time': '2023-11-12T22:13:47Z'}, {'status': 'PICKED_UP', 'time': '2023-11-14T17:13:47Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-16T10:13:47Z'}]",,,,,
+,Kwik,922134488,,,,,,"[{'status': 'CREATED', 'time': '2023-10-24 08:26'}]"
+,,,,ORD-000796,Local,TRK4054488,"[{'status': 'CREATED', 'time': '2023-06-12T19:50:01Z'}]",
+,FedEx,701493999,,,,,,"[{'status': 'CREATED', 'time': '2023-11-02T07:07:45Z'}, {'status': 'PICKED_UP', 'time': '2023-11-04T02:07:45Z'}]"
+ORD-001005,Local,TRK-0f9448d5db2d,"[{'status': 'CREATED', 'time': '2023-03-14T18:12:40Z'}]",,,,,
+ORD-000553,Kwik,TRK-3d13a7aaaf08,"[{'status': 'CREATED', 'time': '2023-06-01T09:17:39Z'}]",,,,,
+,,,,ORD-001067,Kwik,TRK8538936,"[{'status': 'IN_TRANSIT', 'time': '2023-07-13T10:56:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-15 07:56'}]",
+,Kwik,172052215,,,,,,"[{'status': 'CREATED', 'time': '2023-11-16T12:47:23Z'}, {'status': 'PICKED_UP', 'time': '2023-11-18T01:47:23Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-18 06:47'}]"
+,,,,ORD-000270,Kwik,TRK7896892,"[{'status': 'CREATED', 'time': '2023-09-06T05:08:49Z'}, {'status': 'PICKED_UP', 'time': '2023-09-07T21:08:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-09 01:08'}, {'status': 'DELIVERED', 'time': '2023-09-09T13:08:49Z'}]",
+,,,,ORD-000220,Local,TRK8235908,"[{'status': 'CREATED', 'time': '2023-06-19 10:50'}, {'status': 'PICKED_UP', 'time': '2023-06-19T23:50:12Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-20T19:50:12Z'}]",
+,,,,ORD-000908,Kwik,TRK2389523,"[{'status': 'CREATED', 'time': '2023-06-27T11:25:04Z'}]",
+ORD-001177,GIG,TRK-537a7a1193a9,"[{'status': 'CREATED', 'time': '2023-08-12T20:09:22Z'}, {'status': 'PICKED_UP', 'time': '2023-08-13T19:09:22Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-15T13:09:22Z'}]",,,,,
+,GIG,299318337,,,,,,"[{'status': 'CREATED', 'time': '2023-05-06T19:59:52Z'}]"
+,Kwik,238358840,,,,,,"[{'status': 'CREATED', 'time': '2023-08-08 16:19'}, {'status': 'PICKED_UP', 'time': '2023-08-09T07:19:16Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-10T16:19:16Z'}, {'status': 'DELIVERED', 'time': '2023-08-12 14:19'}]"
+ORD-000425,DHL,TRK-75a0f6e19970,"[{'status': 'CREATED', 'time': '2023-08-03T05:25:31Z'}]",,,,,
+ORD-001006,Kwik,TRK-5a3f667f9b39,"[{'status': 'CREATED', 'time': '2023-01-17T11:40:47Z'}, {'status': 'PICKED_UP', 'time': '2023-01-18T06:40:47Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-20 01:40'}]",,,,,
+,,,,ORD-001189,GIG,TRK6894627,"[{'status': 'CREATED', 'time': '2023-05-21T22:40:54Z'}]",
+ORD-000880,FedEx,TRK-4ab19d8a2856,"[{'status': 'CREATED', 'time': '2023-02-15 07:50'}, {'status': 'PICKED_UP', 'time': '2023-02-15T11:50:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-15T13:50:06Z'}]",,,,,
+ORD-000751,GIG,TRK-73c560fc1607,"[{'status': 'CREATED', 'time': '2023-03-27T20:14:27Z'}]",,,,,
+ORD-000287,GIG,TRK-3d0e841e5465,"[{'status': 'CREATED', 'time': '2023-06-06 11:49'}, {'status': 'PICKED_UP', 'time': '2023-06-06T20:49:02Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-08T02:49:02Z'}, {'status': 'DELIVERED', 'time': '2023-06-08T13:49:02Z'}]",,,,,
+,FedEx,192822736,,,,,,"[{'status': 'CREATED', 'time': '2023-02-19T07:49:07Z'}, {'status': 'PICKED_UP', 'time': '2023-02-20T12:49:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-21 15:49'}, {'status': 'DELIVERED', 'time': '2023-02-22T04:49:07Z'}]"
+,,,,ORD-000848,Kwik,TRK6565956,"[{'status': 'CREATED', 'time': '2023-05-13T09:43:24Z'}]",
+ORD-000693,Kwik,TRK-d13a5eab1051,"[{'status': 'CREATED', 'time': '2023-06-13T16:52:39Z'}, {'status': 'PICKED_UP', 'time': '2023-06-14T19:52:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-16 03:52'}, {'status': 'DELIVERED', 'time': '2023-06-16T14:52:39Z'}]",,,,,
+ORD-000231,Kwik,TRK-3dc5cadb2961,"[{'status': 'CREATED', 'time': '2023-01-05 20:48'}, {'status': 'PICKED_UP', 'time': '2023-01-07T09:48:10Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-08T14:48:10Z'}]",,,,,
+ORD-000947,DHL,TRK-faa98a9053f7,"[{'status': 'CREATED', 'time': '2023-10-28T08:10:01Z'}]",,,,,
+,,,,ORD-000785,GIG,TRK4881349,"[{'status': 'CREATED', 'time': '2023-12-05T09:19:54Z'}, {'status': 'PICKED_UP', 'time': '2023-12-05T23:19:54Z'}]",
+,FedEx,455244324,,,,,,"[{'status': 'CREATED', 'time': '2023-12-03 18:44'}, {'status': 'PICKED_UP', 'time': '2023-12-05T16:44:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-05 23:44'}]"
+ORD-000969,Kwik,TRK-95d35b09de45,"[{'status': 'CREATED', 'time': '2023-12-15T16:54:32Z'}, {'status': 'PICKED_UP', 'time': '2023-12-16 00:54'}, {'status': 'IN_TRANSIT', 'time': '2023-12-16T16:54:32Z'}, {'status': 'DELIVERED', 'time': '2023-12-17T11:54:32Z'}]",,,,,
+,Kwik,173899194,,,,,,"[{'status': 'CREATED', 'time': '2023-07-27T01:18:17Z'}, {'status': 'PICKED_UP', 'time': '2023-07-27T10:18:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-27 21:18'}]"
+,,,,ORD-000133,FedEx,TRK7124098,"[{'status': 'CREATED', 'time': '2023-10-03 22:33'}, {'status': 'PICKED_UP', 'time': '2023-10-04T06:33:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-04T22:33:49Z'}]",
+ORD-000508,Kwik,TRK-96220b616006,"[{'status': 'CREATED', 'time': '2023-06-11T21:26:13Z'}, {'status': 'PICKED_UP', 'time': '2023-06-13 20:26'}]",,,,,
+,,,,ORD-000397,Kwik,TRK4913910,"[{'status': 'IN_TRANSIT', 'time': '2023-09-30T10:39:59Z'}]",
+,,,,ORD-000924,DHL,TRK4085936,"[{'status': 'CREATED', 'time': '2023-01-15T02:37:38Z'}, {'status': 'PICKED_UP', 'time': '2023-01-15T21:37:38Z'}]",
+,Local,899776651,,,,,,"[{'status': 'CREATED', 'time': '2023-10-01 18:08'}, {'status': 'PICKED_UP', 'time': '2023-10-02 10:08'}]"
+ORD-000964,DHL,TRK-6012302f2e96,"[{'status': 'CREATED', 'time': '2023-06-24T17:44:11Z'}, {'status': 'PICKED_UP', 'time': '2023-06-26T09:44:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-26T13:44:11Z'}]",,,,,
+,Local,190153750,,,,,,"[{'status': 'CREATED', 'time': '2023-04-04T19:42:48Z'}, {'status': 'CREATED', 'time': '2023-04-05 20:42'}]"
+,FedEx,408724834,,,,,,"[{'status': 'CREATED', 'time': '2023-10-28T11:19:37Z'}, {'status': 'PICKED_UP', 'time': '2023-10-30T02:19:37Z'}]"
+ORD-001024,Kwik,TRK-5f095770a871,"[{'status': 'CREATED', 'time': '2023-07-21T18:39:45Z'}, {'status': 'PICKED_UP', 'time': '2023-07-23 17:39'}, {'status': 'IN_TRANSIT', 'time': '2023-07-25T11:39:45Z'}]",,,,,
+,FedEx,495857680,,,,,,"[{'status': 'CREATED', 'time': '2023-05-11T18:33:42Z'}, {'status': 'PICKED_UP', 'time': '2023-05-13T14:33:42Z'}]"
+,DHL,723808252,,,,,,"[{'status': 'CREATED', 'time': '2023-04-12T10:19:15Z'}, {'status': 'PICKED_UP', 'time': '2023-04-14T05:19:15Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-14T16:19:15Z'}, {'status': 'DELIVERED', 'time': '2023-04-16T16:19:15Z'}]"
+,,,,ORD-000328,FedEx,TRK9598872,"[{'status': 'CREATED', 'time': '2023-01-12T20:59:02Z'}, {'status': 'PICKED_UP', 'time': '2023-01-13T02:59:02Z'}]",
+,DHL,730968306,,,,,,"[{'status': 'CREATED', 'time': '2023-02-16T07:33:12Z'}]"
+,DHL,152601697,,,,,,"[{'status': 'CREATED', 'time': '2023-04-19T08:17:58Z'}]"
+ORD-000403,DHL,TRK-794fa33d9c8d,"[{'status': 'CREATED', 'time': '2023-07-15T11:33:17Z'}, {'status': 'PICKED_UP', 'time': '2023-07-17T07:33:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-18T18:33:17Z'}, {'status': 'DELIVERED', 'time': '2023-07-20 03:33'}]",,,,,
+,,,,ORD-000174,Local,TRK7731559,"[{'status': 'CREATED', 'time': '2023-09-19T16:24:08Z'}, {'status': 'PICKED_UP', 'time': '2023-09-20T00:24:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-20T23:24:08Z'}, {'status': 'DELIVERED', 'time': '2023-09-22 18:24'}]",
+,,,,ORD-000627,Local,TRK3805798,"[{'status': 'CREATED', 'time': '2023-01-13T16:34:35Z'}, {'status': 'PICKED_UP', 'time': '2023-01-15T08:34:35Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-17 06:34'}, {'status': 'DELIVERED', 'time': '2023-01-19T03:34:35Z'}]",
+ORD-000306,Local,TRK-f9f9064a909a,"[{'status': 'CREATED', 'time': '2023-05-19T13:27:43Z'}]",,,,,
+,,,,ORD-000942,Kwik,TRK9807052,"[{'status': 'CREATED', 'time': '2023-10-11T22:45:02Z'}, {'status': 'PICKED_UP', 'time': '2023-10-12T06:45:02Z'}]",
+,FedEx,381470951,,,,,,"[{'status': 'CREATED', 'time': '2023-07-04T00:35:43Z'}, {'status': 'PICKED_UP', 'time': '2023-07-06T00:35:43Z'}]"
+,,,,ORD-001044,Kwik,TRK4626565,"[{'status': 'CREATED', 'time': '2023-04-21T06:51:22Z'}, {'status': 'PICKED_UP', 'time': '2023-04-22 23:51'}, {'status': 'IN_TRANSIT', 'time': '2023-04-24T19:51:22Z'}, {'status': 'DELIVERED', 'time': '2023-04-25T18:51:22Z'}]",
+ORD-001100,DHL,TRK-fa339d4af995,"[{'status': 'CREATED', 'time': '2023-05-27T10:09:18Z'}, {'status': 'PICKED_UP', 'time': '2023-05-27T19:09:18Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-28 06:09'}, {'status': 'DELIVERED', 'time': '2023-05-28T13:09:18Z'}]",,,,,
+,,,,ORD-000779,DHL,TRK8050267,"[{'status': 'CREATED', 'time': '2023-06-16T17:36:39Z'}]",
+,Local,613667541,,,,,,"[{'status': 'CREATED', 'time': '2023-03-17T07:59:50Z'}, {'status': 'PICKED_UP', 'time': '2023-03-19T01:59:50Z'}]"
+ORD-001141,Kwik,TRK-e067e9a31fdf,"[{'status': 'CREATED', 'time': '2023-01-17T20:09:01Z'}, {'status': 'PICKED_UP', 'time': '2023-01-19 20:09'}, {'status': 'IN_TRANSIT', 'time': '2023-01-20T21:09:01Z'}]",,,,,
+ORD-000679,Local,TRK-b3dc8dcd3ce1,"[{'status': 'IN_TRANSIT', 'time': '2023-06-15T05:32:43Z'}, {'status': 'DELIVERED', 'time': '2023-06-15T14:32:43Z'}]",,,,,
+,,,,ORD-000323,GIG,TRK3139677,"[{'status': 'CREATED', 'time': '2023-08-19T12:29:47Z'}, {'status': 'PICKED_UP', 'time': '2023-08-20T04:29:47Z'}]",
+,Kwik,108670337,,,,,,"[{'status': 'CREATED', 'time': '2023-03-29T03:07:59Z'}]"
+,FedEx,843805880,,,,,,"[{'status': 'CREATED', 'time': '2023-09-12T01:58:14Z'}, {'status': 'PICKED_UP', 'time': '2023-09-13T20:58:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-14T18:58:14Z'}]"
+,GIG,818674008,,,,,,"[{'status': 'CREATED', 'time': '2023-07-08T00:22:27Z'}]"
+ORD-000617,Kwik,TRK-0a3e843046b7,"[{'status': 'CREATED', 'time': '2023-04-28T22:04:04Z'}, {'status': 'PICKED_UP', 'time': '2023-04-30T20:04:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-02T18:04:04Z'}]",,,,,
+,FedEx,791116144,,,,,,"[{'status': 'CREATED', 'time': '2023-02-26T08:37:44Z'}, {'status': 'PICKED_UP', 'time': '2023-02-26 12:37'}, {'status': 'IN_TRANSIT', 'time': '2023-02-27T02:37:44Z'}, {'status': 'DELIVERED', 'time': '2023-03-01 00:37'}]"
+,,,,ORD-000722,Local,TRK6291925,"[{'status': 'CREATED', 'time': '2023-03-15T23:52:14Z'}, {'status': 'PICKED_UP', 'time': '2023-03-17T11:52:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-18 18:52'}]",
+ORD-000665,DHL,TRK-36327602b766,"[{'status': 'CREATED', 'time': '2023-06-06T20:48:25Z'}, {'status': 'PICKED_UP', 'time': '2023-06-07T15:48:25Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-07T23:48:25Z'}]",,,,,
+,,,,ORD-000033,DHL,TRK2791877,"[{'status': 'CREATED', 'time': '2023-02-28T06:57:03Z'}, {'status': 'PICKED_UP', 'time': '2023-03-01T23:57:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-02 18:57'}, {'status': 'DELIVERED', 'time': '2023-03-03T05:57:03Z'}]",
+ORD-001075,Kwik,TRK-2aa50672c9bc,"[{'status': 'CREATED', 'time': '2023-07-17T19:17:17Z'}, {'status': 'PICKED_UP', 'time': '2023-07-18 10:17'}, {'status': 'IN_TRANSIT', 'time': '2023-07-20T04:17:17Z'}, {'status': 'DELIVERED', 'time': '2023-07-21T05:17:17Z'}]",,,,,
+,DHL,302563717,,,,,,"[{'status': 'CREATED', 'time': '2023-05-01 00:31'}]"
+,,,,ORD-000614,GIG,TRK3070990,"[{'status': 'CREATED', 'time': '2023-05-25T13:20:57Z'}, {'status': 'DELIVERED', 'time': '2023-05-26 12:20'}, {'status': 'IN_TRANSIT', 'time': '2023-05-27T08:20:57Z'}, {'status': 'PICKED_UP', 'time': '2023-05-27T20:20:57Z'}]",
+,,,,ORD-000473,DHL,TRK9224047,"[{'status': 'CREATED', 'time': '2023-10-05 01:48'}, {'status': 'PICKED_UP', 'time': '2023-10-05T13:48:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-06T06:48:49Z'}]",
+,,,,ORD-000171,Kwik,TRK8923617,"[{'status': 'CREATED', 'time': '2023-04-07T16:00:19Z'}, {'status': 'PICKED_UP', 'time': '2023-04-07 21:00'}, {'status': 'IN_TRANSIT', 'time': '2023-04-09 14:00'}]",
+,Local,182669263,,,,,,"[{'status': 'CREATED', 'time': '2023-09-15 19:12'}]"
+,,,,ORD-000106,DHL,TRK3859793,"[{'status': 'CREATED', 'time': '2023-08-14T02:11:16Z'}, {'status': 'PICKED_UP', 'time': '2023-08-14T08:11:16Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-14 15:11'}]",
+,,,,ORD-000339,Local,TRK1698018,"[{'status': 'CREATED', 'time': '2023-09-04T23:59:39Z'}]",
+,,,,ORD-000692,GIG,TRK4663001,"[{'status': 'CREATED', 'time': '2023-04-10T05:59:46Z'}]",
+,,,,ORD-000404,DHL,TRK6515328,"[{'status': 'CREATED', 'time': '2023-06-02T08:19:03Z'}, {'status': 'PICKED_UP', 'time': '2023-06-03 07:19'}, {'status': 'IN_TRANSIT', 'time': '2023-06-04 23:19'}]",
+,GIG,707544198,,,,,,"[{'status': 'CREATED', 'time': '2023-10-24T00:33:33Z'}, {'status': 'PICKED_UP', 'time': '2023-10-24T08:33:33Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-26T08:33:33Z'}]"
+,Local,224707833,,,,,,"[{'status': 'CREATED', 'time': '2023-05-09T17:18:15Z'}, {'status': 'PICKED_UP', 'time': '2023-05-10T05:18:15Z'}]"
+,Kwik,107344227,,,,,,"[{'status': 'CREATED', 'time': '2023-04-22T15:03:32Z'}, {'status': 'PICKED_UP', 'time': '2023-04-23T00:03:32Z'}]"
+ORD-000173,GIG,TRK-b0c863c048c4,"[{'status': 'CREATED', 'time': '2023-11-14 20:38'}, {'status': 'PICKED_UP', 'time': '2023-11-16T11:38:21Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-16T20:38:21Z'}]",,,,,
+,,,,ORD-000845,DHL,TRK2813157,"[{'status': 'CREATED', 'time': '2023-03-02 05:51'}]",
+,,,,ORD-000923,Kwik,TRK6154357,"[{'status': 'CREATED', 'time': '2023-12-14 08:40'}]",
+,FedEx,590766724,,,,,,"[{'status': 'CREATED', 'time': '2023-07-17T03:07:50Z'}, {'status': 'PICKED_UP', 'time': '2023-07-17T09:07:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-17T20:07:50Z'}, {'status': 'DELIVERED', 'time': '2023-07-19T12:07:50Z'}]"
+,Local,802905154,,,,,,"[{'status': 'CREATED', 'time': '2023-02-10T07:40:09Z'}, {'status': 'PICKED_UP', 'time': '2023-02-11T21:40:09Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-12T19:40:09Z'}, {'status': 'DELIVERED', 'time': '2023-02-13 06:40'}]"
+ORD-000053,FedEx,TRK-39a62c795076,"[{'status': 'CREATED', 'time': '2023-02-09 02:54'}, {'status': 'PICKED_UP', 'time': '2023-02-09T17:54:41Z'}]",,,,,
+ORD-001093,GIG,TRK-5ed48fcaf6be,"[{'status': 'CREATED', 'time': '2023-12-13T01:24:33Z'}, {'status': 'PICKED_UP', 'time': '2023-12-15 00:24'}]",,,,,
+,GIG,436225854,,,,,,"[{'status': 'CREATED', 'time': '2023-12-08T14:48:11Z'}, {'status': 'PICKED_UP', 'time': '2023-12-08T21:48:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-09T09:48:11Z'}]"
+,,,,ORD-000506,DHL,TRK6216653,"[{'status': 'CREATED', 'time': '2023-03-04 23:17'}, {'status': 'PICKED_UP', 'time': '2023-03-06T05:17:51Z'}]",
+,Local,629884390,,,,,,"[{'status': 'CREATED', 'time': '2023-12-25 13:02'}, {'status': 'PICKED_UP', 'time': '2023-12-27T09:02:44Z'}]"
+,GIG,952005232,,,,,,"[{'status': 'CREATED', 'time': '2023-06-04 22:57'}, {'status': 'PICKED_UP', 'time': '2023-06-06T07:57:46Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-06T17:57:46Z'}, {'status': 'DELIVERED', 'time': '2023-06-07T23:57:46Z'}]"
+,Kwik,178428868,,,,,,"[{'status': 'CREATED', 'time': '2023-01-21T17:25:45Z'}]"
+,Kwik,169504888,,,,,,"[{'status': 'CREATED', 'time': '2023-09-19T21:48:41Z'}, {'status': 'PICKED_UP', 'time': '2023-09-21 04:48'}, {'status': 'IN_TRANSIT', 'time': '2023-09-21T14:48:41Z'}, {'status': 'DELIVERED', 'time': '2023-09-22T03:48:41Z'}]"
+,GIG,723768951,,,,,,"[{'status': 'CREATED', 'time': '2023-11-13 06:24'}, {'status': 'PICKED_UP', 'time': '2023-11-14 11:24'}]"
+,,,,ORD-001129,Local,TRK4199823,"[{'status': 'CREATED', 'time': '2023-10-01T10:05:52Z'}, {'status': 'PICKED_UP', 'time': '2023-10-02T23:05:52Z'}]",
+,FedEx,891985245,,,,,,"[{'status': 'CREATED', 'time': '2023-03-17T17:48:35Z'}, {'status': 'PICKED_UP', 'time': '2023-03-18T22:48:35Z'}]"
+,,,,ORD-000082,Local,TRK7160857,"[{'status': 'CREATED', 'time': '2023-03-13 10:44'}, {'status': 'PICKED_UP', 'time': '2023-03-14T02:44:21Z'}]",
+ORD-001186,GIG,TRK-e83b561017fa,"[{'status': 'CREATED', 'time': '2023-01-30T08:41:05Z'}]",,,,,
+,DHL,632166023,,,,,,"[{'status': 'CREATED', 'time': '2023-03-18T04:49:32Z'}, {'status': 'PICKED_UP', 'time': '2023-03-18T09:49:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-19 17:49'}]"
+,,,,ORD-000982,Kwik,TRK8651561,"[{'status': 'CREATED', 'time': '2023-01-05T05:08:07Z'}, {'status': 'PICKED_UP', 'time': '2023-01-06 22:08'}, {'status': 'IN_TRANSIT', 'time': '2023-01-08T01:08:07Z'}]",
+,Kwik,693183260,,,,,,"[{'status': 'CREATED', 'time': '2023-06-11T20:47:10Z'}, {'status': 'PICKED_UP', 'time': '2023-06-11 22:47'}, {'status': 'IN_TRANSIT', 'time': '2023-06-13T13:47:10Z'}, {'status': 'DELIVERED', 'time': '2023-06-15 06:47'}]"
+,GIG,860189923,,,,,,"[{'status': 'CREATED', 'time': '2023-05-20 22:04'}, {'status': 'PICKED_UP', 'time': '2023-05-22T13:04:54Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-22T21:04:54Z'}]"
+,GIG,808076008,,,,,,"[{'status': 'CREATED', 'time': '2023-05-08T11:38:47Z'}]"
+ORD-000726,DHL,TRK-58a2a93da3a9,"[{'status': 'DELIVERED', 'time': '2023-12-25T22:43:22Z'}]",,,,,
+,,,,ORD-000472,GIG,TRK3359997,"[{'status': 'CREATED', 'time': '2023-04-02T01:57:42Z'}, {'status': 'PICKED_UP', 'time': '2023-04-03 00:57'}, {'status': 'IN_TRANSIT', 'time': '2023-04-03T18:57:42Z'}, {'status': 'DELIVERED', 'time': '2023-04-04T11:57:42Z'}]",
+,,,,ORD-000486,GIG,TRK4631920,"[{'status': 'CREATED', 'time': '2023-02-23 12:50'}, {'status': 'PICKED_UP', 'time': '2023-02-24 19:50'}, {'status': 'IN_TRANSIT', 'time': '2023-02-24 23:50'}, {'status': 'DELIVERED', 'time': '2023-02-25 13:50'}]",
+ORD-001117,Local,TRK-9226c9baa6cc,"[{'status': 'CREATED', 'time': '2023-02-25 19:13'}]",,,,,
+,,,,ORD-000472,GIG,TRK8402708,"[{'status': 'CREATED', 'time': '2023-12-03 03:29'}, {'status': 'PICKED_UP', 'time': '2023-12-04 01:29'}, {'status': 'IN_TRANSIT', 'time': '2023-12-04T10:29:10Z'}]",
+,Kwik,751037084,,,,,,"[{'status': 'CREATED', 'time': '2023-06-15 16:41'}, {'status': 'PICKED_UP', 'time': '2023-06-16T07:41:09Z'}]"
+ORD-000422,GIG,TRK-1c5a4dc1d499,"[{'status': 'CREATED', 'time': '2023-02-12T06:07:03Z'}]",,,,,
+,,,,ORD-000111,Local,TRK2602639,"[{'status': 'CREATED', 'time': '2023-10-13 21:45'}, {'status': 'PICKED_UP', 'time': '2023-10-15 18:45'}, {'status': 'IN_TRANSIT', 'time': '2023-10-15T21:45:54Z'}]",
+ORD-001044,DHL,TRK-ba5c33232399,"[{'status': 'CREATED', 'time': '2023-04-06 14:09'}, {'status': 'PICKED_UP', 'time': '2023-04-08T11:09:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-08T15:09:28Z'}, {'status': 'DELIVERED', 'time': '2023-04-10T01:09:28Z'}]",,,,,
+ORD-000518,FedEx,TRK-072cc8d6041a,"[{'status': 'CREATED', 'time': '2023-07-31T16:11:57Z'}]",,,,,
+,,,,ORD-000129,DHL,TRK4516914,"[{'status': 'CREATED', 'time': '2023-09-06 04:06'}, {'status': 'PICKED_UP', 'time': '2023-09-06T18:06:18Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-07T00:06:18Z'}, {'status': 'DELIVERED', 'time': '2023-09-08T16:06:18Z'}]",
+ORD-000263,Kwik,TRK-1a8d3a7f26e4,"[{'status': 'CREATED', 'time': '2023-04-21T14:45:40Z'}, {'status': 'PICKED_UP', 'time': '2023-04-22 05:45'}]",,,,,
+ORD-000626,DHL,TRK-b88a21753b0f,"[{'status': 'CREATED', 'time': '2023-02-10 19:45'}]",,,,,
+,,,,ORD-000603,GIG,TRK6640972,"[{'status': 'IN_TRANSIT', 'time': '2023-01-02T03:07:19Z'}]",
+,,,,ORD-000751,Local,TRK6995182,"[{'status': 'CREATED', 'time': '2023-10-17T19:45:18Z'}, {'status': 'PICKED_UP', 'time': '2023-10-19 03:45'}, {'status': 'IN_TRANSIT', 'time': '2023-10-19T14:45:18Z'}, {'status': 'DELIVERED', 'time': '2023-10-20T00:45:18Z'}]",
+,Local,914438043,,,,,,"[{'status': 'CREATED', 'time': '2023-07-01T16:09:01Z'}, {'status': 'PICKED_UP', 'time': '2023-07-01 22:09'}]"
+,FedEx,804677199,,,,,,"[{'status': 'CREATED', 'time': '2023-08-05T13:35:46Z'}, {'status': 'PICKED_UP', 'time': '2023-08-06 21:35'}, {'status': 'IN_TRANSIT', 'time': '2023-08-07 22:35'}, {'status': 'DELIVERED', 'time': '2023-08-08T13:35:46Z'}]"
+ORD-000157,FedEx,TRK-0680b0fdaeb1,"[{'status': 'CREATED', 'time': '2023-11-04T00:47:09Z'}, {'status': 'PICKED_UP', 'time': '2023-11-05T14:47:09Z'}]",,,,,
+ORD-000330,DHL,TRK-3977e342a4d1,"[{'status': 'CREATED', 'time': '2023-04-19T15:40:40Z'}, {'status': 'PICKED_UP', 'time': '2023-04-21T06:40:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-22 05:40'}, {'status': 'DELIVERED', 'time': '2023-04-23 09:40'}]",,,,,
+,Kwik,881592059,,,,,,"[{'status': 'CREATED', 'time': '2023-03-30 06:44'}, {'status': 'PICKED_UP', 'time': '2023-03-30T09:44:25Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-01T00:44:25Z'}]"
+ORD-000083,Local,TRK-ffae35f92df4,"[{'status': 'CREATED', 'time': '2023-09-02 15:16'}]",,,,,
+,GIG,810467992,,,,,,"[{'status': 'CREATED', 'time': '2023-03-18T08:08:52Z'}]"
+,Local,305313904,,,,,,"[{'status': 'CREATED', 'time': '2023-02-25 05:50'}]"
+,DHL,250616480,,,,,,"[{'status': 'CREATED', 'time': '2023-03-14T12:53:23Z'}, {'status': 'PICKED_UP', 'time': '2023-03-14 15:53'}, {'status': 'IN_TRANSIT', 'time': '2023-03-15T07:53:23Z'}, {'status': 'DELIVERED', 'time': '2023-03-16 11:53'}]"
+,Kwik,299620843,,,,,,"[{'status': 'CREATED', 'time': '2023-07-02T10:30:26Z'}]"
+,Kwik,915314833,,,,,,"[{'status': 'CREATED', 'time': '2023-12-16T12:03:13Z'}, {'status': 'PICKED_UP', 'time': '2023-12-17 11:03'}, {'status': 'IN_TRANSIT', 'time': '2023-12-19T08:03:13Z'}]"
+,,,,ORD-000074,GIG,TRK2775920,"[{'status': 'CREATED', 'time': '2023-10-24 14:56'}, {'status': 'PICKED_UP', 'time': '2023-10-26T01:56:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-27 16:56'}, {'status': 'DELIVERED', 'time': '2023-10-28T04:56:44Z'}]",
+,GIG,416802330,,,,,,"[{'status': 'CREATED', 'time': '2023-01-17T21:42:08Z'}, {'status': 'PICKED_UP', 'time': '2023-01-18T16:42:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-20T09:42:08Z'}, {'status': 'DELIVERED', 'time': '2023-01-20 15:42'}]"
+ORD-000825,Kwik,TRK-62886c6c7690,"[{'status': 'CREATED', 'time': '2023-09-26T14:23:41Z'}, {'status': 'PICKED_UP', 'time': '2023-09-26 16:23'}, {'status': 'IN_TRANSIT', 'time': '2023-09-27T11:23:41Z'}, {'status': 'DELIVERED', 'time': '2023-09-27 14:23'}]",,,,,
+,,,,ORD-001131,FedEx,TRK1994790,"[{'status': 'CREATED', 'time': '2023-06-09T22:48:12Z'}, {'status': 'PICKED_UP', 'time': '2023-06-10T17:48:12Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-11T22:48:12Z'}, {'status': 'DELIVERED', 'time': '2023-06-12T18:48:12Z'}]",
+,Kwik,597404403,,,,,,"[{'status': 'CREATED', 'time': '2023-08-02 10:27'}, {'status': 'PICKED_UP', 'time': '2023-08-02T19:27:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-04 02:27'}, {'status': 'DELIVERED', 'time': '2023-08-04T18:27:11Z'}]"
+,Local,708054280,,,,,,"[{'status': 'CREATED', 'time': '2023-04-21T21:52:04Z'}, {'status': 'PICKED_UP', 'time': '2023-04-22T07:52:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-23T09:52:04Z'}]"
+,GIG,651287387,,,,,,"[{'status': 'CREATED', 'time': '2023-12-15T08:22:02Z'}, {'status': 'PICKED_UP', 'time': '2023-12-15T23:22:02Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-16T04:22:02Z'}]"
+,,,,ORD-000208,Local,TRK3033599,"[{'status': 'CREATED', 'time': '2023-06-23T08:37:57Z'}, {'status': 'PICKED_UP', 'time': '2023-06-24T15:37:57Z'}]",
+,Kwik,363132261,,,,,,"[{'status': 'CREATED', 'time': '2023-03-17 15:18'}]"
+ORD-000279,Kwik,TRK-0b58f97c6f13,"[{'status': 'CREATED', 'time': '2023-02-04T10:29:35Z'}, {'status': 'PICKED_UP', 'time': '2023-02-05T11:29:35Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-05T20:29:35Z'}]",,,,,
+,,,,ORD-000166,FedEx,TRK5543468,"[{'status': 'CREATED', 'time': '2023-01-23 19:03'}]",
+,Kwik,325469608,,,,,,"[{'status': 'CREATED', 'time': '2023-11-25 10:10'}, {'status': 'PICKED_UP', 'time': '2023-11-26T18:10:21Z'}]"
+ORD-000779,DHL,TRK-79a9430399d8,"[{'status': 'CREATED', 'time': '2023-05-05T05:53:58Z'}]",,,,,
+,,,,ORD-000150,DHL,TRK3307012,"[{'status': 'CREATED', 'time': '2023-04-11T12:11:29Z'}]",
+,,,,ORD-000057,Kwik,TRK5442243,"[{'status': 'CREATED', 'time': '2023-01-06T14:56:10Z'}, {'status': 'PICKED_UP', 'time': '2023-01-07T05:56:10Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-07T09:56:10Z'}, {'status': 'DELIVERED', 'time': '2023-01-07T19:56:10Z'}]",
+,GIG,439262602,,,,,,"[{'status': 'CREATED', 'time': '2023-12-04T00:44:30Z'}, {'status': 'PICKED_UP', 'time': '2023-12-04 17:44'}, {'status': 'IN_TRANSIT', 'time': '2023-12-05 18:44'}, {'status': 'DELIVERED', 'time': '2023-12-07T07:44:30Z'}]"
+ORD-000870,DHL,TRK-7d50f29931e9,"[{'status': 'CREATED', 'time': '2023-02-19T21:54:27Z'}, {'status': 'PICKED_UP', 'time': '2023-02-21T14:54:27Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-23T07:54:27Z'}, {'status': 'DELIVERED', 'time': '2023-02-23T18:54:27Z'}]",,,,,
+,,,,ORD-001094,GIG,TRK7186497,"[{'status': 'CREATED', 'time': '2023-11-28 18:04'}, {'status': 'PICKED_UP', 'time': '2023-11-29T16:04:02Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-30T03:04:02Z'}]",
+,GIG,243415845,,,,,,"[{'status': 'CREATED', 'time': '2023-02-12 23:20'}, {'status': 'PICKED_UP', 'time': '2023-02-14T19:20:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-14T23:20:19Z'}]"
+,,,,ORD-000400,Kwik,TRK3875528,"[{'status': 'CREATED', 'time': '2023-08-05T14:28:14Z'}, {'status': 'PICKED_UP', 'time': '2023-08-07T12:28:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-09 08:28'}]",
+,FedEx,967900379,,,,,,"[{'status': 'DELIVERED', 'time': '2023-01-14 03:02'}, {'status': 'IN_TRANSIT', 'time': '2023-01-15T13:02:31Z'}, {'status': 'CREATED', 'time': '2023-01-17 10:02'}]"
+,,,,ORD-000434,Kwik,TRK5786107,"[{'status': 'CREATED', 'time': '2023-04-12T16:21:27Z'}, {'status': 'PICKED_UP', 'time': '2023-04-14 15:21'}, {'status': 'IN_TRANSIT', 'time': '2023-04-16T00:21:27Z'}]",
+,DHL,515035686,,,,,,"[{'status': 'CREATED', 'time': '2023-06-02T08:53:41Z'}, {'status': 'PICKED_UP', 'time': '2023-06-03T13:53:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-03T18:53:41Z'}]"
+,Kwik,961491873,,,,,,"[{'status': 'CREATED', 'time': '2023-12-07T20:18:37Z'}, {'status': 'PICKED_UP', 'time': '2023-12-09T16:18:37Z'}]"
+,,,,ORD-000426,FedEx,TRK1347249,"[{'status': 'CREATED', 'time': '2023-07-01T05:05:22Z'}, {'status': 'PICKED_UP', 'time': '2023-07-03 00:05'}]",
+ORD-001194,Kwik,TRK-fe59564290ad,"[{'status': 'IN_TRANSIT', 'time': '2023-02-24T09:13:29Z'}]",,,,,
+,,,,ORD-000519,Local,TRK4733815,"[{'status': 'CREATED', 'time': '2023-10-12T02:42:32Z'}, {'status': 'PICKED_UP', 'time': '2023-10-13T07:42:32Z'}]",
+,DHL,858772079,,,,,,"[{'status': 'CREATED', 'time': '2023-10-17T20:52:31Z'}, {'status': 'PICKED_UP', 'time': '2023-10-18 23:52'}, {'status': 'IN_TRANSIT', 'time': '2023-10-20T00:52:31Z'}]"
+,,,,ORD-000977,Kwik,TRK1985114,"[{'status': 'CREATED', 'time': '2023-03-20T09:10:32Z'}]",
+,FedEx,697871037,,,,,,"[{'status': 'CREATED', 'time': '2023-09-23T23:45:50Z'}, {'status': 'PICKED_UP', 'time': '2023-09-25T10:45:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-26 05:45'}]"
+,,,,ORD-001174,Kwik,TRK6639212,"[{'status': 'CREATED', 'time': '2023-03-03T16:26:45Z'}, {'status': 'PICKED_UP', 'time': '2023-03-04T10:26:45Z'}]",
+,GIG,879158412,,,,,,"[{'status': 'CREATED', 'time': '2023-09-30 07:52'}, {'status': 'PICKED_UP', 'time': '2023-10-02T07:52:59Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-02T16:52:59Z'}]"
+,,,,ORD-000224,GIG,TRK5695265,"[{'status': 'CREATED', 'time': '2023-10-05 10:14'}, {'status': 'PICKED_UP', 'time': '2023-10-06 16:14'}, {'status': 'IN_TRANSIT', 'time': '2023-10-08T03:14:10Z'}]",
+ORD-000049,FedEx,TRK-fa92ac0b3dcc,"[{'status': 'CREATED', 'time': '2023-03-26 15:53'}, {'status': 'PICKED_UP', 'time': '2023-03-27T23:53:17Z'}]",,,,,
+,,,,ORD-000837,Kwik,TRK7533697,"[{'status': 'CREATED', 'time': '2023-10-04 17:15'}]",
+,Local,185314257,,,,,,"[{'status': 'CREATED', 'time': '2023-05-24T21:48:08Z'}]"
+ORD-000252,GIG,TRK-d34546a9fccc,"[{'status': 'CREATED', 'time': '2023-05-18 23:14'}]",,,,,
+,GIG,574973335,,,,,,"[{'status': 'IN_TRANSIT', 'time': '2023-08-24T20:18:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-26 07:18'}]"
+,,,,ORD-000861,FedEx,TRK4246832,"[{'status': 'CREATED', 'time': '2023-07-08T17:05:02Z'}, {'status': 'PICKED_UP', 'time': '2023-07-10T15:05:02Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-11 07:05'}]",
+,DHL,248126356,,,,,,"[{'status': 'CREATED', 'time': '2023-06-22T16:26:23Z'}, {'status': 'PICKED_UP', 'time': '2023-06-23T16:26:23Z'}]"
+ORD-000777,FedEx,TRK-96e29586d4e8,"[{'status': 'CREATED', 'time': '2023-07-10T10:29:39Z'}, {'status': 'PICKED_UP', 'time': '2023-07-12T04:29:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-14T02:29:39Z'}, {'status': 'DELIVERED', 'time': '2023-07-15T16:29:39Z'}]",,,,,
+ORD-000704,GIG,TRK-798eddccaf43,"[{'status': 'CREATED', 'time': '2023-12-07T15:44:08Z'}, {'status': 'PICKED_UP', 'time': '2023-12-08 00:44'}, {'status': 'IN_TRANSIT', 'time': '2023-12-09T00:44:08Z'}, {'status': 'DELIVERED', 'time': '2023-12-10T13:44:08Z'}]",,,,,
+,GIG,213226432,,,,,,"[{'status': 'IN_TRANSIT', 'time': '2023-06-27T07:54:23Z'}, {'status': 'CREATED', 'time': '2023-06-27T23:54:23Z'}]"
+,DHL,923767351,,,,,,"[{'status': 'CREATED', 'time': '2023-07-05 18:45'}, {'status': 'PICKED_UP', 'time': '2023-07-06T15:45:24Z'}]"
+,Local,163127598,,,,,,"[{'status': 'CREATED', 'time': '2023-09-27T03:19:53Z'}, {'status': 'PICKED_UP', 'time': '2023-09-29T01:19:53Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-29T12:19:53Z'}, {'status': 'DELIVERED', 'time': '2023-10-01T11:19:53Z'}]"
+ORD-000967,GIG,TRK-e2aaaa6b6de3,"[{'status': 'CREATED', 'time': '2023-03-10T20:48:48Z'}]",,,,,
+,DHL,241094925,,,,,,"[{'status': 'CREATED', 'time': '2023-08-16T15:28:24Z'}, {'status': 'PICKED_UP', 'time': '2023-08-18T10:28:24Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-20T00:28:24Z'}]"
+ORD-000481,FedEx,TRK-d03f333b938f,"[{'status': 'CREATED', 'time': '2023-01-31T23:39:02Z'}, {'status': 'PICKED_UP', 'time': '2023-02-02 06:39'}, {'status': 'IN_TRANSIT', 'time': '2023-02-02T15:39:02Z'}]",,,,,
+ORD-000061,FedEx,TRK-66fd26850c92,"[{'status': 'CREATED', 'time': '2023-03-07 01:48'}, {'status': 'DELIVERED', 'time': '2023-03-07 21:48'}]",,,,,
+ORD-000689,FedEx,TRK-a6ccc75e3e46,"[{'status': 'CREATED', 'time': '2023-03-08 09:59'}, {'status': 'PICKED_UP', 'time': '2023-03-08T14:59:25Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-10T08:59:25Z'}]",,,,,
+,Kwik,764230655,,,,,,"[{'status': 'CREATED', 'time': '2023-10-01T23:41:52Z'}, {'status': 'PICKED_UP', 'time': '2023-10-02T01:41:52Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-03 15:41'}, {'status': 'DELIVERED', 'time': '2023-10-04T12:41:52Z'}]"
+ORD-000897,GIG,TRK-93be850cf830,"[{'status': 'CREATED', 'time': '2023-12-18T17:19:24Z'}, {'status': 'PICKED_UP', 'time': '2023-12-19T20:19:24Z'}]",,,,,
+,,,,ORD-001028,GIG,TRK1660353,"[{'status': 'CREATED', 'time': '2023-05-13T01:47:48Z'}]",
+ORD-000632,GIG,TRK-80ef90d557ea,"[{'status': 'CREATED', 'time': '2023-09-11 20:33'}, {'status': 'PICKED_UP', 'time': '2023-09-13 17:33'}, {'status': 'IN_TRANSIT', 'time': '2023-09-14 11:33'}]",,,,,
+,,,,ORD-000218,FedEx,TRK8535192,"[{'status': 'CREATED', 'time': '2023-12-08 01:49'}, {'status': 'PICKED_UP', 'time': '2023-12-09 17:49'}, {'status': 'IN_TRANSIT', 'time': '2023-12-11 07:49'}, {'status': 'DELIVERED', 'time': '2023-12-11T15:49:31Z'}]",
+ORD-000526,DHL,TRK-42d56748ba13,"[{'status': 'CREATED', 'time': '2023-06-23 10:11'}, {'status': 'PICKED_UP', 'time': '2023-06-24T11:11:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-25T17:11:41Z'}, {'status': 'DELIVERED', 'time': '2023-06-25 23:11'}]",,,,,
+,,,,ORD-000112,FedEx,TRK6318899,"[{'status': 'CREATED', 'time': '2023-09-09 04:42'}, {'status': 'PICKED_UP', 'time': '2023-09-10 00:42'}, {'status': 'IN_TRANSIT', 'time': '2023-09-11T10:42:08Z'}, {'status': 'DELIVERED', 'time': '2023-09-12T03:42:08Z'}]",
+,,,,ORD-000444,GIG,TRK2837351,"[{'status': 'CREATED', 'time': '2023-07-04T01:58:22Z'}]",
+,FedEx,686887768,,,,,,"[{'status': 'CREATED', 'time': '2023-04-15T23:01:06Z'}, {'status': 'PICKED_UP', 'time': '2023-04-16 10:01'}, {'status': 'IN_TRANSIT', 'time': '2023-04-17 04:01'}]"
+,,,,ORD-000030,GIG,TRK7525972,"[{'status': 'CREATED', 'time': '2023-06-22T08:47:13Z'}]",
+ORD-000706,GIG,TRK-457945ed5502,"[{'status': 'CREATED', 'time': '2023-11-10T00:19:28Z'}, {'status': 'PICKED_UP', 'time': '2023-11-11 05:19'}, {'status': 'IN_TRANSIT', 'time': '2023-11-12T20:19:28Z'}, {'status': 'DELIVERED', 'time': '2023-11-13 01:19'}]",,,,,
+,,,,ORD-000326,GIG,TRK5180346,"[{'status': 'CREATED', 'time': '2023-03-23T06:53:44Z'}, {'status': 'PICKED_UP', 'time': '2023-03-24 08:53'}, {'status': 'IN_TRANSIT', 'time': '2023-03-24 21:53'}]",
+ORD-000010,GIG,TRK-1c39d87c8301,"[{'status': 'CREATED', 'time': '2023-08-05 00:17'}, {'status': 'PICKED_UP', 'time': '2023-08-06 00:17'}, {'status': 'IN_TRANSIT', 'time': '2023-08-06T09:17:38Z'}]",,,,,
+ORD-000625,Local,TRK-3cf1b280c80b,"[{'status': 'CREATED', 'time': '2023-05-13T06:56:13Z'}, {'status': 'PICKED_UP', 'time': '2023-05-15 06:56'}, {'status': 'IN_TRANSIT', 'time': '2023-05-16 05:56'}, {'status': 'DELIVERED', 'time': '2023-05-17T17:56:13Z'}]",,,,,
+,GIG,982416447,,,,,,"[{'status': 'CREATED', 'time': '2023-03-22T14:45:56Z'}]"
+,,,,ORD-000831,Kwik,TRK8445869,"[{'status': 'CREATED', 'time': '2023-09-13T11:55:15Z'}, {'status': 'PICKED_UP', 'time': '2023-09-15 11:55'}]",
+ORD-000904,GIG,TRK-ac7185b75810,"[{'status': 'CREATED', 'time': '2023-10-15T04:26:17Z'}, {'status': 'PICKED_UP', 'time': '2023-10-16T13:26:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-17T15:26:17Z'}, {'status': 'DELIVERED', 'time': '2023-10-18 10:26'}]",,,,,
+ORD-000912,Kwik,TRK-729902706433,"[{'status': 'CREATED', 'time': '2023-01-21 01:15'}, {'status': 'PICKED_UP', 'time': '2023-01-22T21:15:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-23 18:15'}]",,,,,
+,,,,ORD-000404,Kwik,TRK9019666,"[{'status': 'CREATED', 'time': '2023-08-08T09:53:40Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09T11:53:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-11T09:53:40Z'}, {'status': 'DELIVERED', 'time': '2023-08-11 22:53'}]",
+,,,,ORD-001004,Local,TRK8333769,"[{'status': 'CREATED', 'time': '2023-11-21 00:59'}]",
+ORD-000879,GIG,TRK-9c8a0f232524,"[{'status': 'CREATED', 'time': '2023-07-24 19:35'}, {'status': 'PICKED_UP', 'time': '2023-07-25T16:35:17Z'}]",,,,,
+,Local,604793890,,,,,,"[{'status': 'CREATED', 'time': '2023-05-22T03:52:06Z'}, {'status': 'PICKED_UP', 'time': '2023-05-24T03:52:06Z'}]"
+,,,,ORD-000355,Local,TRK9793825,"[{'status': 'CREATED', 'time': '2023-03-23T00:36:57Z'}, {'status': 'PICKED_UP', 'time': '2023-03-23T12:36:57Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-25T11:36:57Z'}]",
+ORD-000327,GIG,TRK-2bd3de01f560,"[{'status': 'CREATED', 'time': '2023-05-03 14:05'}]",,,,,
+,,,,ORD-000014,Kwik,TRK2853261,"[{'status': 'CREATED', 'time': '2023-10-07 17:44'}, {'status': 'PICKED_UP', 'time': '2023-10-08T17:44:12Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-10T01:44:12Z'}]",
+,Kwik,497910590,,,,,,"[{'status': 'CREATED', 'time': '2023-09-29T00:40:25Z'}, {'status': 'PICKED_UP', 'time': '2023-09-30T13:40:25Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-01T05:40:25Z'}, {'status': 'DELIVERED', 'time': '2023-10-01T13:40:25Z'}]"
+,Kwik,616102523,,,,,,"[{'status': 'CREATED', 'time': '2023-06-07 10:31'}, {'status': 'PICKED_UP', 'time': '2023-06-08 13:31'}, {'status': 'IN_TRANSIT', 'time': '2023-06-09 21:31'}, {'status': 'DELIVERED', 'time': '2023-06-10T23:31:48Z'}]"
+ORD-000808,Kwik,TRK-80dda658bc00,"[{'status': 'CREATED', 'time': '2023-08-08T17:30:47Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09 16:30'}, {'status': 'IN_TRANSIT', 'time': '2023-08-10T02:30:47Z'}]",,,,,
+,,,,ORD-000675,Local,TRK9306532,"[{'status': 'CREATED', 'time': '2023-12-27T21:17:29Z'}, {'status': 'PICKED_UP', 'time': '2023-12-29T11:17:29Z'}]",
+ORD-001084,Kwik,TRK-c7da3bfff0c7,"[{'status': 'CREATED', 'time': '2023-08-20T16:48:49Z'}, {'status': 'PICKED_UP', 'time': '2023-08-21T11:48:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-21T13:48:49Z'}, {'status': 'DELIVERED', 'time': '2023-08-23T10:48:49Z'}]",,,,,
+,,,,ORD-000084,Local,TRK8244310,"[{'status': 'CREATED', 'time': '2023-12-14T07:14:01Z'}, {'status': 'PICKED_UP', 'time': '2023-12-16T04:14:01Z'}]",
+ORD-000565,DHL,TRK-47768aa13388,"[{'status': 'CREATED', 'time': '2023-01-25T09:07:04Z'}, {'status': 'PICKED_UP', 'time': '2023-01-26T14:07:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-26T18:07:04Z'}, {'status': 'DELIVERED', 'time': '2023-01-27T01:07:04Z'}]",,,,,
+ORD-000398,DHL,TRK-0bb2b0ec2b06,"[{'status': 'CREATED', 'time': '2023-07-31T23:18:54Z'}, {'status': 'PICKED_UP', 'time': '2023-08-01 02:18'}]",,,,,
+,Kwik,468441783,,,,,,"[{'status': 'CREATED', 'time': '2023-04-13T19:53:38Z'}]"
+,,,,ORD-001072,GIG,TRK7913356,"[{'status': 'CREATED', 'time': '2023-05-06T00:35:22Z'}, {'status': 'PICKED_UP', 'time': '2023-05-07T14:35:22Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-08T13:35:22Z'}]",
+,,,,ORD-000937,FedEx,TRK2493042,"[{'status': 'CREATED', 'time': '2023-05-17T00:04:28Z'}, {'status': 'PICKED_UP', 'time': '2023-05-17 06:04'}, {'status': 'IN_TRANSIT', 'time': '2023-05-18 20:04'}, {'status': 'DELIVERED', 'time': '2023-05-19T10:04:28Z'}]",
+,,,,ORD-000495,Local,TRK6962643,"[{'status': 'CREATED', 'time': '2023-05-18T06:49:28Z'}, {'status': 'PICKED_UP', 'time': '2023-05-18T23:49:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-19 14:49'}, {'status': 'DELIVERED', 'time': '2023-05-21 02:49'}]",
+,,,,ORD-001101,DHL,TRK3058008,"[{'status': 'CREATED', 'time': '2023-09-17T18:40:25Z'}, {'status': 'PICKED_UP', 'time': '2023-09-18T05:40:25Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-20T02:40:25Z'}]",
+ORD-001195,FedEx,TRK-e6c6972f123a,"[{'status': 'CREATED', 'time': '2023-10-30 03:43'}, {'status': 'PICKED_UP', 'time': '2023-10-31T00:43:01Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-01 04:43'}, {'status': 'DELIVERED', 'time': '2023-11-01T16:43:01Z'}]",,,,,
+,,,,ORD-001100,Local,TRK1815567,"[{'status': 'CREATED', 'time': '2023-02-24 09:33'}, {'status': 'PICKED_UP', 'time': '2023-02-25 18:33'}, {'status': 'IN_TRANSIT', 'time': '2023-02-27T01:33:02Z'}, {'status': 'DELIVERED', 'time': '2023-02-28T09:33:02Z'}]",
+ORD-000186,GIG,TRK-cacfe125c1fb,"[{'status': 'CREATED', 'time': '2023-02-22 14:05'}, {'status': 'PICKED_UP', 'time': '2023-02-24 11:05'}, {'status': 'IN_TRANSIT', 'time': '2023-02-26T04:05:28Z'}, {'status': 'DELIVERED', 'time': '2023-02-28 04:05'}]",,,,,
+ORD-000019,FedEx,TRK-69da3f6ac09f,"[{'status': 'CREATED', 'time': '2023-07-30T03:24:42Z'}, {'status': 'PICKED_UP', 'time': '2023-07-31T04:24:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-01T18:24:42Z'}, {'status': 'DELIVERED', 'time': '2023-08-02 13:24'}]",,,,,
+,,,,ORD-000352,GIG,TRK4559078,"[{'status': 'CREATED', 'time': '2023-11-14T06:05:53Z'}, {'status': 'PICKED_UP', 'time': '2023-11-14T14:05:53Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-15T19:05:53Z'}]",
+ORD-000723,Local,TRK-b31a2386f4ae,"[{'status': 'CREATED', 'time': '2023-07-24T16:40:55Z'}, {'status': 'PICKED_UP', 'time': '2023-07-25T02:40:55Z'}]",,,,,
+,,,,ORD-000188,Kwik,TRK2099675,"[{'status': 'DELIVERED', 'time': '2023-01-07 13:05'}, {'status': 'IN_TRANSIT', 'time': '2023-01-09 05:05'}]",
+ORD-000561,Kwik,TRK-855577899c12,"[{'status': 'CREATED', 'time': '2023-01-26T06:14:54Z'}, {'status': 'PICKED_UP', 'time': '2023-01-27T06:14:54Z'}]",,,,,
+ORD-000756,Local,TRK-8414afa36e79,"[{'status': 'CREATED', 'time': '2023-10-23 20:24'}, {'status': 'PICKED_UP', 'time': '2023-10-25T06:24:17Z'}]",,,,,
+,Kwik,854415597,,,,,,"[{'status': 'IN_TRANSIT', 'time': '2023-11-04T20:40:46Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-06T13:40:46Z'}, {'status': 'CREATED', 'time': '2023-11-07T21:40:46Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-09T10:40:46Z'}]"
+ORD-000495,FedEx,TRK-70e2bfdcc566,"[{'status': 'CREATED', 'time': '2023-10-23T14:00:22Z'}, {'status': 'PICKED_UP', 'time': '2023-10-24T19:00:22Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-25T13:00:22Z'}, {'status': 'DELIVERED', 'time': '2023-10-25T19:00:22Z'}]",,,,,
+,,,,ORD-000732,FedEx,TRK7816358,"[{'status': 'CREATED', 'time': '2023-03-31 00:24'}, {'status': 'PICKED_UP', 'time': '2023-03-31T20:24:24Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-01T04:24:24Z'}]",
+ORD-000877,GIG,TRK-262108c1ec7d,"[{'status': 'CREATED', 'time': '2023-05-14 11:10'}, {'status': 'PICKED_UP', 'time': '2023-05-14T21:10:03Z'}]",,,,,
+,Kwik,991749575,,,,,,"[{'status': 'CREATED', 'time': '2023-01-21T19:23:40Z'}, {'status': 'PICKED_UP', 'time': '2023-01-23T14:23:40Z'}]"
+,Local,758240337,,,,,,"[{'status': 'CREATED', 'time': '2023-04-09T06:04:34Z'}]"
+,GIG,747489037,,,,,,"[{'status': 'CREATED', 'time': '2023-03-13T14:26:30Z'}, {'status': 'PICKED_UP', 'time': '2023-03-15 13:26'}, {'status': 'IN_TRANSIT', 'time': '2023-03-17T03:26:30Z'}]"
+ORD-000089,FedEx,TRK-8ff2797d214f,"[{'status': 'CREATED', 'time': '2023-06-25T02:34:44Z'}]",,,,,
+,DHL,552498871,,,,,,"[{'status': 'CREATED', 'time': '2023-04-06 23:31'}, {'status': 'PICKED_UP', 'time': '2023-04-07 19:31'}, {'status': 'IN_TRANSIT', 'time': '2023-04-08 02:31'}]"
+ORD-000383,Kwik,TRK-6d0dd2d37de2,"[{'status': 'CREATED', 'time': '2023-01-16T01:08:29Z'}, {'status': 'PICKED_UP', 'time': '2023-01-17T17:08:29Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-17 19:08'}, {'status': 'DELIVERED', 'time': '2023-01-18T13:08:29Z'}]",,,,,
+,,,,ORD-000442,Kwik,TRK3472192,"[{'status': 'CREATED', 'time': '2023-04-15 05:02'}, {'status': 'PICKED_UP', 'time': '2023-04-16 19:02'}, {'status': 'IN_TRANSIT', 'time': '2023-04-17T23:02:45Z'}]",
+,GIG,573989048,,,,,,"[{'status': 'CREATED', 'time': '2023-10-24T12:05:14Z'}]"
+,FedEx,685583460,,,,,,"[{'status': 'CREATED', 'time': '2023-07-15T13:26:35Z'}, {'status': 'PICKED_UP', 'time': '2023-07-17T07:26:35Z'}]"
+,Kwik,334126548,,,,,,"[{'status': 'PICKED_UP', 'time': '2023-07-07T22:19:44Z'}]"
+ORD-000081,GIG,TRK-e2978f5af976,"[{'status': 'CREATED', 'time': '2023-01-19T18:21:44Z'}]",,,,,
+,Local,806597352,,,,,,"[{'status': 'CREATED', 'time': '2023-10-13 04:20'}, {'status': 'PICKED_UP', 'time': '2023-10-14T03:20:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-15T04:20:06Z'}, {'status': 'DELIVERED', 'time': '2023-10-15T13:20:06Z'}]"
+,,,,ORD-000633,GIG,TRK4694667,"[{'status': 'CREATED', 'time': '2023-09-12 20:47'}]",
+,Kwik,230016655,,,,,,"[{'status': 'CREATED', 'time': '2023-04-24T07:25:33Z'}, {'status': 'PICKED_UP', 'time': '2023-04-25T18:25:33Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-26T00:25:33Z'}, {'status': 'DELIVERED', 'time': '2023-04-27 04:25'}]"
+,,,,ORD-000954,FedEx,TRK7641819,"[{'status': 'CREATED', 'time': '2023-07-12 12:28'}, {'status': 'PICKED_UP', 'time': '2023-07-13T22:28:59Z'}]",
+,GIG,857352096,,,,,,"[{'status': 'CREATED', 'time': '2023-06-01T17:25:04Z'}, {'status': 'PICKED_UP', 'time': '2023-06-03T08:25:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-04T12:25:04Z'}]"
+,,,,ORD-000449,DHL,TRK3680258,"[{'status': 'CREATED', 'time': '2023-10-18 12:10'}, {'status': 'PICKED_UP', 'time': '2023-10-19T07:10:01Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-21T01:10:01Z'}]",
+ORD-000377,Local,TRK-2ebc73de9b30,"[{'status': 'CREATED', 'time': '2023-05-08T14:10:16Z'}]",,,,,
+,DHL,298519273,,,,,,"[{'status': 'CREATED', 'time': '2023-03-19T13:07:19Z'}, {'status': 'PICKED_UP', 'time': '2023-03-20T17:07:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-20T23:07:19Z'}, {'status': 'DELIVERED', 'time': '2023-03-22T04:07:19Z'}]"
+ORD-000967,Local,TRK-e2aaaa6b6de3,"[{'status': 'CREATED', 'time': '2023-08-02T01:55:01Z'}]",,,,,
+ORD-001146,GIG,TRK-16b09f52e20b,"[{'status': 'CREATED', 'time': '2023-02-17T21:48:54Z'}]",,,,,
+,Kwik,709633898,,,,,,"[{'status': 'CREATED', 'time': '2023-03-17T14:43:17Z'}, {'status': 'PICKED_UP', 'time': '2023-03-17 21:43'}]"
+ORD-000808,Kwik,TRK-80dda658bc00,"[{'status': 'DELIVERED', 'time': '2023-08-06T23:32:27Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-08T11:32:27Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09T02:32:27Z'}]",,,,,
+,,,,ORD-001022,Kwik,TRK7698112,"[{'status': 'DELIVERED', 'time': '2023-06-29T06:00:20Z'}]",
+,,,,ORD-000883,Kwik,TRK4529282,"[{'status': 'CREATED', 'time': '2023-05-28T04:33:30Z'}, {'status': 'PICKED_UP', 'time': '2023-05-30 01:33'}, {'status': 'IN_TRANSIT', 'time': '2023-05-31 22:33'}]",
+,,,,ORD-001061,Kwik,TRK4032775,"[{'status': 'CREATED', 'time': '2023-07-17 08:09'}, {'status': 'PICKED_UP', 'time': '2023-07-17T11:09:04Z'}]",
+,GIG,326253648,,,,,,"[{'status': 'CREATED', 'time': '2023-06-16T10:32:49Z'}, {'status': 'PICKED_UP', 'time': '2023-06-18 00:32'}]"
+,,,,ORD-000293,FedEx,TRK3779093,"[{'status': 'CREATED', 'time': '2023-06-25 16:58'}, {'status': 'PICKED_UP', 'time': '2023-06-27 15:58'}]",
+ORD-000970,FedEx,TRK-c01125e048f2,"[{'status': 'CREATED', 'time': '2023-10-11 04:14'}, {'status': 'PICKED_UP', 'time': '2023-10-13T01:14:29Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-14T19:14:29Z'}]",,,,,
+,,,,ORD-000853,FedEx,TRK2458512,"[{'status': 'CREATED', 'time': '2023-02-11T18:58:52Z'}]",
+ORD-001120,Kwik,TRK-926681fcc62a,"[{'status': 'CREATED', 'time': '2023-05-29T12:12:29Z'}, {'status': 'PICKED_UP', 'time': '2023-05-30T23:12:29Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-01 07:12'}, {'status': 'DELIVERED', 'time': '2023-06-03 00:12'}]",,,,,
+,Local,558749845,,,,,,"[{'status': 'CREATED', 'time': '2023-12-14T22:55:41Z'}, {'status': 'PICKED_UP', 'time': '2023-12-16T17:55:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-18T10:55:41Z'}]"
+,,,,ORD-000664,Local,TRK4822824,"[{'status': 'CREATED', 'time': '2023-11-08T13:33:35Z'}]",
+ORD-000482,FedEx,TRK-8941c225b403,"[{'status': 'CREATED', 'time': '2023-07-31T19:45:57Z'}, {'status': 'PICKED_UP', 'time': '2023-08-01T09:45:57Z'}]",,,,,
+ORD-001200,GIG,TRK-c28c2f436811,"[{'status': 'CREATED', 'time': '2023-11-10T01:29:33Z'}, {'status': 'PICKED_UP', 'time': '2023-11-11T10:29:33Z'}]",,,,,
+ORD-001129,Kwik,TRK-6bb3237d57f5,"[{'status': 'CREATED', 'time': '2023-02-05T11:43:51Z'}, {'status': 'PICKED_UP', 'time': '2023-02-06T02:43:51Z'}]",,,,,
+ORD-000370,GIG,TRK-bc727140ffb6,"[{'status': 'CREATED', 'time': '2023-01-03T15:01:40Z'}, {'status': 'PICKED_UP', 'time': '2023-01-04T06:01:40Z'}]",,,,,
+,,,,ORD-000497,DHL,TRK3817927,"[{'status': 'CREATED', 'time': '2023-09-06 06:45'}, {'status': 'PICKED_UP', 'time': '2023-09-07T21:45:32Z'}]",
+ORD-000994,DHL,TRK-92241094eabf,"[{'status': 'CREATED', 'time': '2023-03-14 23:11'}, {'status': 'PICKED_UP', 'time': '2023-03-16T07:11:31Z'}]",,,,,
+,FedEx,621793264,,,,,,"[{'status': 'CREATED', 'time': '2023-05-16T17:38:51Z'}]"
+,,,,ORD-000656,Local,TRK2328461,"[{'status': 'CREATED', 'time': '2023-12-20T00:20:40Z'}]",
+,,,,ORD-000949,Kwik,TRK4669487,"[{'status': 'CREATED', 'time': '2023-12-05 00:59'}, {'status': 'PICKED_UP', 'time': '2023-12-05 13:59'}, {'status': 'IN_TRANSIT', 'time': '2023-12-06T10:59:03Z'}]",
+,,,,ORD-001046,FedEx,TRK1982849,"[{'status': 'CREATED', 'time': '2023-02-15T02:03:50Z'}, {'status': 'PICKED_UP', 'time': '2023-02-16T11:03:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-18T04:03:50Z'}]",
+,,,,ORD-001132,DHL,TRK1781600,"[{'status': 'CREATED', 'time': '2023-01-06 16:36'}, {'status': 'PICKED_UP', 'time': '2023-01-06 20:36'}]",
+,GIG,403903529,,,,,,"[{'status': 'CREATED', 'time': '2023-10-14 01:58'}]"
+,DHL,502285841,,,,,,"[{'status': 'CREATED', 'time': '2023-02-14T18:51:22Z'}, {'status': 'PICKED_UP', 'time': '2023-02-16T14:51:22Z'}]"
+ORD-000440,Kwik,TRK-6c0b13e384ff,"[{'status': 'CREATED', 'time': '2023-04-14T10:45:44Z'}]",,,,,
+,Local,471860844,,,,,,"[{'status': 'CREATED', 'time': '2023-06-25T13:23:46Z'}, {'status': 'PICKED_UP', 'time': '2023-06-25 17:23'}, {'status': 'IN_TRANSIT', 'time': '2023-06-26T00:23:46Z'}, {'status': 'DELIVERED', 'time': '2023-06-26T08:23:46Z'}]"
+ORD-000595,DHL,TRK-8f0eeb023804,"[{'status': 'CREATED', 'time': '2023-07-26T13:52:08Z'}, {'status': 'PICKED_UP', 'time': '2023-07-26T16:52:08Z'}]",,,,,
+,,,,ORD-000822,FedEx,TRK7902725,"[{'status': 'CREATED', 'time': '2023-07-17 12:56'}]",
+,GIG,564189589,,,,,,"[{'status': 'CREATED', 'time': '2023-01-04T16:47:51Z'}, {'status': 'PICKED_UP', 'time': '2023-01-05 19:47'}]"
+ORD-000907,Kwik,TRK-d04a1e4c26f8,"[{'status': 'CREATED', 'time': '2023-10-30T23:27:28Z'}]",,,,,
+,,,,ORD-000172,Local,TRK5714597,"[{'status': 'CREATED', 'time': '2023-09-24T10:50:04Z'}, {'status': 'PICKED_UP', 'time': '2023-09-26T07:50:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-26T21:50:04Z'}]",
+ORD-000153,FedEx,TRK-f28ccd4860ac,"[{'status': 'IN_TRANSIT', 'time': '2023-09-17T14:51:26Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-18T12:51:26Z'}, {'status': 'CREATED', 'time': '2023-09-19T08:51:26Z'}]",,,,,
+ORD-000915,DHL,TRK-0c9b30bf023e,"[{'status': 'CREATED', 'time': '2023-04-02T13:46:48Z'}, {'status': 'PICKED_UP', 'time': '2023-04-03T22:46:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-04T00:46:48Z'}, {'status': 'DELIVERED', 'time': '2023-04-06T00:46:48Z'}]",,,,,
+,,,,ORD-000921,DHL,TRK9347514,"[{'status': 'CREATED', 'time': '2023-04-17 19:49'}, {'status': 'PICKED_UP', 'time': '2023-04-18T11:49:54Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-20 10:49'}]",
+,,,,ORD-000335,Local,TRK4963753,"[{'status': 'CREATED', 'time': '2023-03-08T02:32:00Z'}, {'status': 'PICKED_UP', 'time': '2023-03-10T02:32:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-10T15:32:00Z'}, {'status': 'DELIVERED', 'time': '2023-03-11 00:32'}]",
+ORD-000268,GIG,TRK-4634e9f7cd3c,"[{'status': 'CREATED', 'time': '2023-05-21T16:49:29Z'}]",,,,,
+ORD-000524,Kwik,TRK-eae113cf9bd9,"[{'status': 'CREATED', 'time': '2023-06-17T09:35:03Z'}, {'status': 'PICKED_UP', 'time': '2023-06-19T02:35:03Z'}]",,,,,
+ORD-000061,FedEx,TRK-66fd26850c92,"[{'status': 'CREATED', 'time': '2023-04-28T20:45:21Z'}]",,,,,
+,,,,ORD-000560,FedEx,TRK5555291,"[{'status': 'CREATED', 'time': '2023-11-09T17:55:15Z'}]",
+,,,,ORD-001108,FedEx,TRK1423454,"[{'status': 'CREATED', 'time': '2024-01-02T03:36:32Z'}, {'status': 'PICKED_UP', 'time': '2024-01-02T17:36:32Z'}, {'status': 'IN_TRANSIT', 'time': '2024-01-03T00:36:32Z'}, {'status': 'DELIVERED', 'time': '2024-01-03 18:36'}]",
+,Local,229354037,,,,,,"[{'status': 'CREATED', 'time': '2023-04-28 03:20'}]"
+ORD-001183,Kwik,TRK-7b16a53efa10,"[{'status': 'CREATED', 'time': '2023-12-22 17:17'}]",,,,,
+,,,,ORD-000834,DHL,TRK9119153,"[{'status': 'CREATED', 'time': '2023-11-07 04:43'}, {'status': 'PICKED_UP', 'time': '2023-11-08 19:43'}, {'status': 'IN_TRANSIT', 'time': '2023-11-09T05:43:31Z'}, {'status': 'DELIVERED', 'time': '2023-11-10 08:43'}]",
+,FedEx,601116630,,,,,,"[{'status': 'CREATED', 'time': '2023-03-02T09:39:34Z'}]"
+ORD-000083,GIG,TRK-ffae35f92df4,"[{'status': 'CREATED', 'time': '2023-12-11T23:22:01Z'}, {'status': 'PICKED_UP', 'time': '2023-12-13 22:22'}]",,,,,
+,,,,ORD-000626,DHL,TRK6927613,"[{'status': 'CREATED', 'time': '2023-07-17T21:05:30Z'}, {'status': 'PICKED_UP', 'time': '2023-07-18 11:05'}]",
+,GIG,330811883,,,,,,"[{'status': 'CREATED', 'time': '2023-04-16 00:49'}, {'status': 'PICKED_UP', 'time': '2023-04-17T09:49:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-18 16:49'}, {'status': 'DELIVERED', 'time': '2023-04-20T09:49:31Z'}]"
+,Local,360574042,,,,,,"[{'status': 'CREATED', 'time': '2023-07-04T06:55:49Z'}]"
+,FedEx,366783989,,,,,,"[{'status': 'CREATED', 'time': '2023-06-07 08:30'}, {'status': 'PICKED_UP', 'time': '2023-06-08 05:30'}, {'status': 'IN_TRANSIT', 'time': '2023-06-09T01:30:31Z'}, {'status': 'DELIVERED', 'time': '2023-06-09T20:30:31Z'}]"
+,Local,887098620,,,,,,"[{'status': 'CREATED', 'time': '2023-04-02 10:13'}, {'status': 'PICKED_UP', 'time': '2023-04-03T10:13:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-04T03:13:51Z'}]"
+,,,,ORD-001133,FedEx,TRK3651430,"[{'status': 'CREATED', 'time': '2023-09-15T08:45:07Z'}, {'status': 'PICKED_UP', 'time': '2023-09-16 07:45'}, {'status': 'IN_TRANSIT', 'time': '2023-09-16 23:45'}, {'status': 'DELIVERED', 'time': '2023-09-17 20:45'}]",
+ORD-000116,Kwik,TRK-7d7274dc99ce,"[{'status': 'CREATED', 'time': '2023-06-10 09:54'}, {'status': 'PICKED_UP', 'time': '2023-06-10T18:54:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-11T04:54:14Z'}, {'status': 'DELIVERED', 'time': '2023-06-12T07:54:14Z'}]",,,,,
+ORD-000704,DHL,TRK-798eddccaf43,"[{'status': 'CREATED', 'time': '2023-12-06 19:09'}, {'status': 'PICKED_UP', 'time': '2023-12-08T06:09:47Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-08 19:09'}, {'status': 'DELIVERED', 'time': '2023-12-09T09:09:47Z'}]",,,,,
+,,,,ORD-000581,Kwik,TRK3471253,"[{'status': 'CREATED', 'time': '2023-04-16T09:30:38Z'}, {'status': 'PICKED_UP', 'time': '2023-04-18 04:30'}, {'status': 'IN_TRANSIT', 'time': '2023-04-18T19:30:38Z'}]",
+ORD-000173,Local,TRK-b0c863c048c4,"[{'status': 'CREATED', 'time': '2023-02-12T11:01:41Z'}, {'status': 'PICKED_UP', 'time': '2023-02-14T01:01:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-15T20:01:41Z'}, {'status': 'DELIVERED', 'time': '2023-02-16T03:01:41Z'}]",,,,,
+ORD-000613,FedEx,TRK-6347f73e40da,"[{'status': 'CREATED', 'time': '2023-11-30T23:14:00Z'}, {'status': 'PICKED_UP', 'time': '2023-12-02T00:14:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-03T17:14:00Z'}]",,,,,
+,,,,ORD-000560,Local,TRK8418204,"[{'status': 'CREATED', 'time': '2023-09-09T00:54:13Z'}, {'status': 'PICKED_UP', 'time': '2023-09-09T13:54:13Z'}]",
+,,,,ORD-000356,FedEx,TRK7285704,"[{'status': 'CREATED', 'time': '2023-06-23 00:44'}, {'status': 'PICKED_UP', 'time': '2023-06-24T17:44:18Z'}]",
+ORD-001168,DHL,TRK-4034d9a2e08f,"[{'status': 'CREATED', 'time': '2023-05-21T01:41:18Z'}, {'status': 'PICKED_UP', 'time': '2023-05-21T10:41:18Z'}]",,,,,
+ORD-001084,FedEx,TRK-c7da3bfff0c7,"[{'status': 'CREATED', 'time': '2023-12-01T06:23:24Z'}, {'status': 'PICKED_UP', 'time': '2023-12-03 03:23'}, {'status': 'IN_TRANSIT', 'time': '2023-12-03T08:23:24Z'}]",,,,,
+ORD-001143,Kwik,TRK-e5557a05666d,"[{'status': 'CREATED', 'time': '2023-04-12T06:04:42Z'}, {'status': 'PICKED_UP', 'time': '2023-04-13T16:04:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-14T10:04:42Z'}]",,,,,
+,DHL,557171055,,,,,,"[{'status': 'CREATED', 'time': '2023-07-06T16:01:08Z'}, {'status': 'PICKED_UP', 'time': '2023-07-06 21:01'}, {'status': 'IN_TRANSIT', 'time': '2023-07-08T15:01:08Z'}, {'status': 'DELIVERED', 'time': '2023-07-09T10:01:08Z'}]"
+,GIG,957897852,,,,,,"[{'status': 'CREATED', 'time': '2023-10-16T20:25:08Z'}, {'status': 'PICKED_UP', 'time': '2023-10-18T12:25:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-19 05:25'}, {'status': 'DELIVERED', 'time': '2023-10-20T02:25:08Z'}]"
+,Kwik,724175051,,,,,,"[{'status': 'CREATED', 'time': '2023-12-23T10:29:13Z'}, {'status': 'PICKED_UP', 'time': '2023-12-24T12:29:13Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-25T17:29:13Z'}, {'status': 'DELIVERED', 'time': '2023-12-26T12:29:13Z'}]"
+ORD-000019,DHL,TRK-69da3f6ac09f,"[{'status': 'CREATED', 'time': '2023-02-12 03:47'}, {'status': 'PICKED_UP', 'time': '2023-02-12T17:47:47Z'}]",,,,,
+,,,,ORD-000004,Local,TRK7973012,"[{'status': 'CREATED', 'time': '2023-10-25T02:03:57Z'}]",
+ORD-001048,Kwik,TRK-0a69ad270d5e,"[{'status': 'CREATED', 'time': '2023-09-06T15:42:57Z'}, {'status': 'PICKED_UP', 'time': '2023-09-07 18:42'}]",,,,,
+,,,,ORD-001123,Kwik,TRK3750233,"[{'status': 'DELIVERED', 'time': '2023-02-26T11:18:27Z'}, {'status': 'DELIVERED', 'time': '2023-02-28 05:18'}, {'status': 'DELIVERED', 'time': '2023-03-01T11:18:27Z'}]",
+ORD-000067,GIG,TRK-df320ba6966a,"[{'status': 'CREATED', 'time': '2023-09-10 04:33'}]",,,,,
+,,,,ORD-000528,GIG,TRK9704338,"[{'status': 'CREATED', 'time': '2023-01-07T18:00:09Z'}, {'status': 'PICKED_UP', 'time': '2023-01-09 17:00'}, {'status': 'IN_TRANSIT', 'time': '2023-01-10T22:00:09Z'}, {'status': 'DELIVERED', 'time': '2023-01-11T22:00:09Z'}]",
+,Local,640997327,,,,,,"[{'status': 'CREATED', 'time': '2023-08-22T12:50:42Z'}, {'status': 'PICKED_UP', 'time': '2023-08-24T10:50:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-25 19:50'}]"
+,FedEx,808752721,,,,,,"[{'status': 'CREATED', 'time': '2023-04-01T13:13:58Z'}]"
+ORD-001095,Local,TRK-31dfa07b9e5e,"[{'status': 'CREATED', 'time': '2023-06-02T18:37:20Z'}, {'status': 'PICKED_UP', 'time': '2023-06-04T12:37:20Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-05T13:37:20Z'}, {'status': 'DELIVERED', 'time': '2023-06-07T05:37:20Z'}]",,,,,
+,,,,ORD-000212,GIG,TRK9904322,"[{'status': 'CREATED', 'time': '2023-01-03T09:24:05Z'}, {'status': 'PICKED_UP', 'time': '2023-01-04T02:24:05Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-05 07:24'}]",
+,FedEx,118351442,,,,,,"[{'status': 'CREATED', 'time': '2023-09-04T18:56:35Z'}, {'status': 'PICKED_UP', 'time': '2023-09-04 20:56'}, {'status': 'IN_TRANSIT', 'time': '2023-09-06T00:56:35Z'}, {'status': 'DELIVERED', 'time': '2023-09-06T21:56:35Z'}]"
+,,,,ORD-000996,Local,TRK5881561,"[{'status': 'CREATED', 'time': '2023-11-25T13:23:56Z'}]",
+,,,,ORD-000266,GIG,TRK5654386,"[{'status': 'CREATED', 'time': '2023-03-07T22:43:30Z'}, {'status': 'PICKED_UP', 'time': '2023-03-08T06:43:30Z'}]",
+,Kwik,535165736,,,,,,"[{'status': 'CREATED', 'time': '2023-04-26T14:38:06Z'}]"
+ORD-000765,Local,TRK-d8552dcbbb7c,"[{'status': 'CREATED', 'time': '2023-05-13T10:09:34Z'}, {'status': 'PICKED_UP', 'time': '2023-05-14 17:09'}]",,,,,
+ORD-000678,Kwik,TRK-f5615056de11,"[{'status': 'CREATED', 'time': '2023-11-17 18:30'}, {'status': 'PICKED_UP', 'time': '2023-11-18 19:30'}, {'status': 'IN_TRANSIT', 'time': '2023-11-19T17:30:49Z'}, {'status': 'DELIVERED', 'time': '2023-11-20T09:30:49Z'}]",,,,,
+,Local,990614897,,,,,,"[{'status': 'CREATED', 'time': '2023-11-07T17:18:48Z'}, {'status': 'PICKED_UP', 'time': '2023-11-08T05:18:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-09 04:18'}]"
+,,,,ORD-000595,GIG,TRK3647418,"[{'status': 'CREATED', 'time': '2023-06-29 05:32'}]",
+,GIG,324439501,,,,,,"[{'status': 'CREATED', 'time': '2023-10-21T10:36:55Z'}, {'status': 'PICKED_UP', 'time': '2023-10-22T15:36:55Z'}]"
+,,,,ORD-000814,Kwik,TRK5516509,"[{'status': 'CREATED', 'time': '2023-04-10T14:51:50Z'}]",
+,,,,ORD-000078,DHL,TRK3162630,"[{'status': 'CREATED', 'time': '2023-01-01T15:35:18Z'}]",
+ORD-000580,GIG,TRK-67cfcc056ada,"[{'status': 'CREATED', 'time': '2023-06-12T00:41:18Z'}, {'status': 'PICKED_UP', 'time': '2023-06-13T22:41:18Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-14 04:41'}]",,,,,
+,,,,ORD-000988,FedEx,TRK3811508,"[{'status': 'CREATED', 'time': '2023-10-03T16:06:38Z'}, {'status': 'PICKED_UP', 'time': '2023-10-03T22:06:38Z'}]",
+,,,,ORD-000045,Local,TRK9358074,"[{'status': 'CREATED', 'time': '2023-01-25 06:03'}, {'status': 'PICKED_UP', 'time': '2023-01-25T21:03:12Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-27T01:03:12Z'}]",
+,,,,ORD-001077,Kwik,TRK2718148,"[{'status': 'CREATED', 'time': '2023-03-15T21:15:37Z'}, {'status': 'PICKED_UP', 'time': '2023-03-16 21:15'}, {'status': 'IN_TRANSIT', 'time': '2023-03-17T11:15:37Z'}, {'status': 'DELIVERED', 'time': '2023-03-19T09:15:37Z'}]",
+,,,,ORD-000136,FedEx,TRK1909686,"[{'status': 'PICKED_UP', 'time': '2023-02-04 10:31'}, {'status': 'PICKED_UP', 'time': '2023-02-05T06:31:35Z'}, {'status': 'PICKED_UP', 'time': '2023-02-06T17:31:35Z'}, {'status': 'CREATED', 'time': '2023-02-07T10:31:35Z'}]",
+,GIG,834604200,,,,,,"[{'status': 'CREATED', 'time': '2023-01-08 12:08'}, {'status': 'PICKED_UP', 'time': '2023-01-10T00:08:03Z'}]"
+ORD-000137,FedEx,TRK-fc4eb989a630,"[{'status': 'CREATED', 'time': '2023-08-15 18:16'}, {'status': 'PICKED_UP', 'time': '2023-08-17 18:16'}]",,,,,
+,,,,ORD-000938,Kwik,TRK6848435,"[{'status': 'CREATED', 'time': '2023-06-27 15:09'}, {'status': 'PICKED_UP', 'time': '2023-06-28T22:09:22Z'}]",
+,,,,ORD-000612,Kwik,TRK5196288,"[{'status': 'CREATED', 'time': '2023-08-30T05:19:50Z'}]",
+,,,,ORD-000414,Local,TRK4427900,"[{'status': 'CREATED', 'time': '2023-10-27T20:04:06Z'}]",
+,,,,ORD-001176,GIG,TRK5185730,"[{'status': 'CREATED', 'time': '2023-05-25T11:17:37Z'}, {'status': 'PICKED_UP', 'time': '2023-05-27 11:17'}]",
+,DHL,434283799,,,,,,"[{'status': 'CREATED', 'time': '2023-12-10 03:48'}]"
+,,,,ORD-001066,DHL,TRK8250519,"[{'status': 'CREATED', 'time': '2023-05-12T02:06:48Z'}]",
+,,,,ORD-000284,GIG,TRK2801242,"[{'status': 'CREATED', 'time': '2023-01-08T11:24:25Z'}, {'status': 'PICKED_UP', 'time': '2023-01-10 05:24'}, {'status': 'IN_TRANSIT', 'time': '2023-01-11T02:24:25Z'}, {'status': 'DELIVERED', 'time': '2023-01-12T12:24:25Z'}]",
+,,,,ORD-000861,Local,TRK8610341,"[{'status': 'CREATED', 'time': '2023-08-08T04:45:34Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09T11:45:34Z'}]",
+ORD-000511,GIG,TRK-4f1928ad39c1,"[{'status': 'IN_TRANSIT', 'time': '2023-03-10T16:15:59Z'}, {'status': 'DELIVERED', 'time': '2023-03-10T20:15:59Z'}, {'status': 'PICKED_UP', 'time': '2023-03-11T21:15:59Z'}]",,,,,
+,,,,ORD-000930,Kwik,TRK9904033,"[{'status': 'CREATED', 'time': '2023-10-27T22:06:14Z'}]",
+,Kwik,991368209,,,,,,"[{'status': 'CREATED', 'time': '2023-12-16T03:47:33Z'}]"
+ORD-000734,FedEx,TRK-2554b5159b94,"[{'status': 'CREATED', 'time': '2023-05-30 10:00'}, {'status': 'PICKED_UP', 'time': '2023-06-01T08:00:24Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-02 06:00'}]",,,,,
+,,,,ORD-000601,Kwik,TRK3850029,"[{'status': 'CREATED', 'time': '2023-06-18T10:44:31Z'}, {'status': 'PICKED_UP', 'time': '2023-06-20T01:44:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-20T19:44:31Z'}]",
+ORD-000621,Local,TRK-4eaf077846be,"[{'status': 'CREATED', 'time': '2023-12-08T06:20:34Z'}, {'status': 'PICKED_UP', 'time': '2023-12-09 15:20'}, {'status': 'IN_TRANSIT', 'time': '2023-12-09T21:20:34Z'}, {'status': 'DELIVERED', 'time': '2023-12-11 05:20'}]",,,,,
+ORD-000710,GIG,TRK-cb60bb914320,"[{'status': 'CREATED', 'time': '2023-02-18 16:28'}, {'status': 'PICKED_UP', 'time': '2023-02-20T09:28:43Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-21T01:28:43Z'}]",,,,,
+ORD-000704,DHL,TRK-798eddccaf43,"[{'status': 'CREATED', 'time': '2023-10-18T10:21:52Z'}, {'status': 'PICKED_UP', 'time': '2023-10-20T08:21:52Z'}]",,,,,
+,,,,ORD-000946,FedEx,TRK1719623,"[{'status': 'CREATED', 'time': '2023-12-18T00:29:17Z'}]",
+ORD-000509,FedEx,TRK-2f5b6dca6eeb,"[{'status': 'CREATED', 'time': '2023-06-11T12:04:54Z'}]",,,,,
+,Kwik,290575149,,,,,,"[{'status': 'CREATED', 'time': '2023-10-18T09:56:56Z'}]"
+,,,,ORD-001000,Local,TRK7704386,"[{'status': 'CREATED', 'time': '2023-04-25 00:46'}, {'status': 'PICKED_UP', 'time': '2023-04-25 14:46'}]",
+,Local,175415732,,,,,,"[{'status': 'CREATED', 'time': '2023-12-17T04:20:27Z'}, {'status': 'PICKED_UP', 'time': '2023-12-18 09:20'}, {'status': 'IN_TRANSIT', 'time': '2023-12-19T12:20:27Z'}]"
+,,,,ORD-000712,Local,TRK6058601,"[{'status': 'CREATED', 'time': '2023-10-17T08:36:40Z'}, {'status': 'PICKED_UP', 'time': '2023-10-18T12:36:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-18 19:36'}, {'status': 'DELIVERED', 'time': '2023-10-19T23:36:40Z'}]",
+,FedEx,225162968,,,,,,"[{'status': 'CREATED', 'time': '2023-04-04T17:25:51Z'}, {'status': 'PICKED_UP', 'time': '2023-04-05T21:25:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-06T20:25:51Z'}, {'status': 'DELIVERED', 'time': '2023-04-07T21:25:51Z'}]"
+ORD-000147,Kwik,TRK-adfa2b04385a,"[{'status': 'CREATED', 'time': '2023-03-22T23:50:52Z'}, {'status': 'PICKED_UP', 'time': '2023-03-23 17:50'}, {'status': 'IN_TRANSIT', 'time': '2023-03-23T23:50:52Z'}]",,,,,
+,FedEx,709357418,,,,,,"[{'status': 'CREATED', 'time': '2023-06-07 05:23'}]"
+,Local,909240854,,,,,,"[{'status': 'CREATED', 'time': '2023-12-15 07:52'}, {'status': 'PICKED_UP', 'time': '2023-12-16T22:52:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-17T19:52:04Z'}]"
+,GIG,517343229,,,,,,"[{'status': 'CREATED', 'time': '2023-08-24T20:08:50Z'}, {'status': 'PICKED_UP', 'time': '2023-08-25T12:08:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-26T00:08:50Z'}, {'status': 'DELIVERED', 'time': '2023-08-26T05:08:50Z'}]"
+ORD-001169,GIG,TRK-3153378deeb3,"[{'status': 'CREATED', 'time': '2023-03-14T01:44:17Z'}, {'status': 'PICKED_UP', 'time': '2023-03-14T19:44:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-14 21:44'}]",,,,,
+,,,,ORD-000989,DHL,TRK2517948,"[{'status': 'CREATED', 'time': '2023-06-08T12:17:23Z'}]",
+,GIG,286591379,,,,,,"[{'status': 'CREATED', 'time': '2023-12-03T17:49:59Z'}, {'status': 'PICKED_UP', 'time': '2023-12-05T04:49:59Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-06T04:49:59Z'}, {'status': 'DELIVERED', 'time': '2023-12-07T06:49:59Z'}]"
+ORD-000395,Kwik,TRK-37c8f3377843,"[{'status': 'CREATED', 'time': '2023-06-11T19:33:51Z'}, {'status': 'PICKED_UP', 'time': '2023-06-12T19:33:51Z'}]",,,,,
+,DHL,333096437,,,,,,"[{'status': 'CREATED', 'time': '2023-10-13T17:14:26Z'}, {'status': 'PICKED_UP', 'time': '2023-10-13T23:14:26Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-14 20:14'}]"
+,,,,ORD-000327,Local,TRK3921160,"[{'status': 'CREATED', 'time': '2023-03-21T08:19:43Z'}]",
+,,,,ORD-000911,Local,TRK3537501,"[{'status': 'CREATED', 'time': '2023-12-03T19:12:14Z'}, {'status': 'PICKED_UP', 'time': '2023-12-05T19:12:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-06 18:12'}, {'status': 'DELIVERED', 'time': '2023-12-07T01:12:14Z'}]",
+ORD-000027,Local,TRK-450718fc7fd1,"[{'status': 'CREATED', 'time': '2023-11-22 09:56'}]",,,,,
+,DHL,804225669,,,,,,"[{'status': 'CREATED', 'time': '2023-09-18T13:24:05Z'}, {'status': 'PICKED_UP', 'time': '2023-09-19T12:24:05Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-21 07:24'}, {'status': 'DELIVERED', 'time': '2023-09-21 13:24'}]"
+,GIG,784561815,,,,,,"[{'status': 'CREATED', 'time': '2023-10-25T15:22:00Z'}]"
+,,,,ORD-000802,FedEx,TRK6475567,"[{'status': 'CREATED', 'time': '2023-06-01 06:52'}, {'status': 'PICKED_UP', 'time': '2023-06-02T23:52:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-03T12:52:48Z'}, {'status': 'DELIVERED', 'time': '2023-06-05T07:52:48Z'}]",
+,FedEx,487864545,,,,,,"[{'status': 'PICKED_UP', 'time': '2023-04-21T15:40:50Z'}, {'status': 'DELIVERED', 'time': '2023-04-23T11:40:50Z'}, {'status': 'CREATED', 'time': '2023-04-23 14:40'}]"
+,,,,ORD-000448,Kwik,TRK3116351,"[{'status': 'CREATED', 'time': '2023-09-04T03:26:43Z'}, {'status': 'PICKED_UP', 'time': '2023-09-04 14:26'}]",
+,FedEx,696408730,,,,,,"[{'status': 'CREATED', 'time': '2023-05-09T12:01:52Z'}, {'status': 'PICKED_UP', 'time': '2023-05-10T11:01:52Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-12T11:01:52Z'}, {'status': 'DELIVERED', 'time': '2023-05-13T12:01:52Z'}]"
+,,,,ORD-000127,Kwik,TRK5900791,"[{'status': 'CREATED', 'time': '2023-11-04T19:24:37Z'}]",
+,DHL,865623046,,,,,,"[{'status': 'CREATED', 'time': '2023-01-31T01:24:33Z'}, {'status': 'PICKED_UP', 'time': '2023-02-01T11:24:33Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-02 21:24'}]"
+,,,,ORD-000152,DHL,TRK7848620,"[{'status': 'CREATED', 'time': '2023-02-18T03:58:27Z'}, {'status': 'PICKED_UP', 'time': '2023-02-18T22:58:27Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-19T15:58:27Z'}]",
+,,,,ORD-000721,Local,TRK6499395,"[{'status': 'CREATED', 'time': '2023-06-11 06:06'}, {'status': 'PICKED_UP', 'time': '2023-06-13 05:06'}, {'status': 'IN_TRANSIT', 'time': '2023-06-14T07:06:57Z'}]",
+,Local,382974328,,,,,,"[{'status': 'CREATED', 'time': '2023-12-28T04:34:46Z'}]"
+,,,,ORD-001189,GIG,TRK9993522,"[{'status': 'CREATED', 'time': '2023-03-16T14:14:34Z'}, {'status': 'PICKED_UP', 'time': '2023-03-17 18:14'}, {'status': 'IN_TRANSIT', 'time': '2023-03-18 00:14'}]",
+,,,,ORD-000895,GIG,TRK7116865,"[{'status': 'CREATED', 'time': '2023-09-02T12:32:05Z'}, {'status': 'CREATED', 'time': '2023-09-03 15:32'}, {'status': 'IN_TRANSIT', 'time': '2023-09-05T01:32:05Z'}]",
+,,,,ORD-000386,DHL,TRK3587621,"[{'status': 'CREATED', 'time': '2023-11-12 01:24'}]",
+ORD-000942,FedEx,TRK-f93679a16e18,"[{'status': 'CREATED', 'time': '2023-06-12T02:43:03Z'}, {'status': 'PICKED_UP', 'time': '2023-06-13T06:43:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-14T17:43:03Z'}, {'status': 'DELIVERED', 'time': '2023-06-14 21:43'}]",,,,,
+ORD-000279,GIG,TRK-0b58f97c6f13,"[{'status': 'PICKED_UP', 'time': '2023-09-19 07:59'}, {'status': 'PICKED_UP', 'time': '2023-09-19 15:59'}]",,,,,
+,Kwik,640400401,,,,,,"[{'status': 'CREATED', 'time': '2023-08-30T06:21:51Z'}, {'status': 'PICKED_UP', 'time': '2023-08-30T22:21:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-31T01:21:51Z'}, {'status': 'DELIVERED', 'time': '2023-09-01T07:21:51Z'}]"
+,,,,ORD-000459,FedEx,TRK5815100,"[{'status': 'CREATED', 'time': '2023-05-22T17:19:49Z'}, {'status': 'PICKED_UP', 'time': '2023-05-24T08:19:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-24T10:19:49Z'}, {'status': 'DELIVERED', 'time': '2023-05-26 06:19'}]",
+,DHL,733876590,,,,,,"[{'status': 'CREATED', 'time': '2023-06-09T09:11:36Z'}, {'status': 'PICKED_UP', 'time': '2023-06-10T15:11:36Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-11T08:11:36Z'}, {'status': 'DELIVERED', 'time': '2023-06-12 02:11'}]"
+,,,,ORD-000700,DHL,TRK3698245,"[{'status': 'CREATED', 'time': '2023-06-16 00:52'}, {'status': 'PICKED_UP', 'time': '2023-06-16 05:52'}, {'status': 'IN_TRANSIT', 'time': '2023-06-17 16:52'}, {'status': 'DELIVERED', 'time': '2023-06-18T21:52:39Z'}]",
+ORD-000677,Kwik,TRK-e7c5444e1c62,"[{'status': 'CREATED', 'time': '2023-02-07T05:59:11Z'}, {'status': 'PICKED_UP', 'time': '2023-02-08T09:59:11Z'}]",,,,,
+,DHL,428409358,,,,,,"[{'status': 'CREATED', 'time': '2023-12-16T00:08:51Z'}]"
+ORD-000029,DHL,TRK-a352c57792ae,"[{'status': 'CREATED', 'time': '2023-10-31T16:13:01Z'}, {'status': 'PICKED_UP', 'time': '2023-11-01 23:13'}, {'status': 'IN_TRANSIT', 'time': '2023-11-02T01:13:01Z'}]",,,,,
+,Kwik,376631501,,,,,,"[{'status': 'CREATED', 'time': '2023-01-24T01:11:18Z'}]"
+,,,,ORD-000804,Local,TRK4891930,"[{'status': 'CREATED', 'time': '2023-12-25T09:20:56Z'}, {'status': 'PICKED_UP', 'time': '2023-12-26 02:20'}]",
+,Local,335187170,,,,,,"[{'status': 'CREATED', 'time': '2023-01-13T22:17:44Z'}, {'status': 'PICKED_UP', 'time': '2023-01-14 20:17'}, {'status': 'IN_TRANSIT', 'time': '2023-01-15T22:17:44Z'}]"
+ORD-000294,Local,TRK-b48627dae630,"[{'status': 'CREATED', 'time': '2023-03-20 12:38'}]",,,,,
+,GIG,911422524,,,,,,"[{'status': 'CREATED', 'time': '2023-11-05T04:49:59Z'}, {'status': 'PICKED_UP', 'time': '2023-11-06T19:49:59Z'}]"
+,Kwik,167703040,,,,,,"[{'status': 'CREATED', 'time': '2023-04-28T02:21:41Z'}]"
+,,,,ORD-000372,FedEx,TRK8856102,"[{'status': 'CREATED', 'time': '2023-08-09T22:32:39Z'}, {'status': 'PICKED_UP', 'time': '2023-08-11T19:32:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-12T05:32:39Z'}, {'status': 'DELIVERED', 'time': '2023-08-13 17:32'}]",
+,,,,ORD-000798,GIG,TRK8891744,"[{'status': 'CREATED', 'time': '2023-01-17T02:05:44Z'}, {'status': 'PICKED_UP', 'time': '2023-01-18 00:05'}, {'status': 'IN_TRANSIT', 'time': '2023-01-18 06:05'}, {'status': 'DELIVERED', 'time': '2023-01-19T03:05:44Z'}]",
+ORD-001127,Local,TRK-65c2cee050f9,"[{'status': 'CREATED', 'time': '2023-07-29T02:56:22Z'}, {'status': 'PICKED_UP', 'time': '2023-07-29T16:56:22Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-30T00:56:22Z'}, {'status': 'DELIVERED', 'time': '2023-07-31T04:56:22Z'}]",,,,,
+,Kwik,700479856,,,,,,"[{'status': 'CREATED', 'time': '2023-08-31T16:17:50Z'}, {'status': 'PICKED_UP', 'time': '2023-09-01T18:17:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-02 06:17'}, {'status': 'DELIVERED', 'time': '2023-09-03T14:17:50Z'}]"
+,FedEx,646915535,,,,,,"[{'status': 'CREATED', 'time': '2023-05-07T19:46:50Z'}]"
+ORD-000850,Local,TRK-391d58b2be8d,"[{'status': 'CREATED', 'time': '2023-05-14 14:28'}, {'status': 'PICKED_UP', 'time': '2023-05-15T23:28:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-16 09:28'}, {'status': 'DELIVERED', 'time': '2023-05-18T05:28:14Z'}]",,,,,
+ORD-000277,Local,TRK-1cbe3a6a4d07,"[{'status': 'PICKED_UP', 'time': '2023-12-07 13:36'}, {'status': 'DELIVERED', 'time': '2023-12-08T08:36:05Z'}]",,,,,
+ORD-000381,FedEx,TRK-e04f7b07562d,"[{'status': 'CREATED', 'time': '2023-09-22T00:06:11Z'}]",,,,,
+,,,,ORD-001086,Kwik,TRK8807021,"[{'status': 'CREATED', 'time': '2023-02-14T16:23:50Z'}, {'status': 'PICKED_UP', 'time': '2023-02-15T05:23:50Z'}]",
+ORD-000132,FedEx,TRK-dfdf44554e8c,"[{'status': 'CREATED', 'time': '2023-12-26T18:58:42Z'}, {'status': 'PICKED_UP', 'time': '2023-12-27T12:58:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-27T20:58:42Z'}, {'status': 'DELIVERED', 'time': '2023-12-28T17:58:42Z'}]",,,,,
+ORD-000730,Local,TRK-3fd76beeaa4b,"[{'status': 'CREATED', 'time': '2023-05-19T21:58:44Z'}, {'status': 'PICKED_UP', 'time': '2023-05-21T08:58:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-22T06:58:44Z'}, {'status': 'DELIVERED', 'time': '2023-05-23T10:58:44Z'}]",,,,,
+ORD-001175,DHL,TRK-2d26a5d7a1b4,"[{'status': 'CREATED', 'time': '2023-10-03 16:32'}]",,,,,
+,,,,ORD-000230,FedEx,TRK9295417,"[{'status': 'CREATED', 'time': '2023-10-14 11:16'}, {'status': 'PICKED_UP', 'time': '2023-10-15 23:16'}, {'status': 'IN_TRANSIT', 'time': '2023-10-16T05:16:38Z'}, {'status': 'DELIVERED', 'time': '2023-10-17T10:16:38Z'}]",
+,Local,684755648,,,,,,"[{'status': 'CREATED', 'time': '2023-05-25T12:31:08Z'}]"
+,DHL,290564969,,,,,,"[{'status': 'CREATED', 'time': '2023-10-15T03:51:55Z'}, {'status': 'PICKED_UP', 'time': '2023-10-16T08:51:55Z'}]"
+,,,,ORD-000994,Kwik,TRK3322079,"[{'status': 'IN_TRANSIT', 'time': '2023-07-19T15:34:46Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-20 06:34'}, {'status': 'DELIVERED', 'time': '2023-07-21T20:34:46Z'}, {'status': 'PICKED_UP', 'time': '2023-07-22T17:34:46Z'}]",
+,,,,ORD-000572,Kwik,TRK8893828,"[{'status': 'CREATED', 'time': '2023-06-26 11:36'}]",
+,GIG,598202534,,,,,,"[{'status': 'CREATED', 'time': '2023-02-23T08:05:37Z'}, {'status': 'PICKED_UP', 'time': '2023-02-25T02:05:37Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-25 14:05'}, {'status': 'DELIVERED', 'time': '2023-02-27 11:05'}]"
+,,,,ORD-000182,Kwik,TRK9076577,"[{'status': 'CREATED', 'time': '2023-02-14 17:13'}, {'status': 'PICKED_UP', 'time': '2023-02-16 03:13'}, {'status': 'IN_TRANSIT', 'time': '2023-02-17T05:13:19Z'}, {'status': 'DELIVERED', 'time': '2023-02-18 12:13'}]",
+,Local,469949756,,,,,,"[{'status': 'CREATED', 'time': '2023-11-10T10:10:38Z'}, {'status': 'PICKED_UP', 'time': '2023-11-10T13:10:38Z'}]"
+,,,,ORD-000572,Local,TRK5706307,"[{'status': 'CREATED', 'time': '2023-08-08T12:03:40Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09T23:03:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-10 13:03'}, {'status': 'DELIVERED', 'time': '2023-08-12T06:03:40Z'}]",
+,GIG,835731238,,,,,,"[{'status': 'CREATED', 'time': '2023-03-12T03:39:05Z'}, {'status': 'PICKED_UP', 'time': '2023-03-13T06:39:05Z'}]"
+,,,,ORD-001188,Kwik,TRK5667501,"[{'status': 'CREATED', 'time': '2023-12-04T23:04:19Z'}]",
+,DHL,154939027,,,,,,"[{'status': 'CREATED', 'time': '2023-08-28 11:47'}, {'status': 'PICKED_UP', 'time': '2023-08-29T04:47:33Z'}]"
+,,,,ORD-000476,Local,TRK1152195,"[{'status': 'PICKED_UP', 'time': '2023-06-07T11:03:11Z'}, {'status': 'PICKED_UP', 'time': '2023-06-08T09:03:11Z'}]",
+,,,,ORD-000632,Kwik,TRK2001307,"[{'status': 'CREATED', 'time': '2023-08-14T10:00:07Z'}, {'status': 'PICKED_UP', 'time': '2023-08-15T20:00:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-17T01:00:07Z'}, {'status': 'DELIVERED', 'time': '2023-08-17T08:00:07Z'}]",
+,,,,ORD-001075,Local,TRK3933311,"[{'status': 'CREATED', 'time': '2023-03-09T22:55:35Z'}, {'status': 'PICKED_UP', 'time': '2023-03-11T16:55:35Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-12T22:55:35Z'}, {'status': 'DELIVERED', 'time': '2023-03-14T19:55:35Z'}]",
+ORD-000432,Kwik,TRK-09784a689198,"[{'status': 'CREATED', 'time': '2023-08-14T10:29:09Z'}, {'status': 'PICKED_UP', 'time': '2023-08-15T21:29:09Z'}]",,,,,
+,,,,ORD-000810,Local,TRK5924337,"[{'status': 'CREATED', 'time': '2023-12-29T13:20:17Z'}, {'status': 'PICKED_UP', 'time': '2023-12-30T06:20:17Z'}]",
+ORD-000794,FedEx,TRK-b7c6e3b9b2d8,"[{'status': 'CREATED', 'time': '2023-02-11 04:13'}, {'status': 'PICKED_UP', 'time': '2023-02-11T15:13:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-11T17:13:14Z'}, {'status': 'DELIVERED', 'time': '2023-02-12 08:13'}]",,,,,
+,GIG,372866860,,,,,,"[{'status': 'CREATED', 'time': '2023-01-21T21:39:32Z'}, {'status': 'PICKED_UP', 'time': '2023-01-23T11:39:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-23T18:39:32Z'}]"
+,FedEx,352188119,,,,,,"[{'status': 'CREATED', 'time': '2023-01-14 15:12'}, {'status': 'PICKED_UP', 'time': '2023-01-16T13:12:37Z'}]"
+,,,,ORD-000769,DHL,TRK9949333,"[{'status': 'CREATED', 'time': '2023-03-12 12:41'}, {'status': 'PICKED_UP', 'time': '2023-03-13T09:41:23Z'}]",
+,,,,ORD-000679,FedEx,TRK7955364,"[{'status': 'CREATED', 'time': '2023-08-29T13:12:40Z'}, {'status': 'PICKED_UP', 'time': '2023-08-29T21:12:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-31T07:12:40Z'}, {'status': 'DELIVERED', 'time': '2023-09-01T12:12:40Z'}]",
+,Kwik,549724964,,,,,,"[{'status': 'CREATED', 'time': '2023-09-15 08:00'}]"
+,GIG,435290459,,,,,,"[{'status': 'CREATED', 'time': '2023-02-12T04:27:15Z'}, {'status': 'PICKED_UP', 'time': '2023-02-13 14:27'}, {'status': 'IN_TRANSIT', 'time': '2023-02-15T07:27:15Z'}, {'status': 'DELIVERED', 'time': '2023-02-17T07:27:15Z'}]"
+ORD-000569,GIG,TRK-6230a9e74f37,"[{'status': 'CREATED', 'time': '2023-01-11T15:48:58Z'}, {'status': 'PICKED_UP', 'time': '2023-01-12T11:48:58Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-13 19:48'}, {'status': 'DELIVERED', 'time': '2023-01-14 11:48'}]",,,,,
+,,,,ORD-000156,GIG,TRK9805217,"[{'status': 'CREATED', 'time': '2023-05-18T11:16:30Z'}]",
+ORD-001172,GIG,TRK-6475ebffdc0f,"[{'status': 'CREATED', 'time': '2023-05-15T16:02:05Z'}, {'status': 'PICKED_UP', 'time': '2023-05-15T22:02:05Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-16T00:02:05Z'}]",,,,,
+,,,,ORD-001057,DHL,TRK8141186,"[{'status': 'CREATED', 'time': '2023-01-12T03:29:35Z'}, {'status': 'PICKED_UP', 'time': '2023-01-13T03:29:35Z'}]",
+,,,,ORD-000889,DHL,TRK5273567,"[{'status': 'CREATED', 'time': '2023-02-07 06:48'}, {'status': 'PICKED_UP', 'time': '2023-02-09T02:48:30Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-09T11:48:30Z'}]",
+,Local,290882445,,,,,,"[{'status': 'CREATED', 'time': '2023-10-23T13:02:07Z'}, {'status': 'PICKED_UP', 'time': '2023-10-25T02:02:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-25 22:02'}]"
+ORD-000321,GIG,TRK-20367ca85f8c,"[{'status': 'CREATED', 'time': '2023-11-17 13:22'}, {'status': 'PICKED_UP', 'time': '2023-11-17T19:22:56Z'}]",,,,,
+,FedEx,278503728,,,,,,"[{'status': 'CREATED', 'time': '2023-08-18 00:40'}, {'status': 'PICKED_UP', 'time': '2023-08-19T13:40:05Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-20T01:40:05Z'}]"
+ORD-000685,Local,TRK-9684796170d9,"[{'status': 'CREATED', 'time': '2023-11-28 20:14'}, {'status': 'PICKED_UP', 'time': '2023-11-30T19:14:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-02T11:14:41Z'}]",,,,,
+ORD-000605,GIG,TRK-5bbe272b222e,"[{'status': 'CREATED', 'time': '2023-01-23 22:57'}, {'status': 'PICKED_UP', 'time': '2023-01-24T23:57:56Z'}]",,,,,
+,,,,ORD-000997,FedEx,TRK7593187,"[{'status': 'CREATED', 'time': '2023-08-22T20:42:20Z'}, {'status': 'PICKED_UP', 'time': '2023-08-24 06:42'}, {'status': 'IN_TRANSIT', 'time': '2023-08-25T02:42:20Z'}, {'status': 'DELIVERED', 'time': '2023-08-26 23:42'}]",
+,,,,ORD-000727,DHL,TRK9770069,"[{'status': 'CREATED', 'time': '2023-03-25T17:52:41Z'}, {'status': 'PICKED_UP', 'time': '2023-03-26 17:52'}, {'status': 'IN_TRANSIT', 'time': '2023-03-26T20:52:41Z'}]",
+,GIG,734348517,,,,,,"[{'status': 'CREATED', 'time': '2023-04-11T01:36:17Z'}]"
+,Kwik,820556555,,,,,,"[{'status': 'CREATED', 'time': '2023-05-05 05:18'}]"
+,,,,ORD-001047,DHL,TRK3101469,"[{'status': 'CREATED', 'time': '2023-09-14 18:01'}]",
+,,,,ORD-000433,FedEx,TRK4884000,"[{'status': 'CREATED', 'time': '2023-07-11T07:36:06Z'}, {'status': 'PICKED_UP', 'time': '2023-07-12T01:36:06Z'}]",
+ORD-001164,DHL,TRK-fb5b9951953f,"[{'status': 'CREATED', 'time': '2023-09-28 01:10'}]",,,,,
+ORD-000061,FedEx,TRK-66fd26850c92,"[{'status': 'CREATED', 'time': '2023-10-05T04:54:53Z'}, {'status': 'PICKED_UP', 'time': '2023-10-06T14:54:53Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-08T01:54:53Z'}]",,,,,
+,,,,ORD-000427,DHL,TRK5902041,"[{'status': 'CREATED', 'time': '2023-04-26T05:08:52Z'}, {'status': 'PICKED_UP', 'time': '2023-04-26T07:08:52Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-26T23:08:52Z'}]",
+,,,,ORD-000963,GIG,TRK6965813,"[{'status': 'CREATED', 'time': '2023-02-10T19:02:02Z'}, {'status': 'CREATED', 'time': '2023-02-12T11:02:02Z'}]",
+,FedEx,501007694,,,,,,"[{'status': 'PICKED_UP', 'time': '2023-09-21T19:58:00Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22T05:58:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-24T04:58:00Z'}]"
+,DHL,593849572,,,,,,"[{'status': 'CREATED', 'time': '2023-12-24 08:40'}, {'status': 'PICKED_UP', 'time': '2023-12-24T13:40:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-24T21:40:14Z'}, {'status': 'DELIVERED', 'time': '2023-12-26T00:40:14Z'}]"
+ORD-000646,Kwik,TRK-47894dddb5fd,"[{'status': 'CREATED', 'time': '2023-04-13T07:31:12Z'}]",,,,,
+,Kwik,358051711,,,,,,"[{'status': 'CREATED', 'time': '2023-11-19T23:49:33Z'}, {'status': 'PICKED_UP', 'time': '2023-11-21 16:49'}]"
+ORD-000751,Kwik,TRK-73c560fc1607,"[{'status': 'IN_TRANSIT', 'time': '2023-10-16T06:56:02Z'}, {'status': 'PICKED_UP', 'time': '2023-10-16T09:56:02Z'}, {'status': 'PICKED_UP', 'time': '2023-10-17T03:56:02Z'}, {'status': 'DELIVERED', 'time': '2023-10-18T19:56:02Z'}]",,,,,
+,,,,ORD-000933,FedEx,TRK8697738,"[{'status': 'CREATED', 'time': '2023-04-18T13:20:32Z'}, {'status': 'PICKED_UP', 'time': '2023-04-19T20:20:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-21 11:20'}, {'status': 'DELIVERED', 'time': '2023-04-21T15:20:32Z'}]",
+ORD-001094,FedEx,TRK-1fcffbc57098,"[{'status': 'CREATED', 'time': '2023-08-24 07:48'}, {'status': 'PICKED_UP', 'time': '2023-08-25T06:48:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-26T12:48:31Z'}]",,,,,
+ORD-000193,FedEx,TRK-96add63d3e32,"[{'status': 'CREATED', 'time': '2023-09-16T08:37:25Z'}, {'status': 'PICKED_UP', 'time': '2023-09-17T16:37:25Z'}]",,,,,
+,DHL,414969211,,,,,,"[{'status': 'CREATED', 'time': '2023-08-15 22:11'}]"
+,DHL,835194845,,,,,,"[{'status': 'CREATED', 'time': '2023-09-20T20:07:39Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22T14:07:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-23T05:07:39Z'}, {'status': 'DELIVERED', 'time': '2023-09-25 04:07'}]"
+,FedEx,294388246,,,,,,"[{'status': 'CREATED', 'time': '2023-11-05T05:13:08Z'}, {'status': 'PICKED_UP', 'time': '2023-11-06 10:13'}, {'status': 'IN_TRANSIT', 'time': '2023-11-08T00:13:08Z'}, {'status': 'DELIVERED', 'time': '2023-11-09T02:13:08Z'}]"
+,,,,ORD-000475,FedEx,TRK8537227,"[{'status': 'CREATED', 'time': '2023-04-07T09:30:34Z'}, {'status': 'PICKED_UP', 'time': '2023-04-08 21:30'}, {'status': 'IN_TRANSIT', 'time': '2023-04-10 03:30'}]",
+ORD-000227,Local,TRK-b75d23f8f60f,"[{'status': 'CREATED', 'time': '2023-06-01T10:47:15Z'}, {'status': 'PICKED_UP', 'time': '2023-06-01T16:47:15Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-02 03:47'}]",,,,,
+ORD-000241,Local,TRK-8f0a0d5e0681,"[{'status': 'CREATED', 'time': '2023-11-28T14:52:41Z'}, {'status': 'PICKED_UP', 'time': '2023-11-30T02:52:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-01T21:52:41Z'}, {'status': 'DELIVERED', 'time': '2023-12-03 11:52'}]",,,,,
+,FedEx,318186293,,,,,,"[{'status': 'IN_TRANSIT', 'time': '2023-12-09T11:36:17Z'}, {'status': 'CREATED', 'time': '2023-12-11T10:36:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-13 09:36'}, {'status': 'IN_TRANSIT', 'time': '2023-12-14T00:36:17Z'}]"
+,Kwik,687805571,,,,,,"[{'status': 'CREATED', 'time': '2023-05-06T23:40:40Z'}, {'status': 'PICKED_UP', 'time': '2023-05-07T08:40:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-09 01:40'}]"
+,,,,ORD-000196,FedEx,TRK6240339,"[{'status': 'CREATED', 'time': '2023-10-20T10:01:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-20T14:01:50Z'}, {'status': 'CREATED', 'time': '2023-10-20T23:01:50Z'}]",
+,,,,ORD-000083,Kwik,TRK3581490,"[{'status': 'CREATED', 'time': '2023-10-27T17:05:33Z'}, {'status': 'PICKED_UP', 'time': '2023-10-28T05:05:33Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-29T18:05:33Z'}, {'status': 'DELIVERED', 'time': '2023-10-30 17:05'}]",
+ORD-000929,Kwik,TRK-d7a2185d0793,"[{'status': 'CREATED', 'time': '2023-10-18 00:54'}, {'status': 'PICKED_UP', 'time': '2023-10-19 14:54'}, {'status': 'IN_TRANSIT', 'time': '2023-10-21T06:54:46Z'}]",,,,,
+,FedEx,997986716,,,,,,"[{'status': 'CREATED', 'time': '2023-12-25T08:13:46Z'}, {'status': 'PICKED_UP', 'time': '2023-12-26 06:13'}, {'status': 'IN_TRANSIT', 'time': '2023-12-27 12:13'}, {'status': 'DELIVERED', 'time': '2023-12-28T13:13:46Z'}]"
+,Kwik,301341868,,,,,,"[{'status': 'CREATED', 'time': '2023-09-18 08:51'}, {'status': 'PICKED_UP', 'time': '2023-09-18 13:51'}]"
+,,,,ORD-000293,FedEx,TRK3019510,"[{'status': 'CREATED', 'time': '2023-09-11 09:41'}]",
+,,,,ORD-001144,DHL,TRK4371853,"[{'status': 'CREATED', 'time': '2023-03-19T15:54:00Z'}, {'status': 'DELIVERED', 'time': '2023-03-19 20:54'}, {'status': 'IN_TRANSIT', 'time': '2023-03-20T08:54:00Z'}, {'status': 'PICKED_UP', 'time': '2023-03-20T13:54:00Z'}]",
+,,,,ORD-000204,Local,TRK8863701,"[{'status': 'CREATED', 'time': '2023-09-24T04:25:18Z'}, {'status': 'PICKED_UP', 'time': '2023-09-25 12:25'}, {'status': 'IN_TRANSIT', 'time': '2023-09-25T14:25:18Z'}, {'status': 'DELIVERED', 'time': '2023-09-26 01:25'}]",
+,,,,ORD-000211,FedEx,TRK3638790,"[{'status': 'CREATED', 'time': '2023-06-17T21:39:09Z'}, {'status': 'PICKED_UP', 'time': '2023-06-18T17:39:09Z'}]",
+,DHL,622998960,,,,,,"[{'status': 'CREATED', 'time': '2023-08-25T13:12:44Z'}]"
+,,,,ORD-000834,Kwik,TRK6234672,"[{'status': 'CREATED', 'time': '2023-06-04 22:16'}, {'status': 'PICKED_UP', 'time': '2023-06-06T04:16:00Z'}]",
+ORD-000505,FedEx,TRK-bb8f86b38cef,"[{'status': 'CREATED', 'time': '2023-06-04T19:28:24Z'}, {'status': 'PICKED_UP', 'time': '2023-06-05T23:28:24Z'}]",,,,,
+,,,,ORD-000259,Local,TRK3643673,"[{'status': 'CREATED', 'time': '2023-06-13 15:05'}]",
+,FedEx,169435477,,,,,,"[{'status': 'CREATED', 'time': '2023-03-22T09:57:00Z'}, {'status': 'PICKED_UP', 'time': '2023-03-22T17:57:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-24T15:57:00Z'}, {'status': 'DELIVERED', 'time': '2023-03-26 11:57'}]"
+,,,,ORD-000487,Kwik,TRK5806454,"[{'status': 'CREATED', 'time': '2023-01-12T21:04:08Z'}, {'status': 'PICKED_UP', 'time': '2023-01-14T18:04:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-16T17:04:08Z'}, {'status': 'DELIVERED', 'time': '2023-01-17T23:04:08Z'}]",
+,,,,ORD-000009,FedEx,TRK5656364,"[{'status': 'CREATED', 'time': '2023-04-03 17:56'}, {'status': 'PICKED_UP', 'time': '2023-04-04T02:56:36Z'}]",
+,,,,ORD-000454,DHL,TRK7135310,"[{'status': 'CREATED', 'time': '2023-03-30 06:41'}, {'status': 'PICKED_UP', 'time': '2023-03-30T12:41:44Z'}]",
+ORD-001135,DHL,TRK-78f3ad8513aa,"[{'status': 'CREATED', 'time': '2023-04-05T08:43:45Z'}]",,,,,
+,,,,ORD-000458,DHL,TRK8389817,"[{'status': 'CREATED', 'time': '2023-10-31T01:40:06Z'}, {'status': 'PICKED_UP', 'time': '2023-10-31T21:40:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-01T22:40:06Z'}, {'status': 'DELIVERED', 'time': '2023-11-02T07:40:06Z'}]",
+,FedEx,670803961,,,,,,"[{'status': 'CREATED', 'time': '2023-05-16T03:33:00Z'}, {'status': 'PICKED_UP', 'time': '2023-05-16T15:33:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-17T16:33:00Z'}]"
+,,,,ORD-001010,Local,TRK8281628,"[{'status': 'CREATED', 'time': '2023-04-23T22:24:48Z'}]",
+,,,,ORD-000355,DHL,TRK7143891,"[{'status': 'CREATED', 'time': '2023-08-08T02:50:52Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09T07:50:52Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-10T09:50:52Z'}, {'status': 'DELIVERED', 'time': '2023-08-11T08:50:52Z'}]",
+,,,,ORD-000179,GIG,TRK8622601,"[{'status': 'CREATED', 'time': '2023-11-08T20:41:42Z'}, {'status': 'PICKED_UP', 'time': '2023-11-10T11:41:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-11T22:41:42Z'}, {'status': 'DELIVERED', 'time': '2023-11-12T21:41:42Z'}]",
+,,,,ORD-000406,FedEx,TRK3676026,"[{'status': 'CREATED', 'time': '2023-10-26T03:28:19Z'}, {'status': 'PICKED_UP', 'time': '2023-10-26T06:28:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-27 23:28'}]",
+ORD-000230,FedEx,TRK-ff6a3046e649,"[{'status': 'CREATED', 'time': '2023-12-31T13:01:27Z'}, {'status': 'PICKED_UP', 'time': '2024-01-02T10:01:27Z'}, {'status': 'IN_TRANSIT', 'time': '2024-01-03T08:01:27Z'}]",,,,,
+ORD-000687,Local,TRK-abd1aa7c241f,"[{'status': 'CREATED', 'time': '2023-03-02 13:59'}, {'status': 'PICKED_UP', 'time': '2023-03-03T19:59:29Z'}]",,,,,
+ORD-000195,Kwik,TRK-c2237424e77b,"[{'status': 'CREATED', 'time': '2023-02-11T23:16:47Z'}, {'status': 'PICKED_UP', 'time': '2023-02-13T23:16:47Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-15T16:16:47Z'}]",,,,,
+,GIG,531483133,,,,,,"[{'status': 'CREATED', 'time': '2023-08-23T07:34:18Z'}, {'status': 'PICKED_UP', 'time': '2023-08-25 02:34'}, {'status': 'IN_TRANSIT', 'time': '2023-08-27 02:34'}]"
+ORD-001056,DHL,TRK-cf86be46e446,"[{'status': 'CREATED', 'time': '2023-07-10T06:08:30Z'}, {'status': 'CREATED', 'time': '2023-07-11T21:08:30Z'}]",,,,,
+,GIG,403460542,,,,,,"[{'status': 'CREATED', 'time': '2023-12-20T20:13:30Z'}]"
+,,,,ORD-000052,GIG,TRK6725632,"[{'status': 'CREATED', 'time': '2023-01-14T03:40:14Z'}]",
+,FedEx,710310179,,,,,,"[{'status': 'CREATED', 'time': '2023-11-18T11:31:32Z'}, {'status': 'PICKED_UP', 'time': '2023-11-20T05:31:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-20 13:31'}, {'status': 'DELIVERED', 'time': '2023-11-20T19:31:32Z'}]"
+,,,,ORD-000622,FedEx,TRK8080411,"[{'status': 'CREATED', 'time': '2023-01-09T19:25:52Z'}, {'status': 'PICKED_UP', 'time': '2023-01-10 15:25'}]",
+ORD-000529,Kwik,TRK-917cdb0ff550,"[{'status': 'CREATED', 'time': '2023-07-18 06:39'}]",,,,,
+,Local,941192209,,,,,,"[{'status': 'CREATED', 'time': '2023-12-03T00:35:52Z'}, {'status': 'PICKED_UP', 'time': '2023-12-03T19:35:52Z'}]"
+,Kwik,900031162,,,,,,"[{'status': 'CREATED', 'time': '2023-12-17T15:09:23Z'}, {'status': 'PICKED_UP', 'time': '2023-12-19T06:09:23Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-19T23:09:23Z'}]"
+,,,,ORD-000887,GIG,TRK1380835,"[{'status': 'CREATED', 'time': '2023-06-12 10:04'}, {'status': 'PICKED_UP', 'time': '2023-06-13T13:04:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-14T23:04:48Z'}]",
+,DHL,527280108,,,,,,"[{'status': 'CREATED', 'time': '2023-09-01T01:34:31Z'}, {'status': 'PICKED_UP', 'time': '2023-09-02T11:34:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-03T14:34:31Z'}]"
+,,,,ORD-000555,GIG,TRK1385321,"[{'status': 'CREATED', 'time': '2023-01-18 07:50'}, {'status': 'PICKED_UP', 'time': '2023-01-19 21:50'}, {'status': 'IN_TRANSIT', 'time': '2023-01-20 11:50'}, {'status': 'DELIVERED', 'time': '2023-01-20 21:50'}]",
+ORD-000967,Kwik,TRK-e2aaaa6b6de3,"[{'status': 'CREATED', 'time': '2023-04-16 15:54'}, {'status': 'PICKED_UP', 'time': '2023-04-17T19:54:54Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-18T10:54:54Z'}, {'status': 'DELIVERED', 'time': '2023-04-20T00:54:54Z'}]",,,,,
+,,,,ORD-001004,Kwik,TRK5551579,"[{'status': 'CREATED', 'time': '2023-05-05T14:09:39Z'}, {'status': 'PICKED_UP', 'time': '2023-05-07T00:09:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-07T17:09:39Z'}, {'status': 'DELIVERED', 'time': '2023-05-07T21:09:39Z'}]",
+ORD-000572,FedEx,TRK-3399bcbffd83,"[{'status': 'CREATED', 'time': '2023-09-21T06:31:17Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22T16:31:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-23T05:31:17Z'}, {'status': 'DELIVERED', 'time': '2023-09-24T22:31:17Z'}]",,,,,
+ORD-000402,FedEx,TRK-59b556c0d7e8,"[{'status': 'CREATED', 'time': '2023-05-26T03:53:57Z'}, {'status': 'PICKED_UP', 'time': '2023-05-26T15:53:57Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-27T19:53:57Z'}, {'status': 'DELIVERED', 'time': '2023-05-28 02:53'}]",,,,,
+ORD-000698,FedEx,TRK-2a4d6ff9bcb1,"[{'status': 'CREATED', 'time': '2023-12-19T09:26:03Z'}, {'status': 'PICKED_UP', 'time': '2023-12-21 01:26'}, {'status': 'IN_TRANSIT', 'time': '2023-12-22 01:26'}]",,,,,
+,DHL,194414657,,,,,,"[{'status': 'CREATED', 'time': '2023-10-30 23:33'}]"
+,,,,ORD-000931,DHL,TRK3240086,"[{'status': 'CREATED', 'time': '2023-02-02T21:51:32Z'}]",
+,Kwik,847879761,,,,,,"[{'status': 'CREATED', 'time': '2023-10-23 04:48'}, {'status': 'PICKED_UP', 'time': '2023-10-25T00:48:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-25 08:48'}]"
+,DHL,987966276,,,,,,"[{'status': 'CREATED', 'time': '2023-01-29 23:29'}]"
+,,,,ORD-001083,GIG,TRK1868054,"[{'status': 'CREATED', 'time': '2023-11-24T00:31:54Z'}, {'status': 'PICKED_UP', 'time': '2023-11-25T05:31:54Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-26 14:31'}, {'status': 'DELIVERED', 'time': '2023-11-27T08:31:54Z'}]",
+ORD-000200,Kwik,TRK-3df90bfa90d3,"[{'status': 'CREATED', 'time': '2023-09-16T14:03:07Z'}]",,,,,
+,FedEx,943797961,,,,,,"[{'status': 'CREATED', 'time': '2023-07-02T03:38:25Z'}, {'status': 'PICKED_UP', 'time': '2023-07-03T09:38:25Z'}]"
+,GIG,761387681,,,,,,"[{'status': 'CREATED', 'time': '2023-03-28T22:17:20Z'}, {'status': 'PICKED_UP', 'time': '2023-03-29T20:17:20Z'}]"
+ORD-000266,Kwik,TRK-608744efe99a,"[{'status': 'CREATED', 'time': '2023-04-14T18:39:15Z'}, {'status': 'PICKED_UP', 'time': '2023-04-15T07:39:15Z'}]",,,,,
+,,,,ORD-000742,GIG,TRK7349535,"[{'status': 'CREATED', 'time': '2023-09-20T05:21:20Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-21T01:21:20Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22 06:21'}]",
+,Kwik,596199035,,,,,,"[{'status': 'CREATED', 'time': '2023-04-01T22:29:08Z'}, {'status': 'PICKED_UP', 'time': '2023-04-03 08:29'}, {'status': 'IN_TRANSIT', 'time': '2023-04-03 21:29'}, {'status': 'DELIVERED', 'time': '2023-04-04 00:29'}]"
+,FedEx,160105598,,,,,,"[{'status': 'CREATED', 'time': '2023-09-02 11:23'}, {'status': 'PICKED_UP', 'time': '2023-09-03T08:23:06Z'}]"
+,DHL,261290454,,,,,,"[{'status': 'CREATED', 'time': '2023-10-01T00:02:13Z'}, {'status': 'PICKED_UP', 'time': '2023-10-01T17:02:13Z'}]"
+,,,,ORD-000650,FedEx,TRK5862224,"[{'status': 'CREATED', 'time': '2023-06-10T03:19:58Z'}]",
+,DHL,341404158,,,,,,"[{'status': 'CREATED', 'time': '2023-06-23T02:41:03Z'}, {'status': 'PICKED_UP', 'time': '2023-06-24T16:41:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-25T21:41:03Z'}, {'status': 'DELIVERED', 'time': '2023-06-27 01:41'}]"
+,,,,ORD-001176,Local,TRK6625668,"[{'status': 'CREATED', 'time': '2023-08-30 01:54'}, {'status': 'PICKED_UP', 'time': '2023-08-31T16:54:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-31T22:54:28Z'}]",
+ORD-000898,FedEx,TRK-51dd9425f54f,"[{'status': 'CREATED', 'time': '2023-03-31T09:33:08Z'}, {'status': 'PICKED_UP', 'time': '2023-04-01T04:33:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-02T13:33:08Z'}]",,,,,
+,,,,ORD-000282,Local,TRK9278963,"[{'status': 'CREATED', 'time': '2023-09-21T15:30:29Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22T15:30:29Z'}]",
+,DHL,204601003,,,,,,"[{'status': 'CREATED', 'time': '2023-02-05T02:35:44Z'}, {'status': 'PICKED_UP', 'time': '2023-02-05T12:35:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-07 01:35'}, {'status': 'DELIVERED', 'time': '2023-02-07T10:35:44Z'}]"
+ORD-000524,Kwik,TRK-eae113cf9bd9,"[{'status': 'CREATED', 'time': '2023-07-17T15:18:13Z'}, {'status': 'PICKED_UP', 'time': '2023-07-18T04:18:13Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-19T02:18:13Z'}, {'status': 'DELIVERED', 'time': '2023-07-20T17:18:13Z'}]",,,,,
+ORD-001194,Kwik,TRK-fe59564290ad,"[{'status': 'CREATED', 'time': '2023-08-10T04:45:47Z'}, {'status': 'PICKED_UP', 'time': '2023-08-12 00:45'}, {'status': 'IN_TRANSIT', 'time': '2023-08-12T02:45:47Z'}, {'status': 'DELIVERED', 'time': '2023-08-12T04:45:47Z'}]",,,,,
+,Local,523137454,,,,,,"[{'status': 'CREATED', 'time': '2023-09-28T13:27:15Z'}, {'status': 'PICKED_UP', 'time': '2023-09-29T02:27:15Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-30 23:27'}, {'status': 'DELIVERED', 'time': '2023-10-01 19:27'}]"
+,,,,ORD-000868,Kwik,TRK2928826,"[{'status': 'CREATED', 'time': '2023-10-02T18:36:57Z'}, {'status': 'PICKED_UP', 'time': '2023-10-02 22:36'}]",
+ORD-000936,FedEx,TRK-09f9e1937165,"[{'status': 'CREATED', 'time': '2023-08-17T15:55:59Z'}, {'status': 'PICKED_UP', 'time': '2023-08-19T10:55:59Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-20T04:55:59Z'}, {'status': 'DELIVERED', 'time': '2023-08-20T21:55:59Z'}]",,,,,
+,,,,ORD-000949,FedEx,TRK6413518,"[{'status': 'CREATED', 'time': '2023-09-21T17:14:22Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22 11:14'}, {'status': 'IN_TRANSIT', 'time': '2023-09-22T21:14:22Z'}, {'status': 'DELIVERED', 'time': '2023-09-23T20:14:22Z'}]",
+ORD-000099,DHL,TRK-380bd101684e,"[{'status': 'DELIVERED', 'time': '2023-09-18T03:59:20Z'}]",,,,,
+,,,,ORD-000964,Local,TRK1591068,"[{'status': 'CREATED', 'time': '2023-01-30 06:09'}, {'status': 'PICKED_UP', 'time': '2023-01-31T10:09:52Z'}]",
+,,,,ORD-000986,GIG,TRK5862556,"[{'status': 'CREATED', 'time': '2023-06-04T07:24:13Z'}, {'status': 'PICKED_UP', 'time': '2023-06-05 16:24'}, {'status': 'IN_TRANSIT', 'time': '2023-06-06T11:24:13Z'}, {'status': 'DELIVERED', 'time': '2023-06-06T18:24:13Z'}]",
+,,,,ORD-000472,Local,TRK7236341,"[{'status': 'CREATED', 'time': '2023-06-02 04:30'}, {'status': 'PICKED_UP', 'time': '2023-06-02T09:30:45Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-03 09:30'}, {'status': 'DELIVERED', 'time': '2023-06-04 11:30'}]",
+,,,,ORD-000296,FedEx,TRK3950400,"[{'status': 'CREATED', 'time': '2023-05-08T15:50:19Z'}, {'status': 'PICKED_UP', 'time': '2023-05-09 13:50'}, {'status': 'IN_TRANSIT', 'time': '2023-05-10 21:50'}, {'status': 'DELIVERED', 'time': '2023-05-11 04:50'}]",
+,DHL,296939254,,,,,,"[{'status': 'CREATED', 'time': '2023-03-30T01:48:24Z'}, {'status': 'PICKED_UP', 'time': '2023-04-01T01:48:24Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-02 22:48'}]"
+ORD-000776,FedEx,TRK-0a756d89ce63,"[{'status': 'CREATED', 'time': '2023-04-13 22:14'}, {'status': 'PICKED_UP', 'time': '2023-04-14 06:14'}]",,,,,
+,,,,ORD-000361,FedEx,TRK4652602,"[{'status': 'CREATED', 'time': '2023-05-11T08:44:10Z'}, {'status': 'PICKED_UP', 'time': '2023-05-11T12:44:10Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-11T18:44:10Z'}, {'status': 'DELIVERED', 'time': '2023-05-12T17:44:10Z'}]",
+ORD-000034,DHL,TRK-85ae802a597c,"[{'status': 'CREATED', 'time': '2023-09-11 15:34'}, {'status': 'PICKED_UP', 'time': '2023-09-12 00:34'}, {'status': 'IN_TRANSIT', 'time': '2023-09-12T05:34:25Z'}, {'status': 'DELIVERED', 'time': '2023-09-12T11:34:25Z'}]",,,,,
+,GIG,895530623,,,,,,"[{'status': 'CREATED', 'time': '2023-06-30T23:08:23Z'}]"
+ORD-000746,Local,TRK-196795fe710c,"[{'status': 'CREATED', 'time': '2023-12-08T02:57:40Z'}, {'status': 'PICKED_UP', 'time': '2023-12-09T18:57:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-10T06:57:40Z'}, {'status': 'DELIVERED', 'time': '2023-12-12 00:57'}]",,,,,
+,FedEx,195747445,,,,,,"[{'status': 'CREATED', 'time': '2023-10-20T07:58:26Z'}, {'status': 'PICKED_UP', 'time': '2023-10-21T06:58:26Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-22T17:58:26Z'}, {'status': 'DELIVERED', 'time': '2023-10-24 16:58'}]"
+,GIG,716199523,,,,,,"[{'status': 'CREATED', 'time': '2023-08-18 22:50'}, {'status': 'PICKED_UP', 'time': '2023-08-19T20:50:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-21T09:50:11Z'}, {'status': 'DELIVERED', 'time': '2023-08-22T17:50:11Z'}]"
+ORD-000507,Local,TRK-68d267426477,"[{'status': 'CREATED', 'time': '2023-10-29T18:11:41Z'}]",,,,,
+,,,,ORD-000400,Kwik,TRK9383946,"[{'status': 'CREATED', 'time': '2023-11-14T03:48:24Z'}, {'status': 'PICKED_UP', 'time': '2023-11-15 08:48'}, {'status': 'IN_TRANSIT', 'time': '2023-11-16T20:48:24Z'}]",
+ORD-000988,Kwik,TRK-5f7e1f060896,"[{'status': 'CREATED', 'time': '2023-09-27T10:59:09Z'}, {'status': 'PICKED_UP', 'time': '2023-09-27 23:59'}]",,,,,
+,Local,268052400,,,,,,"[{'status': 'CREATED', 'time': '2023-08-18T14:15:42Z'}, {'status': 'PICKED_UP', 'time': '2023-08-20 10:15'}, {'status': 'IN_TRANSIT', 'time': '2023-08-21T11:15:42Z'}]"
+ORD-000318,FedEx,TRK-586c47187b97,"[{'status': 'CREATED', 'time': '2023-09-27T10:37:28Z'}, {'status': 'PICKED_UP', 'time': '2023-09-28T08:37:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-30T04:37:28Z'}]",,,,,
+ORD-000400,GIG,TRK-1975cd8a4220,"[{'status': 'CREATED', 'time': '2023-11-02 22:52'}, {'status': 'PICKED_UP', 'time': '2023-11-04T21:52:13Z'}]",,,,,
+,,,,ORD-000483,Kwik,TRK9127291,"[{'status': 'CREATED', 'time': '2023-02-27T04:33:49Z'}, {'status': 'PICKED_UP', 'time': '2023-03-01 04:33'}, {'status': 'IN_TRANSIT', 'time': '2023-03-02 04:33'}, {'status': 'DELIVERED', 'time': '2023-03-03T20:33:49Z'}]",
+,,,,ORD-000321,GIG,TRK9722823,"[{'status': 'CREATED', 'time': '2023-07-25T17:59:15Z'}, {'status': 'PICKED_UP', 'time': '2023-07-26T12:59:15Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-27T10:59:15Z'}]",
+ORD-000503,Kwik,TRK-bc1abb1b44d8,"[{'status': 'CREATED', 'time': '2023-10-22 19:51'}]",,,,,
+,Kwik,979206441,,,,,,"[{'status': 'CREATED', 'time': '2023-08-02T12:10:23Z'}]"
+ORD-000719,Local,TRK-2730a81f8ea9,"[{'status': 'CREATED', 'time': '2023-10-19T23:09:57Z'}, {'status': 'PICKED_UP', 'time': '2023-10-21T10:09:57Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-21T12:09:57Z'}]",,,,,
+,,,,ORD-000862,FedEx,TRK7323799,"[{'status': 'CREATED', 'time': '2023-08-20T15:31:17Z'}, {'status': 'PICKED_UP', 'time': '2023-08-21T20:31:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-22T11:31:17Z'}, {'status': 'DELIVERED', 'time': '2023-08-24T11:31:17Z'}]",
+,,,,ORD-000398,Local,TRK7852215,"[{'status': 'CREATED', 'time': '2023-11-03T03:14:32Z'}, {'status': 'PICKED_UP', 'time': '2023-11-03T19:14:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-05T01:14:32Z'}]",
+ORD-000469,Local,TRK-6580794e2523,"[{'status': 'CREATED', 'time': '2023-07-08T03:22:22Z'}, {'status': 'PICKED_UP', 'time': '2023-07-08T15:22:22Z'}]",,,,,
+,,,,ORD-000153,Kwik,TRK6255003,"[{'status': 'CREATED', 'time': '2023-01-02T00:49:59Z'}, {'status': 'PICKED_UP', 'time': '2023-01-03T18:49:59Z'}]",
+,,,,ORD-000103,DHL,TRK5236221,"[{'status': 'CREATED', 'time': '2023-03-06T00:05:03Z'}]",
+ORD-000970,Local,TRK-c01125e048f2,"[{'status': 'DELIVERED', 'time': '2023-10-20T15:56:34Z'}, {'status': 'DELIVERED', 'time': '2023-10-22T06:56:34Z'}, {'status': 'PICKED_UP', 'time': '2023-10-22 23:56'}, {'status': 'CREATED', 'time': '2023-10-24T03:56:34Z'}]",,,,,
+,GIG,517542712,,,,,,"[{'status': 'CREATED', 'time': '2024-01-01T02:19:23Z'}, {'status': 'PICKED_UP', 'time': '2024-01-02 08:19'}, {'status': 'IN_TRANSIT', 'time': '2024-01-03 17:19'}]"
+,,,,ORD-000893,Kwik,TRK8594765,"[{'status': 'CREATED', 'time': '2023-03-23T01:36:23Z'}, {'status': 'PICKED_UP', 'time': '2023-03-24 07:36'}, {'status': 'IN_TRANSIT', 'time': '2023-03-25 17:36'}, {'status': 'DELIVERED', 'time': '2023-03-27T14:36:23Z'}]",
+ORD-000239,FedEx,TRK-04703995cdec,"[{'status': 'CREATED', 'time': '2023-02-14 17:23'}, {'status': 'PICKED_UP', 'time': '2023-02-16T17:23:38Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-17T19:23:38Z'}]",,,,,
+,FedEx,787420276,,,,,,"[{'status': 'CREATED', 'time': '2023-05-06T01:51:15Z'}, {'status': 'PICKED_UP', 'time': '2023-05-07T09:51:15Z'}]"
+ORD-000324,DHL,TRK-42aebec4f89a,"[{'status': 'CREATED', 'time': '2023-02-26T09:50:15Z'}, {'status': 'PICKED_UP', 'time': '2023-02-27T10:50:15Z'}]",,,,,
+,DHL,786389985,,,,,,"[{'status': 'CREATED', 'time': '2023-10-22T23:00:02Z'}, {'status': 'PICKED_UP', 'time': '2023-10-24T19:00:02Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-25T11:00:02Z'}, {'status': 'DELIVERED', 'time': '2023-10-26 00:00'}]"
+ORD-000059,FedEx,TRK-bc6e93ace25d,"[{'status': 'CREATED', 'time': '2023-05-07 16:59'}]",,,,,
+,,,,ORD-000472,GIG,TRK5872940,"[{'status': 'CREATED', 'time': '2023-05-07 00:02'}, {'status': 'PICKED_UP', 'time': '2023-05-07T06:02:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-08T01:02:41Z'}]",
+ORD-000838,GIG,TRK-00e485ccec07,"[{'status': 'CREATED', 'time': '2023-12-01T07:15:15Z'}, {'status': 'PICKED_UP', 'time': '2023-12-01T23:15:15Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-02 04:15'}, {'status': 'DELIVERED', 'time': '2023-12-03T08:15:15Z'}]",,,,,
+ORD-000762,GIG,TRK-d8d4ec9284ce,"[{'status': 'CREATED', 'time': '2023-12-08T20:12:14Z'}, {'status': 'PICKED_UP', 'time': '2023-12-10T11:12:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-10T14:12:14Z'}]",,,,,
+ORD-001032,Local,TRK-9d42e63f4b41,"[{'status': 'CREATED', 'time': '2023-10-11T16:17:36Z'}]",,,,,
+,Local,603437616,,,,,,"[{'status': 'CREATED', 'time': '2023-05-08T20:14:15Z'}, {'status': 'PICKED_UP', 'time': '2023-05-10 18:14'}, {'status': 'IN_TRANSIT', 'time': '2023-05-11T08:14:15Z'}, {'status': 'DELIVERED', 'time': '2023-05-12T13:14:15Z'}]"
+ORD-000934,Local,TRK-6336a7ced231,"[{'status': 'CREATED', 'time': '2023-08-15T17:43:33Z'}, {'status': 'PICKED_UP', 'time': '2023-08-17T07:43:33Z'}]",,,,,
+,Kwik,810559037,,,,,,"[{'status': 'CREATED', 'time': '2023-11-11 19:36'}, {'status': 'PICKED_UP', 'time': '2023-11-12T00:36:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-12T20:36:07Z'}]"
+,,,,ORD-000095,DHL,TRK2370529,"[{'status': 'CREATED', 'time': '2023-10-02 00:08'}, {'status': 'PICKED_UP', 'time': '2023-10-04 00:08'}]",
+,,,,ORD-000036,FedEx,TRK9670359,"[{'status': 'CREATED', 'time': '2023-08-28 15:41'}, {'status': 'PICKED_UP', 'time': '2023-08-29T18:41:17Z'}]",
+,,,,ORD-000325,FedEx,TRK6360115,"[{'status': 'CREATED', 'time': '2023-04-24T10:43:31Z'}, {'status': 'PICKED_UP', 'time': '2023-04-26T06:43:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-27T06:43:31Z'}, {'status': 'DELIVERED', 'time': '2023-04-27T15:43:31Z'}]",
+,DHL,643335609,,,,,,"[{'status': 'CREATED', 'time': '2023-08-04T19:02:57Z'}, {'status': 'PICKED_UP', 'time': '2023-08-05 02:02'}, {'status': 'IN_TRANSIT', 'time': '2023-08-06 17:02'}, {'status': 'DELIVERED', 'time': '2023-08-08T06:02:57Z'}]"
+,,,,ORD-001026,FedEx,TRK3381277,"[{'status': 'CREATED', 'time': '2023-01-04 16:36'}, {'status': 'PICKED_UP', 'time': '2023-01-06T14:36:18Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-06T16:36:18Z'}, {'status': 'DELIVERED', 'time': '2023-01-07T19:36:18Z'}]",
+,DHL,936962481,,,,,,"[{'status': 'DELIVERED', 'time': '2023-03-26 12:53'}, {'status': 'CREATED', 'time': '2023-03-26T16:53:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-27T20:53:19Z'}]"
+,Local,458199306,,,,,,"[{'status': 'CREATED', 'time': '2023-02-12T04:02:58Z'}, {'status': 'PICKED_UP', 'time': '2023-02-12 07:02'}, {'status': 'IN_TRANSIT', 'time': '2023-02-12T20:02:58Z'}]"
+,,,,ORD-000460,FedEx,TRK2735182,"[{'status': 'CREATED', 'time': '2023-08-12T00:58:39Z'}, {'status': 'PICKED_UP', 'time': '2023-08-12T21:58:39Z'}]",
+ORD-000982,Local,TRK-4552526ff002,"[{'status': 'CREATED', 'time': '2023-01-03T13:30:36Z'}, {'status': 'PICKED_UP', 'time': '2023-01-05T00:30:36Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-05T15:30:36Z'}, {'status': 'DELIVERED', 'time': '2023-01-07T04:30:36Z'}]",,,,,
+,,,,ORD-000419,FedEx,TRK8139826,"[{'status': 'CREATED', 'time': '2023-10-30T18:52:32Z'}]",
+,Kwik,705721211,,,,,,"[{'status': 'CREATED', 'time': '2023-06-12T00:33:17Z'}]"
+,,,,ORD-000729,FedEx,TRK9076397,"[{'status': 'CREATED', 'time': '2023-11-02T15:34:48Z'}, {'status': 'PICKED_UP', 'time': '2023-11-02T17:34:48Z'}]",
+,,,,ORD-000268,GIG,TRK6748079,"[{'status': 'IN_TRANSIT', 'time': '2023-01-07T09:16:23Z'}, {'status': 'CREATED', 'time': '2023-01-08 07:16'}, {'status': 'CREATED', 'time': '2023-01-09T18:16:23Z'}]",
+,DHL,951446055,,,,,,"[{'status': 'CREATED', 'time': '2023-04-26T03:16:27Z'}, {'status': 'PICKED_UP', 'time': '2023-04-27T14:16:27Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-28 10:16'}]"
+ORD-000587,DHL,TRK-178af95e333c,"[{'status': 'CREATED', 'time': '2023-05-25T12:14:18Z'}]",,,,,
+,,,,ORD-000832,DHL,TRK6759222,"[{'status': 'CREATED', 'time': '2023-01-08 05:24'}]",
+,Kwik,460471406,,,,,,"[{'status': 'CREATED', 'time': '2023-05-31T07:17:19Z'}, {'status': 'PICKED_UP', 'time': '2023-06-02T06:17:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-04T02:17:19Z'}, {'status': 'DELIVERED', 'time': '2023-06-04T06:17:19Z'}]"
+,,,,ORD-001131,DHL,TRK7449614,"[{'status': 'CREATED', 'time': '2023-01-15T12:07:38Z'}, {'status': 'PICKED_UP', 'time': '2023-01-17T02:07:38Z'}]",
+,DHL,827724171,,,,,,"[{'status': 'CREATED', 'time': '2023-11-04T14:54:45Z'}, {'status': 'PICKED_UP', 'time': '2023-11-05 14:54'}, {'status': 'IN_TRANSIT', 'time': '2023-11-07 09:54'}]"
+,Kwik,489574969,,,,,,"[{'status': 'CREATED', 'time': '2023-06-04T00:56:11Z'}, {'status': 'PICKED_UP', 'time': '2023-06-04 10:56'}]"
+,GIG,475249401,,,,,,"[{'status': 'CREATED', 'time': '2023-12-24 07:34'}]"
+,,,,ORD-000133,FedEx,TRK7733998,"[{'status': 'CREATED', 'time': '2023-12-07T02:58:01Z'}, {'status': 'PICKED_UP', 'time': '2023-12-08T19:58:01Z'}]",
+,Kwik,327331385,,,,,,"[{'status': 'CREATED', 'time': '2023-08-26T22:01:02Z'}]"
+ORD-001124,DHL,TRK-fb567cbe6908,"[{'status': 'CREATED', 'time': '2023-04-17 14:38'}, {'status': 'PICKED_UP', 'time': '2023-04-17T22:38:36Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-19T19:38:36Z'}, {'status': 'DELIVERED', 'time': '2023-04-20 04:38'}]",,,,,
+,Local,210216683,,,,,,"[{'status': 'CREATED', 'time': '2023-07-16 07:37'}, {'status': 'PICKED_UP', 'time': '2023-07-17T22:37:22Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-18 07:37'}, {'status': 'DELIVERED', 'time': '2023-07-19 11:37'}]"
+ORD-000457,Kwik,TRK-a6dd7efe8009,"[{'status': 'CREATED', 'time': '2023-03-31T14:06:11Z'}, {'status': 'PICKED_UP', 'time': '2023-04-02T03:06:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-02T08:06:11Z'}]",,,,,
+,,,,ORD-000667,FedEx,TRK9398315,"[{'status': 'CREATED', 'time': '2023-12-27T15:44:30Z'}, {'status': 'PICKED_UP', 'time': '2023-12-28T07:44:30Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-29T07:44:30Z'}, {'status': 'DELIVERED', 'time': '2023-12-29T15:44:30Z'}]",
+,,,,ORD-000927,Local,TRK6185489,"[{'status': 'CREATED', 'time': '2023-03-10T12:09:47Z'}, {'status': 'PICKED_UP', 'time': '2023-03-11 21:09'}]",
+,,,,ORD-001001,Local,TRK8572438,"[{'status': 'CREATED', 'time': '2023-05-24T01:25:14Z'}]",
+,,,,ORD-000246,FedEx,TRK1617785,"[{'status': 'CREATED', 'time': '2023-12-18 06:29'}, {'status': 'PICKED_UP', 'time': '2023-12-19T15:29:46Z'}]",
+ORD-000569,FedEx,TRK-6230a9e74f37,"[{'status': 'CREATED', 'time': '2023-05-30T08:35:55Z'}]",,,,,
+ORD-000682,Local,TRK-031fe3454fab,"[{'status': 'CREATED', 'time': '2023-11-26T17:27:49Z'}, {'status': 'PICKED_UP', 'time': '2023-11-27T22:27:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-28T22:27:49Z'}]",,,,,
+,DHL,996815094,,,,,,"[{'status': 'CREATED', 'time': '2023-12-18 11:52'}, {'status': 'PICKED_UP', 'time': '2023-12-19T12:52:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-21T08:52:50Z'}, {'status': 'DELIVERED', 'time': '2023-12-22 22:52'}]"
+,GIG,577003180,,,,,,"[{'status': 'CREATED', 'time': '2023-11-15T08:27:33Z'}, {'status': 'PICKED_UP', 'time': '2023-11-16 17:27'}, {'status': 'IN_TRANSIT', 'time': '2023-11-17T03:27:33Z'}, {'status': 'DELIVERED', 'time': '2023-11-17 17:27'}]"
+,FedEx,402062822,,,,,,"[{'status': 'CREATED', 'time': '2023-06-03 04:21'}, {'status': 'PICKED_UP', 'time': '2023-06-04T12:21:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-04 14:21'}]"
+,,,,ORD-000248,GIG,TRK5738135,"[{'status': 'CREATED', 'time': '2023-06-20T08:01:03Z'}, {'status': 'PICKED_UP', 'time': '2023-06-20T20:01:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-21T05:01:03Z'}]",
+,,,,ORD-000318,Kwik,TRK3061601,"[{'status': 'CREATED', 'time': '2023-05-19T17:15:55Z'}, {'status': 'PICKED_UP', 'time': '2023-05-20 22:15'}, {'status': 'IN_TRANSIT', 'time': '2023-05-21T05:15:55Z'}]",
+,,,,ORD-000738,GIG,TRK7073818,"[{'status': 'CREATED', 'time': '2023-01-30T02:45:43Z'}]",
+,,,,ORD-000290,DHL,TRK9565669,"[{'status': 'CREATED', 'time': '2023-05-14T06:12:40Z'}]",
+,GIG,320677622,,,,,,"[{'status': 'CREATED', 'time': '2023-12-08T18:30:13Z'}, {'status': 'PICKED_UP', 'time': '2023-12-09T00:30:13Z'}]"
+ORD-000629,GIG,TRK-37e420a30772,"[{'status': 'CREATED', 'time': '2023-09-27T11:23:24Z'}, {'status': 'PICKED_UP', 'time': '2023-09-27 19:23'}]",,,,,
+,,,,ORD-000311,FedEx,TRK8206562,"[{'status': 'CREATED', 'time': '2023-07-03T04:26:01Z'}, {'status': 'PICKED_UP', 'time': '2023-07-04T08:26:01Z'}]",
+,,,,ORD-000900,Local,TRK8488495,"[{'status': 'CREATED', 'time': '2023-06-20 03:03'}, {'status': 'PICKED_UP', 'time': '2023-06-21T18:03:46Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-22 14:03'}]",
+,,,,ORD-000938,DHL,TRK4376481,"[{'status': 'CREATED', 'time': '2023-08-16T11:15:54Z'}, {'status': 'PICKED_UP', 'time': '2023-08-18T04:15:54Z'}]",
+,,,,ORD-000855,DHL,TRK6542086,"[{'status': 'CREATED', 'time': '2023-05-17 14:20'}, {'status': 'PICKED_UP', 'time': '2023-05-18T17:20:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-19 11:20'}, {'status': 'DELIVERED', 'time': '2023-05-21 03:20'}]",
+,,,,ORD-000471,GIG,TRK2800247,"[{'status': 'CREATED', 'time': '2023-09-11T21:22:43Z'}, {'status': 'PICKED_UP', 'time': '2023-09-12T10:22:43Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-12T16:22:43Z'}, {'status': 'DELIVERED', 'time': '2023-09-14 15:22'}]",
+,,,,ORD-000991,GIG,TRK9959229,"[{'status': 'CREATED', 'time': '2023-08-21T16:15:33Z'}]",
+ORD-000454,DHL,TRK-46860d653397,"[{'status': 'CREATED', 'time': '2023-03-21 09:23'}]",,,,,
+ORD-001049,GIG,TRK-f28528faf2fc,"[{'status': 'CREATED', 'time': '2023-02-12 10:24'}, {'status': 'PICKED_UP', 'time': '2023-02-12T22:24:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-13T08:24:03Z'}, {'status': 'DELIVERED', 'time': '2023-02-13 17:24'}]",,,,,
+,Local,619716981,,,,,,"[{'status': 'CREATED', 'time': '2023-11-22T03:12:09Z'}, {'status': 'PICKED_UP', 'time': '2023-11-22 22:12'}, {'status': 'IN_TRANSIT', 'time': '2023-11-24 18:12'}]"
+ORD-001115,FedEx,TRK-ebaed3d6a174,"[{'status': 'CREATED', 'time': '2023-05-20 21:35'}, {'status': 'PICKED_UP', 'time': '2023-05-22 12:35'}, {'status': 'IN_TRANSIT', 'time': '2023-05-22T15:35:29Z'}, {'status': 'DELIVERED', 'time': '2023-05-23T20:35:29Z'}]",,,,,
+ORD-000376,FedEx,TRK-4358c15d1581,"[{'status': 'CREATED', 'time': '2023-10-06T19:02:06Z'}, {'status': 'PICKED_UP', 'time': '2023-10-07T06:02:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-09T01:02:06Z'}, {'status': 'DELIVERED', 'time': '2023-10-09T12:02:06Z'}]",,,,,
+,GIG,557694862,,,,,,"[{'status': 'CREATED', 'time': '2023-08-24T23:10:15Z'}, {'status': 'PICKED_UP', 'time': '2023-08-26 12:10'}]"
+ORD-000204,Local,TRK-ca7e01b32304,"[{'status': 'CREATED', 'time': '2023-05-12T10:20:14Z'}]",,,,,
+ORD-000593,Local,TRK-fbf77fc1445f,"[{'status': 'CREATED', 'time': '2023-02-01 18:17'}, {'status': 'PICKED_UP', 'time': '2023-02-03 03:17'}, {'status': 'IN_TRANSIT', 'time': '2023-02-03T06:17:42Z'}]",,,,,
+ORD-001073,GIG,TRK-f8c3a50af62b,"[{'status': 'CREATED', 'time': '2023-01-15 23:27'}, {'status': 'PICKED_UP', 'time': '2023-01-17T04:27:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-18 08:27'}, {'status': 'DELIVERED', 'time': '2023-01-18 13:27'}]",,,,,
+,DHL,664202333,,,,,,"[{'status': 'CREATED', 'time': '2023-02-07 23:17'}, {'status': 'PICKED_UP', 'time': '2023-02-08T08:17:27Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-09 14:17'}, {'status': 'DELIVERED', 'time': '2023-02-10 22:17'}]"
+ORD-000929,DHL,TRK-d7a2185d0793,"[{'status': 'CREATED', 'time': '2023-12-27T06:55:17Z'}, {'status': 'PICKED_UP', 'time': '2023-12-28T23:55:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-29T10:55:17Z'}]",,,,,
+,Kwik,801450608,,,,,,"[{'status': 'CREATED', 'time': '2023-09-16T09:53:49Z'}, {'status': 'PICKED_UP', 'time': '2023-09-18T03:53:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-19 22:53'}, {'status': 'DELIVERED', 'time': '2023-09-21T07:53:49Z'}]"
+,Kwik,286950818,,,,,,"[{'status': 'CREATED', 'time': '2023-07-23T18:46:25Z'}, {'status': 'PICKED_UP', 'time': '2023-07-25T06:46:25Z'}]"
+,Kwik,374794375,,,,,,"[{'status': 'CREATED', 'time': '2023-11-03T07:39:21Z'}, {'status': 'PICKED_UP', 'time': '2023-11-05T04:39:21Z'}]"
+ORD-000077,DHL,TRK-a11f123f7ce0,"[{'status': 'CREATED', 'time': '2023-04-27T01:35:04Z'}, {'status': 'PICKED_UP', 'time': '2023-04-28T02:35:04Z'}]",,,,,
+,Local,286508557,,,,,,"[{'status': 'CREATED', 'time': '2023-06-06T20:13:07Z'}, {'status': 'PICKED_UP', 'time': '2023-06-07T01:13:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-08 19:13'}]"
+,,,,ORD-000553,DHL,TRK5700015,"[{'status': 'CREATED', 'time': '2023-03-27 19:39'}, {'status': 'PICKED_UP', 'time': '2023-03-28T12:39:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-29T12:39:06Z'}, {'status': 'DELIVERED', 'time': '2023-03-31T06:39:06Z'}]",
+,DHL,576527390,,,,,,"[{'status': 'CREATED', 'time': '2023-04-05 20:19'}, {'status': 'PICKED_UP', 'time': '2023-04-07 05:19'}, {'status': 'IN_TRANSIT', 'time': '2023-04-07T09:19:34Z'}, {'status': 'DELIVERED', 'time': '2023-04-07 14:19'}]"
+ORD-000297,Local,TRK-fa7b50aa6e4e,"[{'status': 'CREATED', 'time': '2023-09-03 18:25'}]",,,,,
+,,,,ORD-000005,DHL,TRK2938302,"[{'status': 'CREATED', 'time': '2023-03-17T23:23:12Z'}, {'status': 'PICKED_UP', 'time': '2023-03-19T14:23:12Z'}]",
+ORD-000100,Local,TRK-7fd11eac48c2,"[{'status': 'PICKED_UP', 'time': '2023-05-02 09:36'}, {'status': 'PICKED_UP', 'time': '2023-05-03T14:36:53Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-04 03:36'}, {'status': 'PICKED_UP', 'time': '2023-05-05T05:36:53Z'}]",,,,,
+ORD-000425,DHL,TRK-75a0f6e19970,"[{'status': 'CREATED', 'time': '2023-06-01T15:58:59Z'}, {'status': 'PICKED_UP', 'time': '2023-06-02T07:58:59Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-03T09:58:59Z'}]",,,,,
+ORD-001126,DHL,TRK-e073bd1f0bb6,"[{'status': 'DELIVERED', 'time': '2023-03-16T04:44:15Z'}]",,,,,
+,,,,ORD-001193,Local,TRK1194860,"[{'status': 'CREATED', 'time': '2023-05-04T15:23:41Z'}, {'status': 'PICKED_UP', 'time': '2023-05-05T00:23:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-06T18:23:41Z'}, {'status': 'DELIVERED', 'time': '2023-05-06T21:23:41Z'}]",
+,,,,ORD-000012,FedEx,TRK5003566,"[{'status': 'CREATED', 'time': '2023-06-11T02:05:08Z'}, {'status': 'PICKED_UP', 'time': '2023-06-11 14:05'}, {'status': 'IN_TRANSIT', 'time': '2023-06-12T06:05:08Z'}, {'status': 'DELIVERED', 'time': '2023-06-13T07:05:08Z'}]",
+ORD-000741,GIG,TRK-b7df7445f42d,"[{'status': 'CREATED', 'time': '2023-04-13T13:10:08Z'}]",,,,,
+,,,,ORD-001080,DHL,TRK3827490,"[{'status': 'DELIVERED', 'time': '2023-07-06 22:01'}]",
+,Kwik,722745015,,,,,,"[{'status': 'CREATED', 'time': '2023-03-08T08:14:04Z'}, {'status': 'PICKED_UP', 'time': '2023-03-09T04:14:04Z'}]"
+,,,,ORD-000090,FedEx,TRK9274547,"[{'status': 'CREATED', 'time': '2023-07-03T10:20:53Z'}]",
+ORD-000713,Local,TRK-bce84c50b8c8,"[{'status': 'CREATED', 'time': '2023-06-04 05:09'}]",,,,,
+,GIG,205907182,,,,,,"[{'status': 'CREATED', 'time': '2023-11-12T11:46:32Z'}]"
+ORD-000978,Kwik,TRK-5fc4dddd3113,"[{'status': 'CREATED', 'time': '2023-05-04T22:58:11Z'}]",,,,,
+ORD-000238,FedEx,TRK-011bfc34c472,"[{'status': 'CREATED', 'time': '2023-04-25 13:44'}, {'status': 'PICKED_UP', 'time': '2023-04-26T19:44:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-28 16:44'}]",,,,,
+,Kwik,802929453,,,,,,"[{'status': 'CREATED', 'time': '2023-07-02T14:22:20Z'}, {'status': 'PICKED_UP', 'time': '2023-07-03T17:22:20Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-04 14:22'}]"
+,FedEx,195923037,,,,,,"[{'status': 'CREATED', 'time': '2023-05-17T17:47:40Z'}, {'status': 'PICKED_UP', 'time': '2023-05-17 19:47'}, {'status': 'IN_TRANSIT', 'time': '2023-05-19 14:47'}, {'status': 'DELIVERED', 'time': '2023-05-19 21:47'}]"
+ORD-000946,GIG,TRK-74dfddc724ec,"[{'status': 'CREATED', 'time': '2023-05-31T10:39:31Z'}]",,,,,
+ORD-000926,DHL,TRK-71d9476f7982,"[{'status': 'CREATED', 'time': '2023-07-28 13:00'}, {'status': 'PICKED_UP', 'time': '2023-07-30 07:00'}]",,,,,
+ORD-000932,FedEx,TRK-227678d1d11f,"[{'status': 'CREATED', 'time': '2023-01-13T20:01:02Z'}, {'status': 'PICKED_UP', 'time': '2023-01-14 20:01'}]",,,,,
+ORD-000532,Kwik,TRK-cddddd037571,"[{'status': 'CREATED', 'time': '2023-01-14 17:42'}]",,,,,
+ORD-000596,Kwik,TRK-438230b3e605,"[{'status': 'CREATED', 'time': '2023-11-02 07:48'}, {'status': 'PICKED_UP', 'time': '2023-11-03T13:48:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-04 00:48'}, {'status': 'DELIVERED', 'time': '2023-11-04T06:48:44Z'}]",,,,,
+,,,,ORD-000422,Kwik,TRK8936069,"[{'status': 'CREATED', 'time': '2023-10-25 21:10'}, {'status': 'PICKED_UP', 'time': '2023-10-26 03:10'}]",
+,,,,ORD-000650,Kwik,TRK3118894,"[{'status': 'CREATED', 'time': '2023-09-14T08:11:25Z'}, {'status': 'PICKED_UP', 'time': '2023-09-15T19:11:25Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-16 11:11'}, {'status': 'DELIVERED', 'time': '2023-09-16T16:11:25Z'}]",
+ORD-000151,Kwik,TRK-5554f89386cd,"[{'status': 'CREATED', 'time': '2023-06-14T20:07:18Z'}, {'status': 'PICKED_UP', 'time': '2023-06-16 12:07'}, {'status': 'IN_TRANSIT', 'time': '2023-06-16T20:07:18Z'}]",,,,,
+ORD-000305,FedEx,TRK-b28c6ce28429,"[{'status': 'CREATED', 'time': '2023-04-19T20:11:32Z'}, {'status': 'PICKED_UP', 'time': '2023-04-21T05:11:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-21T23:11:32Z'}, {'status': 'DELIVERED', 'time': '2023-04-22T15:11:32Z'}]",,,,,
+,GIG,789192682,,,,,,"[{'status': 'CREATED', 'time': '2023-11-05T02:44:01Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-05T17:44:01Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-07T12:44:01Z'}]"
+,DHL,786093580,,,,,,"[{'status': 'CREATED', 'time': '2023-06-17T01:00:28Z'}, {'status': 'PICKED_UP', 'time': '2023-06-18T10:00:28Z'}]"
+,DHL,394516095,,,,,,"[{'status': 'CREATED', 'time': '2023-06-17T09:26:35Z'}, {'status': 'PICKED_UP', 'time': '2023-06-18 22:26'}, {'status': 'IN_TRANSIT', 'time': '2023-06-20T09:26:35Z'}]"
+,Kwik,853911063,,,,,,"[{'status': 'CREATED', 'time': '2023-09-20T10:09:04Z'}, {'status': 'PICKED_UP', 'time': '2023-09-21T19:09:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-23T04:09:04Z'}]"
+,,,,ORD-000457,Kwik,TRK5050350,"[{'status': 'CREATED', 'time': '2023-09-13T19:22:20Z'}, {'status': 'PICKED_UP', 'time': '2023-09-14T03:22:20Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-15 13:22'}, {'status': 'DELIVERED', 'time': '2023-09-16 00:22'}]",
+,DHL,656562888,,,,,,"[{'status': 'CREATED', 'time': '2023-11-11T23:10:12Z'}, {'status': 'PICKED_UP', 'time': '2023-11-12 01:10'}, {'status': 'IN_TRANSIT', 'time': '2023-11-12T16:10:12Z'}, {'status': 'DELIVERED', 'time': '2023-11-12 23:10'}]"
+,DHL,743131640,,,,,,"[{'status': 'CREATED', 'time': '2023-06-04 15:01'}, {'status': 'PICKED_UP', 'time': '2023-06-05T15:01:36Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-05T18:01:36Z'}, {'status': 'DELIVERED', 'time': '2023-06-07 14:01'}]"
+,,,,ORD-000718,FedEx,TRK9477971,"[{'status': 'CREATED', 'time': '2023-12-26T09:52:23Z'}, {'status': 'PICKED_UP', 'time': '2023-12-28T09:52:23Z'}]",
+,,,,ORD-000102,Kwik,TRK5519924,"[{'status': 'CREATED', 'time': '2023-03-23 00:18'}, {'status': 'PICKED_UP', 'time': '2023-03-23T08:18:11Z'}]",
+,Local,957983506,,,,,,"[{'status': 'CREATED', 'time': '2023-10-09T09:45:48Z'}, {'status': 'PICKED_UP', 'time': '2023-10-11T02:45:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-12 14:45'}, {'status': 'DELIVERED', 'time': '2023-10-14T09:45:48Z'}]"
+ORD-000413,FedEx,TRK-ddc06ba3dd3f,"[{'status': 'CREATED', 'time': '2023-10-25 19:38'}]",,,,,
+,,,,ORD-001194,DHL,TRK4110109,"[{'status': 'CREATED', 'time': '2023-08-23 12:20'}, {'status': 'PICKED_UP', 'time': '2023-08-24T00:20:42Z'}]",
+,,,,ORD-000675,GIG,TRK8725801,"[{'status': 'CREATED', 'time': '2023-07-08 20:16'}, {'status': 'PICKED_UP', 'time': '2023-07-10 19:16'}, {'status': 'IN_TRANSIT', 'time': '2023-07-12 06:16'}, {'status': 'DELIVERED', 'time': '2023-07-13T11:16:28Z'}]",
+,,,,ORD-000238,GIG,TRK4381449,"[{'status': 'CREATED', 'time': '2023-02-06T05:50:23Z'}, {'status': 'PICKED_UP', 'time': '2023-02-08T04:50:23Z'}]",
+,Kwik,875702566,,,,,,"[{'status': 'CREATED', 'time': '2023-07-11T18:49:10Z'}, {'status': 'PICKED_UP', 'time': '2023-07-12T02:49:10Z'}]"
+ORD-000310,FedEx,TRK-24996dd5f742,"[{'status': 'CREATED', 'time': '2023-08-26T20:10:11Z'}, {'status': 'PICKED_UP', 'time': '2023-08-28T04:10:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-29T05:10:11Z'}]",,,,,
+,Kwik,342907257,,,,,,"[{'status': 'CREATED', 'time': '2023-10-03 12:30'}, {'status': 'PICKED_UP', 'time': '2023-10-05T08:30:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-06T22:30:42Z'}]"
+,FedEx,417165505,,,,,,"[{'status': 'CREATED', 'time': '2023-05-24T06:59:38Z'}, {'status': 'PICKED_UP', 'time': '2023-05-25T15:59:38Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-27T14:59:38Z'}]"
+,,,,ORD-000374,DHL,TRK3141773,"[{'status': 'CREATED', 'time': '2023-03-25T04:18:57Z'}, {'status': 'PICKED_UP', 'time': '2023-03-26 15:18'}, {'status': 'IN_TRANSIT', 'time': '2023-03-26T23:18:57Z'}, {'status': 'DELIVERED', 'time': '2023-03-28 20:18'}]",
+ORD-001194,GIG,TRK-fe59564290ad,"[{'status': 'CREATED', 'time': '2023-02-03T08:53:04Z'}, {'status': 'PICKED_UP', 'time': '2023-02-05T02:53:04Z'}]",,,,,
+ORD-000104,Local,TRK-09ca007a15f3,"[{'status': 'CREATED', 'time': '2023-01-13 10:51'}, {'status': 'PICKED_UP', 'time': '2023-01-15T07:51:04Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-16T01:51:04Z'}, {'status': 'DELIVERED', 'time': '2023-01-17T15:51:04Z'}]",,,,,
+,GIG,294733680,,,,,,"[{'status': 'CREATED', 'time': '2023-10-12 13:56'}]"
+ORD-000468,Kwik,TRK-0ef4da7c6051,"[{'status': 'CREATED', 'time': '2023-12-19T16:46:59Z'}]",,,,,
+ORD-000972,FedEx,TRK-a23a4d3f5d14,"[{'status': 'CREATED', 'time': '2023-10-26T15:32:41Z'}, {'status': 'PICKED_UP', 'time': '2023-10-26 17:32'}, {'status': 'IN_TRANSIT', 'time': '2023-10-27T17:32:41Z'}]",,,,,
+ORD-001064,FedEx,TRK-0922abd6f375,"[{'status': 'CREATED', 'time': '2023-07-06T16:21:38Z'}, {'status': 'PICKED_UP', 'time': '2023-07-08T05:21:38Z'}]",,,,,
+,FedEx,683531840,,,,,,"[{'status': 'CREATED', 'time': '2023-01-04T13:48:19Z'}, {'status': 'PICKED_UP', 'time': '2023-01-05T05:48:19Z'}]"
+,,,,ORD-000618,FedEx,TRK4880735,"[{'status': 'CREATED', 'time': '2023-10-06T00:24:12Z'}, {'status': 'PICKED_UP', 'time': '2023-10-06 19:24'}]",
+ORD-001114,FedEx,TRK-b33fb049905e,"[{'status': 'CREATED', 'time': '2023-02-08T10:09:21Z'}, {'status': 'PICKED_UP', 'time': '2023-02-09T04:09:21Z'}]",,,,,
+,,,,ORD-000347,GIG,TRK6973979,"[{'status': 'CREATED', 'time': '2023-11-24T05:56:07Z'}, {'status': 'PICKED_UP', 'time': '2023-11-25 14:56'}, {'status': 'IN_TRANSIT', 'time': '2023-11-25T16:56:07Z'}]",
+,Local,129456565,,,,,,"[{'status': 'CREATED', 'time': '2023-07-17T22:09:28Z'}, {'status': 'PICKED_UP', 'time': '2023-07-18T06:09:28Z'}]"
+ORD-001138,Local,TRK-9c9309b4b282,"[{'status': 'CREATED', 'time': '2023-08-09T04:55:35Z'}, {'status': 'PICKED_UP', 'time': '2023-08-09 14:55'}]",,,,,
+,,,,ORD-000575,DHL,TRK7225996,"[{'status': 'CREATED', 'time': '2023-07-08T07:31:35Z'}, {'status': 'PICKED_UP', 'time': '2023-07-09T07:31:35Z'}]",
+,,,,ORD-000873,FedEx,TRK9278180,"[{'status': 'CREATED', 'time': '2023-02-09T16:00:08Z'}, {'status': 'PICKED_UP', 'time': '2023-02-09T20:00:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-09T23:00:08Z'}]",
+,DHL,733811160,,,,,,"[{'status': 'CREATED', 'time': '2023-12-13T08:57:22Z'}, {'status': 'PICKED_UP', 'time': '2023-12-14 22:57'}, {'status': 'IN_TRANSIT', 'time': '2023-12-15 04:57'}, {'status': 'DELIVERED', 'time': '2023-12-17T02:57:22Z'}]"
+,,,,ORD-000681,DHL,TRK4864896,"[{'status': 'PICKED_UP', 'time': '2023-10-17 09:30'}, {'status': 'DELIVERED', 'time': '2023-10-17T23:30:42Z'}]",
+,,,,ORD-000999,GIG,TRK9147778,"[{'status': 'CREATED', 'time': '2023-08-30 22:37'}]",
+,Kwik,655510833,,,,,,"[{'status': 'CREATED', 'time': '2023-09-11 11:17'}, {'status': 'PICKED_UP', 'time': '2023-09-12 07:17'}]"
+ORD-000266,Kwik,TRK-608744efe99a,"[{'status': 'CREATED', 'time': '2023-07-06T07:15:57Z'}, {'status': 'PICKED_UP', 'time': '2023-07-07T02:15:57Z'}]",,,,,
+,,,,ORD-000261,GIG,TRK1403953,"[{'status': 'CREATED', 'time': '2023-06-18T07:47:41Z'}, {'status': 'PICKED_UP', 'time': '2023-06-19T05:47:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-20 10:47'}]",
+,FedEx,270624866,,,,,,"[{'status': 'CREATED', 'time': '2023-12-14T07:43:15Z'}, {'status': 'PICKED_UP', 'time': '2023-12-14T16:43:15Z'}]"
+,Local,205995553,,,,,,"[{'status': 'CREATED', 'time': '2023-05-17 01:04'}, {'status': 'PICKED_UP', 'time': '2023-05-17 04:04'}, {'status': 'IN_TRANSIT', 'time': '2023-05-18T02:04:23Z'}, {'status': 'DELIVERED', 'time': '2023-05-20T00:04:23Z'}]"
+,DHL,985162340,,,,,,"[{'status': 'CREATED', 'time': '2023-10-21T09:24:11Z'}, {'status': 'PICKED_UP', 'time': '2023-10-22T14:24:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-24T13:24:11Z'}, {'status': 'DELIVERED', 'time': '2023-10-26 11:24'}]"
+,,,,ORD-000916,DHL,TRK7205956,"[{'status': 'IN_TRANSIT', 'time': '2023-04-25 13:13'}, {'status': 'IN_TRANSIT', 'time': '2023-04-27T07:13:42Z'}]",
+,,,,ORD-000668,GIG,TRK1594501,"[{'status': 'PICKED_UP', 'time': '2023-07-10T02:25:35Z'}, {'status': 'CREATED', 'time': '2023-07-11 11:25'}, {'status': 'CREATED', 'time': '2023-07-13 03:25'}]",
+ORD-000050,FedEx,TRK-fdf7e0e60c1d,"[{'status': 'CREATED', 'time': '2023-03-29T07:32:48Z'}, {'status': 'PICKED_UP', 'time': '2023-03-29T11:32:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-31T05:32:48Z'}]",,,,,
+ORD-000981,Kwik,TRK-594dfca3f829,"[{'status': 'CREATED', 'time': '2023-08-11 12:16'}]",,,,,
+,Kwik,140168780,,,,,,"[{'status': 'CREATED', 'time': '2023-04-11T00:58:56Z'}]"
+,,,,ORD-000047,Kwik,TRK3858771,"[{'status': 'CREATED', 'time': '2023-10-05T23:36:11Z'}, {'status': 'PICKED_UP', 'time': '2023-10-07T06:36:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-07T21:36:11Z'}, {'status': 'DELIVERED', 'time': '2023-10-09 09:36'}]",
+,,,,ORD-000740,Kwik,TRK8440412,"[{'status': 'CREATED', 'time': '2023-01-09T21:24:33Z'}, {'status': 'PICKED_UP', 'time': '2023-01-10 08:24'}, {'status': 'IN_TRANSIT', 'time': '2023-01-11T11:24:33Z'}]",
+ORD-000865,DHL,TRK-71bea13aea5c,"[{'status': 'CREATED', 'time': '2023-02-04T05:03:56Z'}, {'status': 'PICKED_UP', 'time': '2023-02-05 04:03'}]",,,,,
+ORD-001039,Kwik,TRK-e4f992bdc25b,"[{'status': 'CREATED', 'time': '2023-03-09T08:27:51Z'}]",,,,,
+,Kwik,357982129,,,,,,"[{'status': 'CREATED', 'time': '2023-09-21T02:48:07Z'}]"
+,,,,ORD-000223,FedEx,TRK7497466,"[{'status': 'CREATED', 'time': '2023-01-09 14:42'}, {'status': 'PICKED_UP', 'time': '2023-01-10T08:42:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-11T13:42:51Z'}, {'status': 'DELIVERED', 'time': '2023-01-12 21:42'}]",
+ORD-000387,GIG,TRK-86c3de97e6a0,"[{'status': 'CREATED', 'time': '2023-09-01 17:17'}]",,,,,
+ORD-000507,Kwik,TRK-68d267426477,"[{'status': 'CREATED', 'time': '2023-08-15T23:42:01Z'}, {'status': 'PICKED_UP', 'time': '2023-08-16 20:42'}, {'status': 'IN_TRANSIT', 'time': '2023-08-17T04:42:01Z'}, {'status': 'DELIVERED', 'time': '2023-08-17 22:42'}]",,,,,
+,Local,344738287,,,,,,"[{'status': 'CREATED', 'time': '2023-06-14T16:16:51Z'}, {'status': 'PICKED_UP', 'time': '2023-06-15T05:16:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-16T02:16:51Z'}]"
+,GIG,391903407,,,,,,"[{'status': 'CREATED', 'time': '2023-12-15 04:30'}]"
+,,,,ORD-000572,DHL,TRK5465335,"[{'status': 'CREATED', 'time': '2023-12-30 20:12'}, {'status': 'PICKED_UP', 'time': '2023-12-31 18:12'}]",
+,Local,266072502,,,,,,"[{'status': 'CREATED', 'time': '2023-12-21 04:03'}, {'status': 'IN_TRANSIT', 'time': '2023-12-22T16:03:03Z'}, {'status': 'DELIVERED', 'time': '2023-12-23T19:03:03Z'}]"
+,Kwik,714361904,,,,,,"[{'status': 'CREATED', 'time': '2023-10-17 17:49'}, {'status': 'PICKED_UP', 'time': '2023-10-18T10:49:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-20T06:49:19Z'}, {'status': 'DELIVERED', 'time': '2023-10-21T14:49:19Z'}]"
+ORD-000963,Kwik,TRK-7987af3a34e6,"[{'status': 'CREATED', 'time': '2023-06-26 15:04'}]",,,,,
+,FedEx,909117640,,,,,,"[{'status': 'CREATED', 'time': '2023-02-09 02:29'}, {'status': 'PICKED_UP', 'time': '2023-02-10T16:29:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-11T22:29:11Z'}, {'status': 'DELIVERED', 'time': '2023-02-13T05:29:11Z'}]"
+,Kwik,275752032,,,,,,"[{'status': 'CREATED', 'time': '2023-08-27T19:20:50Z'}]"
+,,,,ORD-000780,DHL,TRK9907817,"[{'status': 'CREATED', 'time': '2023-02-20T19:04:44Z'}, {'status': 'PICKED_UP', 'time': '2023-02-21T04:04:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-22T19:04:44Z'}]",
+,,,,ORD-000728,Local,TRK7973780,"[{'status': 'CREATED', 'time': '2023-10-20T10:22:44Z'}, {'status': 'PICKED_UP', 'time': '2023-10-21 11:22'}, {'status': 'IN_TRANSIT', 'time': '2023-10-22 16:22'}, {'status': 'DELIVERED', 'time': '2023-10-23 07:22'}]",
+ORD-000994,Kwik,TRK-92241094eabf,"[{'status': 'CREATED', 'time': '2023-09-16T04:18:57Z'}, {'status': 'PICKED_UP', 'time': '2023-09-17 12:18'}, {'status': 'IN_TRANSIT', 'time': '2023-09-17T21:18:57Z'}]",,,,,
+,,,,ORD-000923,DHL,TRK2435321,"[{'status': 'CREATED', 'time': '2023-12-27 08:51'}]",
+,,,,ORD-000738,Kwik,TRK3217703,"[{'status': 'CREATED', 'time': '2023-04-20T17:21:05Z'}, {'status': 'PICKED_UP', 'time': '2023-04-22T10:21:05Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-23T22:21:05Z'}]",
+,,,,ORD-000759,Kwik,TRK6651049,"[{'status': 'CREATED', 'time': '2023-09-03 10:22'}, {'status': 'PICKED_UP', 'time': '2023-09-04T23:22:34Z'}]",
+,,,,ORD-000970,GIG,TRK1165496,"[{'status': 'CREATED', 'time': '2023-11-21T15:16:41Z'}, {'status': 'PICKED_UP', 'time': '2023-11-22T04:16:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-23T03:16:41Z'}, {'status': 'DELIVERED', 'time': '2023-11-24 17:16'}]",
+ORD-000921,FedEx,TRK-d5df93057ed1,"[{'status': 'CREATED', 'time': '2023-07-04 10:38'}, {'status': 'PICKED_UP', 'time': '2023-07-04T21:38:24Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-06T11:38:24Z'}, {'status': 'DELIVERED', 'time': '2023-07-07 21:38'}]",,,,,
+,FedEx,554911237,,,,,,"[{'status': 'CREATED', 'time': '2023-08-05 03:58'}, {'status': 'PICKED_UP', 'time': '2023-08-06 22:58'}, {'status': 'IN_TRANSIT', 'time': '2023-08-08T01:58:52Z'}]"
+ORD-001107,GIG,TRK-922d93cd4dde,"[{'status': 'CREATED', 'time': '2023-11-04T05:18:41Z'}, {'status': 'PICKED_UP', 'time': '2023-11-05T02:18:41Z'}]",,,,,
+ORD-000585,Kwik,TRK-600b768b2231,"[{'status': 'DELIVERED', 'time': '2023-09-27T22:34:13Z'}, {'status': 'DELIVERED', 'time': '2023-09-29T06:34:13Z'}, {'status': 'CREATED', 'time': '2023-09-30T13:34:13Z'}]",,,,,
+,,,,ORD-000286,DHL,TRK2873952,"[{'status': 'CREATED', 'time': '2023-07-11T12:11:44Z'}]",
+ORD-000798,DHL,TRK-35ac94046ee7,"[{'status': 'CREATED', 'time': '2023-09-22 08:21'}, {'status': 'PICKED_UP', 'time': '2023-09-24T05:21:27Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-24T18:21:27Z'}, {'status': 'DELIVERED', 'time': '2023-09-25T07:21:27Z'}]",,,,,
+,FedEx,819289661,,,,,,"[{'status': 'CREATED', 'time': '2023-01-31T01:20:11Z'}, {'status': 'PICKED_UP', 'time': '2023-02-01T09:20:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-01T20:20:11Z'}]"
+ORD-000095,Local,TRK-f55fae20ca9d,"[{'status': 'CREATED', 'time': '2023-07-24 07:58'}]",,,,,
+ORD-000038,DHL,TRK-eb38227bc691,"[{'status': 'CREATED', 'time': '2023-03-23 12:21'}, {'status': 'PICKED_UP', 'time': '2023-03-24T17:21:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-26T16:21:48Z'}, {'status': 'DELIVERED', 'time': '2023-03-27T11:21:48Z'}]",,,,,
+ORD-001131,Kwik,TRK-a8f3da776f70,"[{'status': 'CREATED', 'time': '2023-02-06T19:32:06Z'}, {'status': 'PICKED_UP', 'time': '2023-02-08T12:32:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-08T21:32:06Z'}, {'status': 'DELIVERED', 'time': '2023-02-09T10:32:06Z'}]",,,,,
+,,,,ORD-000862,Local,TRK2584305,"[{'status': 'CREATED', 'time': '2023-01-16T15:28:51Z'}, {'status': 'PICKED_UP', 'time': '2023-01-18T04:28:51Z'}]",
+,,,,ORD-000539,Local,TRK1999252,"[{'status': 'CREATED', 'time': '2023-12-22 14:57'}, {'status': 'PICKED_UP', 'time': '2023-12-24T09:57:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-24 23:57'}]",
+,FedEx,483590806,,,,,,"[{'status': 'CREATED', 'time': '2023-06-01T05:19:58Z'}, {'status': 'PICKED_UP', 'time': '2023-06-01T16:19:58Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-02 12:19'}, {'status': 'DELIVERED', 'time': '2023-06-04T01:19:58Z'}]"
+ORD-000588,Kwik,TRK-ee993b748fcd,"[{'status': 'CREATED', 'time': '2023-07-27 03:02'}, {'status': 'PICKED_UP', 'time': '2023-07-27T20:02:12Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-29T09:02:12Z'}]",,,,,
+,FedEx,609917976,,,,,,"[{'status': 'CREATED', 'time': '2023-04-07T14:53:34Z'}]"
+,DHL,530603902,,,,,,"[{'status': 'CREATED', 'time': '2023-11-06T12:16:12Z'}]"
+,,,,ORD-000325,Kwik,TRK9573604,"[{'status': 'CREATED', 'time': '2023-01-19T14:11:06Z'}, {'status': 'PICKED_UP', 'time': '2023-01-21T07:11:06Z'}, {'status': 'IN_TRANSIT', 'time': '2023-01-22 02:11'}]",
+,GIG,887913698,,,,,,"[{'status': 'CREATED', 'time': '2023-07-02 11:03'}, {'status': 'PICKED_UP', 'time': '2023-07-04T10:03:46Z'}]"
+,FedEx,615532367,,,,,,"[{'status': 'CREATED', 'time': '2023-07-24 18:19'}, {'status': 'PICKED_UP', 'time': '2023-07-26 05:19'}, {'status': 'IN_TRANSIT', 'time': '2023-07-27T11:19:42Z'}]"
+,,,,ORD-000527,Local,TRK7390415,"[{'status': 'CREATED', 'time': '2023-11-03T11:54:42Z'}, {'status': 'PICKED_UP', 'time': '2023-11-03T14:54:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-05 13:54'}, {'status': 'DELIVERED', 'time': '2023-11-06T01:54:42Z'}]",
+ORD-000643,Kwik,TRK-3e96a2a3c085,"[{'status': 'CREATED', 'time': '2023-11-22T03:22:17Z'}, {'status': 'PICKED_UP', 'time': '2023-11-22T09:22:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-22T14:22:17Z'}]",,,,,
+,,,,ORD-000042,GIG,TRK5694772,"[{'status': 'CREATED', 'time': '2023-01-31T10:17:13Z'}]",
+,Local,324963201,,,,,,"[{'status': 'PICKED_UP', 'time': '2023-04-08 23:07'}, {'status': 'DELIVERED', 'time': '2023-04-09T19:07:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-10 11:07'}, {'status': 'DELIVERED', 'time': '2023-04-11T09:07:48Z'}]"
+ORD-000758,Kwik,TRK-12f9c5d69d36,"[{'status': 'CREATED', 'time': '2023-12-17 16:12'}]",,,,,
+,,,,ORD-001047,DHL,TRK8737204,"[{'status': 'CREATED', 'time': '2023-05-25 02:51'}, {'status': 'PICKED_UP', 'time': '2023-05-25 09:51'}, {'status': 'IN_TRANSIT', 'time': '2023-05-26T17:51:26Z'}, {'status': 'DELIVERED', 'time': '2023-05-26 21:51'}]",
+,DHL,961043954,,,,,,"[{'status': 'CREATED', 'time': '2023-03-17T06:07:47Z'}]"
+ORD-001024,GIG,TRK-5f095770a871,"[{'status': 'CREATED', 'time': '2023-01-05 14:29'}, {'status': 'PICKED_UP', 'time': '2023-01-06T20:29:24Z'}]",,,,,
+,Kwik,707395067,,,,,,"[{'status': 'CREATED', 'time': '2023-07-06T21:56:09Z'}]"
+,,,,ORD-000352,GIG,TRK3672467,"[{'status': 'CREATED', 'time': '2023-03-04T07:32:36Z'}]",
+ORD-000535,Kwik,TRK-c08fa68a2d18,"[{'status': 'CREATED', 'time': '2023-01-02T11:48:15Z'}, {'status': 'PICKED_UP', 'time': '2023-01-03 06:48'}, {'status': 'IN_TRANSIT', 'time': '2023-01-04T21:48:15Z'}, {'status': 'DELIVERED', 'time': '2023-01-06T00:48:15Z'}]",,,,,
+,,,,ORD-000175,DHL,TRK1545988,"[{'status': 'CREATED', 'time': '2023-04-08 01:59'}, {'status': 'PICKED_UP', 'time': '2023-04-09T09:59:10Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-10 22:59'}]",
+,,,,ORD-000621,DHL,TRK6502557,"[{'status': 'CREATED', 'time': '2023-01-22 03:11'}]",
+ORD-000833,FedEx,TRK-8002f3df1511,"[{'status': 'CREATED', 'time': '2023-11-21 05:05'}, {'status': 'PICKED_UP', 'time': '2023-11-23 03:05'}]",,,,,
+,Kwik,912953330,,,,,,"[{'status': 'IN_TRANSIT', 'time': '2023-06-20T04:20:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-21T04:20:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-21T23:20:03Z'}, {'status': 'DELIVERED', 'time': '2023-06-22T20:20:03Z'}]"
+,,,,ORD-000117,Kwik,TRK2776602,"[{'status': 'CREATED', 'time': '2023-08-20T07:22:38Z'}, {'status': 'PICKED_UP', 'time': '2023-08-20 16:22'}, {'status': 'IN_TRANSIT', 'time': '2023-08-22T01:22:38Z'}]",
+ORD-001062,DHL,TRK-69582e62fbdb,"[{'status': 'CREATED', 'time': '2023-07-14T00:41:18Z'}, {'status': 'PICKED_UP', 'time': '2023-07-15 13:41'}, {'status': 'IN_TRANSIT', 'time': '2023-07-15T21:41:18Z'}, {'status': 'DELIVERED', 'time': '2023-07-16 22:41'}]",,,,,
+,Kwik,150077536,,,,,,"[{'status': 'CREATED', 'time': '2023-07-15T06:01:53Z'}, {'status': 'PICKED_UP', 'time': '2023-07-15T18:01:53Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-17T07:01:53Z'}]"
+,,,,ORD-000538,Kwik,TRK3431866,"[{'status': 'CREATED', 'time': '2023-10-13 23:30'}, {'status': 'PICKED_UP', 'time': '2023-10-14 18:30'}, {'status': 'IN_TRANSIT', 'time': '2023-10-16 11:30'}]",
+,,,,ORD-000829,DHL,TRK2087122,"[{'status': 'CREATED', 'time': '2023-11-04T09:24:37Z'}]",
+ORD-000673,GIG,TRK-da90f8c95c26,"[{'status': 'CREATED', 'time': '2023-04-01T02:52:30Z'}, {'status': 'PICKED_UP', 'time': '2023-04-01T15:52:30Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-02 09:52'}, {'status': 'DELIVERED', 'time': '2023-04-03T15:52:30Z'}]",,,,,
+ORD-000522,FedEx,TRK-07af8e06c5ff,"[{'status': 'CREATED', 'time': '2023-06-09T16:36:59Z'}]",,,,,
+ORD-001104,Kwik,TRK-9ddef2559185,"[{'status': 'CREATED', 'time': '2023-06-21T07:04:02Z'}]",,,,,
+,,,,ORD-001182,DHL,TRK1794762,"[{'status': 'CREATED', 'time': '2023-03-03 15:53'}, {'status': 'PICKED_UP', 'time': '2023-03-04T18:53:20Z'}]",
+,,,,ORD-000641,DHL,TRK1100103,"[{'status': 'CREATED', 'time': '2023-02-18T02:27:07Z'}, {'status': 'PICKED_UP', 'time': '2023-02-19T11:27:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-19T18:27:07Z'}, {'status': 'DELIVERED', 'time': '2023-02-21T01:27:07Z'}]",
+,,,,ORD-000012,FedEx,TRK9090286,"[{'status': 'CREATED', 'time': '2023-12-21T22:57:03Z'}, {'status': 'PICKED_UP', 'time': '2023-12-22T23:57:03Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-24T04:57:03Z'}, {'status': 'DELIVERED', 'time': '2023-12-25T22:57:03Z'}]",
+,,,,ORD-000094,DHL,TRK5344373,"[{'status': 'CREATED', 'time': '2023-06-16T11:02:00Z'}, {'status': 'PICKED_UP', 'time': '2023-06-16 23:02'}, {'status': 'IN_TRANSIT', 'time': '2023-06-17T12:02:00Z'}, {'status': 'DELIVERED', 'time': '2023-06-18T04:02:00Z'}]",
+ORD-000421,Local,TRK-402ce8507dd7,"[{'status': 'CREATED', 'time': '2023-09-05T03:28:29Z'}, {'status': 'PICKED_UP', 'time': '2023-09-05 16:28'}]",,,,,
+,DHL,662509115,,,,,,"[{'status': 'CREATED', 'time': '2023-03-29 12:38'}, {'status': 'PICKED_UP', 'time': '2023-03-30 07:38'}]"
+ORD-001181,Kwik,TRK-1a1c3e824d7e,"[{'status': 'CREATED', 'time': '2023-03-09 20:54'}]",,,,,
+,FedEx,956413586,,,,,,"[{'status': 'CREATED', 'time': '2023-12-09 13:56'}, {'status': 'PICKED_UP', 'time': '2023-12-11T01:56:38Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-11T14:56:38Z'}, {'status': 'DELIVERED', 'time': '2023-12-12T02:56:38Z'}]"
+ORD-000265,Kwik,TRK-777b74853224,"[{'status': 'CREATED', 'time': '2023-07-26 17:41'}, {'status': 'PICKED_UP', 'time': '2023-07-28T05:41:24Z'}]",,,,,
+,DHL,889441158,,,,,,"[{'status': 'CREATED', 'time': '2023-01-17T17:42:17Z'}]"
+,FedEx,908825076,,,,,,"[{'status': 'CREATED', 'time': '2023-04-05 14:53'}, {'status': 'PICKED_UP', 'time': '2023-04-07T07:53:20Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-09T00:53:20Z'}, {'status': 'DELIVERED', 'time': '2023-04-09T09:53:20Z'}]"
+,,,,ORD-000158,DHL,TRK3227237,"[{'status': 'CREATED', 'time': '2023-10-03T11:42:16Z'}, {'status': 'PICKED_UP', 'time': '2023-10-04T11:42:16Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-05 14:42'}, {'status': 'DELIVERED', 'time': '2023-10-06T04:42:16Z'}]",
+ORD-000737,Local,TRK-a42bdeffbd10,"[{'status': 'CREATED', 'time': '2023-12-02 05:51'}, {'status': 'PICKED_UP', 'time': '2023-12-02T10:51:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-02T23:51:49Z'}, {'status': 'DELIVERED', 'time': '2023-12-03T18:51:49Z'}]",,,,,
+,,,,ORD-000041,Kwik,TRK2967353,"[{'status': 'DELIVERED', 'time': '2023-08-29 10:02'}, {'status': 'DELIVERED', 'time': '2023-08-30 19:02'}, {'status': 'PICKED_UP', 'time': '2023-09-01 07:02'}]",
+ORD-000115,Local,TRK-f02f278d4994,"[{'status': 'CREATED', 'time': '2023-09-07T08:38:24Z'}]",,,,,
+ORD-000589,Kwik,TRK-756a1cca1297,"[{'status': 'CREATED', 'time': '2023-11-27T19:57:13Z'}, {'status': 'PICKED_UP', 'time': '2023-11-28T00:57:13Z'}]",,,,,
+ORD-000849,FedEx,TRK-462f0d76638b,"[{'status': 'CREATED', 'time': '2023-10-04T09:36:57Z'}, {'status': 'PICKED_UP', 'time': '2023-10-06T06:36:57Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-07T07:36:57Z'}, {'status': 'DELIVERED', 'time': '2023-10-07T09:36:57Z'}]",,,,,
+,Local,125341183,,,,,,"[{'status': 'CREATED', 'time': '2023-11-20T04:20:50Z'}, {'status': 'PICKED_UP', 'time': '2023-11-21T12:20:50Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-22T21:20:50Z'}]"
+,,,,ORD-000328,DHL,TRK6499106,"[{'status': 'CREATED', 'time': '2023-06-15T19:30:28Z'}, {'status': 'PICKED_UP', 'time': '2023-06-16T00:30:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-17 18:30'}]",
+,,,,ORD-001006,Local,TRK3761697,"[{'status': 'CREATED', 'time': '2023-04-28T12:51:09Z'}, {'status': 'PICKED_UP', 'time': '2023-04-28T14:51:09Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-29T03:51:09Z'}, {'status': 'DELIVERED', 'time': '2023-04-29T06:51:09Z'}]",
+,,,,ORD-001027,GIG,TRK1220581,"[{'status': 'CREATED', 'time': '2023-11-02T11:56:30Z'}]",
+,DHL,198645776,,,,,,"[{'status': 'CREATED', 'time': '2023-02-25 10:13'}, {'status': 'PICKED_UP', 'time': '2023-02-25T19:13:26Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-26T07:13:26Z'}]"
+,Kwik,194267293,,,,,,"[{'status': 'CREATED', 'time': '2023-07-19T02:53:37Z'}, {'status': 'PICKED_UP', 'time': '2023-07-20T03:53:37Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-21 20:53'}, {'status': 'DELIVERED', 'time': '2023-07-22 05:53'}]"
+ORD-001051,DHL,TRK-d674d8912518,"[{'status': 'CREATED', 'time': '2023-05-20T16:46:56Z'}]",,,,,
+,,,,ORD-001009,FedEx,TRK4570879,"[{'status': 'CREATED', 'time': '2023-09-04T11:12:13Z'}]",
+ORD-000443,Local,TRK-b645365fcb35,"[{'status': 'CREATED', 'time': '2023-07-04 02:01'}, {'status': 'PICKED_UP', 'time': '2023-07-05T04:01:10Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-06T19:01:10Z'}, {'status': 'DELIVERED', 'time': '2023-07-07T11:01:10Z'}]",,,,,
+ORD-000416,DHL,TRK-69321e657340,"[{'status': 'CREATED', 'time': '2023-08-09 21:05'}, {'status': 'PICKED_UP', 'time': '2023-08-11T13:05:42Z'}]",,,,,
+,,,,ORD-000752,Kwik,TRK2452043,"[{'status': 'CREATED', 'time': '2023-03-20T09:58:12Z'}, {'status': 'PICKED_UP', 'time': '2023-03-21 06:58'}, {'status': 'IN_TRANSIT', 'time': '2023-03-21T15:58:12Z'}, {'status': 'DELIVERED', 'time': '2023-03-22T06:58:12Z'}]",
+,Kwik,303681505,,,,,,"[{'status': 'CREATED', 'time': '2023-05-03T17:47:28Z'}]"
+,,,,ORD-000883,Kwik,TRK7255093,"[{'status': 'CREATED', 'time': '2023-03-24T12:37:14Z'}, {'status': 'PICKED_UP', 'time': '2023-03-26T08:37:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-27T06:37:14Z'}, {'status': 'DELIVERED', 'time': '2023-03-28 22:37'}]",
+,DHL,415192850,,,,,,"[{'status': 'CREATED', 'time': '2023-10-24T21:34:55Z'}]"
+,FedEx,541148363,,,,,,"[{'status': 'CREATED', 'time': '2023-04-03T02:01:10Z'}]"
+ORD-000468,GIG,TRK-0ef4da7c6051,"[{'status': 'CREATED', 'time': '2023-09-19T18:09:50Z'}]",,,,,
+ORD-000493,Local,TRK-2b13dbe1f2b7,"[{'status': 'CREATED', 'time': '2023-09-28T03:15:52Z'}, {'status': 'PICKED_UP', 'time': '2023-09-28T14:15:52Z'}]",,,,,
+,,,,ORD-000315,FedEx,TRK1718473,"[{'status': 'IN_TRANSIT', 'time': '2023-01-08T08:34:21Z'}, {'status': 'PICKED_UP', 'time': '2023-01-09T05:34:21Z'}, {'status': 'DELIVERED', 'time': '2023-01-10T14:34:21Z'}]",
+,,,,ORD-000329,FedEx,TRK4246928,"[{'status': 'CREATED', 'time': '2023-05-04T19:08:56Z'}, {'status': 'PICKED_UP', 'time': '2023-05-06T00:08:56Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-07T10:08:56Z'}, {'status': 'DELIVERED', 'time': '2023-05-08 01:08'}]",
+ORD-001086,Local,TRK-b33fec00159d,"[{'status': 'CREATED', 'time': '2023-11-24T14:35:23Z'}, {'status': 'PICKED_UP', 'time': '2023-11-24T17:35:23Z'}]",,,,,
+ORD-001111,Local,TRK-635b5b7d80fb,"[{'status': 'CREATED', 'time': '2023-04-27T03:54:55Z'}, {'status': 'PICKED_UP', 'time': '2023-04-28T04:54:55Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-30 02:54'}, {'status': 'DELIVERED', 'time': '2023-04-30T12:54:55Z'}]",,,,,
+,Local,515760577,,,,,,"[{'status': 'CREATED', 'time': '2023-09-01T23:30:09Z'}, {'status': 'PICKED_UP', 'time': '2023-09-03T20:30:09Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-05T15:30:09Z'}, {'status': 'DELIVERED', 'time': '2023-09-06T20:30:09Z'}]"
+ORD-000024,GIG,TRK-aef34d279abd,"[{'status': 'CREATED', 'time': '2023-05-29T08:57:28Z'}, {'status': 'PICKED_UP', 'time': '2023-05-30T19:57:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-31T07:57:28Z'}, {'status': 'DELIVERED', 'time': '2023-05-31T12:57:28Z'}]",,,,,
+ORD-000757,Local,TRK-8d422cad3a7c,"[{'status': 'CREATED', 'time': '2023-08-01 19:13'}, {'status': 'PICKED_UP', 'time': '2023-08-03T00:13:41Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-03T06:13:41Z'}]",,,,,
+ORD-000275,DHL,TRK-0dd2f26e8352,"[{'status': 'CREATED', 'time': '2023-09-04T21:06:18Z'}, {'status': 'PICKED_UP', 'time': '2023-09-06 04:06'}, {'status': 'IN_TRANSIT', 'time': '2023-09-07T10:06:18Z'}]",,,,,
+,Kwik,878922249,,,,,,"[{'status': 'CREATED', 'time': '2023-01-27T04:34:09Z'}, {'status': 'PICKED_UP', 'time': '2023-01-28 16:34'}]"
+,,,,ORD-000530,Kwik,TRK7327471,"[{'status': 'CREATED', 'time': '2023-12-19 22:14'}, {'status': 'PICKED_UP', 'time': '2023-12-20 17:14'}, {'status': 'IN_TRANSIT', 'time': '2023-12-22T05:14:11Z'}, {'status': 'DELIVERED', 'time': '2023-12-22T23:14:11Z'}]",
+,Local,838458371,,,,,,"[{'status': 'CREATED', 'time': '2023-09-04T22:03:04Z'}, {'status': 'PICKED_UP', 'time': '2023-09-05T04:03:04Z'}]"
+,,,,ORD-000061,Kwik,TRK4734112,"[{'status': 'CREATED', 'time': '2023-10-02T06:36:15Z'}, {'status': 'PICKED_UP', 'time': '2023-10-03 04:36'}, {'status': 'IN_TRANSIT', 'time': '2023-10-04 20:36'}, {'status': 'DELIVERED', 'time': '2023-10-06T04:36:15Z'}]",
+,GIG,789787994,,,,,,"[{'status': 'CREATED', 'time': '2023-07-14T07:13:13Z'}]"
+,DHL,408519434,,,,,,"[{'status': 'CREATED', 'time': '2023-12-25T11:21:06Z'}, {'status': 'PICKED_UP', 'time': '2023-12-26T22:21:06Z'}]"
+,,,,ORD-000165,Kwik,TRK3803279,"[{'status': 'CREATED', 'time': '2023-11-04T04:53:31Z'}, {'status': 'PICKED_UP', 'time': '2023-11-05 22:53'}, {'status': 'IN_TRANSIT', 'time': '2023-11-06 12:53'}]",
+,,,,ORD-000245,GIG,TRK2865814,"[{'status': 'CREATED', 'time': '2023-09-18T02:19:05Z'}, {'status': 'PICKED_UP', 'time': '2023-09-19T18:19:05Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-21T18:19:05Z'}]",
+,DHL,573016706,,,,,,"[{'status': 'CREATED', 'time': '2023-03-03T22:27:10Z'}, {'status': 'PICKED_UP', 'time': '2023-03-05T15:27:10Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-06T20:27:10Z'}, {'status': 'DELIVERED', 'time': '2023-03-08T07:27:10Z'}]"
+,,,,ORD-001067,Local,TRK9150018,"[{'status': 'CREATED', 'time': '2023-10-05 18:07'}, {'status': 'PICKED_UP', 'time': '2023-10-06T17:07:18Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-07T13:07:18Z'}, {'status': 'DELIVERED', 'time': '2023-10-08T15:07:18Z'}]",
+,FedEx,531537475,,,,,,"[{'status': 'CREATED', 'time': '2023-05-04T09:01:57Z'}, {'status': 'PICKED_UP', 'time': '2023-05-05T08:01:57Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-06T05:01:57Z'}, {'status': 'DELIVERED', 'time': '2023-05-07T04:01:57Z'}]"
+ORD-000931,FedEx,TRK-bda88670ed06,"[{'status': 'CREATED', 'time': '2023-08-26 03:50'}, {'status': 'PICKED_UP', 'time': '2023-08-26T15:50:46Z'}]",,,,,
+,Kwik,211898365,,,,,,"[{'status': 'CREATED', 'time': '2023-04-16T11:46:32Z'}]"
+,GIG,995840111,,,,,,"[{'status': 'CREATED', 'time': '2023-03-06T05:14:35Z'}, {'status': 'PICKED_UP', 'time': '2023-03-08T01:14:35Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-08 16:14'}, {'status': 'DELIVERED', 'time': '2023-03-10T09:14:35Z'}]"
+,FedEx,193283040,,,,,,"[{'status': 'CREATED', 'time': '2023-10-20T12:19:31Z'}, {'status': 'PICKED_UP', 'time': '2023-10-21T06:19:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-22 16:19'}, {'status': 'DELIVERED', 'time': '2023-10-23T05:19:31Z'}]"
+ORD-000124,Kwik,TRK-460d42939445,"[{'status': 'CREATED', 'time': '2023-05-21T18:11:35Z'}, {'status': 'PICKED_UP', 'time': '2023-05-21T23:11:35Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-22T20:11:35Z'}, {'status': 'DELIVERED', 'time': '2023-05-24 15:11'}]",,,,,
+ORD-001188,DHL,TRK-5f862e4d7570,"[{'status': 'CREATED', 'time': '2023-06-11T03:22:42Z'}, {'status': 'PICKED_UP', 'time': '2023-06-12T22:22:42Z'}]",,,,,
+ORD-000159,DHL,TRK-cd847bb4beab,"[{'status': 'CREATED', 'time': '2023-11-17 00:52'}, {'status': 'PICKED_UP', 'time': '2023-11-18 18:52'}, {'status': 'IN_TRANSIT', 'time': '2023-11-20 09:52'}, {'status': 'DELIVERED', 'time': '2023-11-20T15:52:25Z'}]",,,,,
+ORD-001161,Local,TRK-42186b0c08c1,"[{'status': 'CREATED', 'time': '2023-01-04T16:13:53Z'}]",,,,,
+,,,,ORD-000662,FedEx,TRK3185954,"[{'status': 'CREATED', 'time': '2023-05-13T16:20:17Z'}, {'status': 'PICKED_UP', 'time': '2023-05-14T00:20:17Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-15 11:20'}]",
+,GIG,464937804,,,,,,"[{'status': 'CREATED', 'time': '2023-04-26 20:38'}, {'status': 'PICKED_UP', 'time': '2023-04-27T18:38:24Z'}]"
+,FedEx,711549995,,,,,,"[{'status': 'CREATED', 'time': '2023-07-17T06:25:35Z'}, {'status': 'PICKED_UP', 'time': '2023-07-17T20:25:35Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-19 00:25'}, {'status': 'DELIVERED', 'time': '2023-07-20 01:25'}]"
+ORD-000218,GIG,TRK-e9f6f7d3e3ba,"[{'status': 'DELIVERED', 'time': '2023-10-19T08:41:44Z'}, {'status': 'CREATED', 'time': '2023-10-20T02:41:44Z'}, {'status': 'CREATED', 'time': '2023-10-20T13:41:44Z'}, {'status': 'DELIVERED', 'time': '2023-10-20T16:41:44Z'}]",,,,,
+,,,,ORD-000303,Kwik,TRK2021266,"[{'status': 'CREATED', 'time': '2023-06-14T21:35:47Z'}, {'status': 'PICKED_UP', 'time': '2023-06-16T17:35:47Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-17 03:35'}]",
+ORD-000656,Local,TRK-608daa93dd63,"[{'status': 'CREATED', 'time': '2023-04-23 08:14'}, {'status': 'PICKED_UP', 'time': '2023-04-23T15:14:48Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-24T19:14:48Z'}, {'status': 'DELIVERED', 'time': '2023-04-26T05:14:48Z'}]",,,,,
+ORD-000722,DHL,TRK-a4ae3c17f7f4,"[{'status': 'CREATED', 'time': '2023-10-08T03:22:42Z'}, {'status': 'PICKED_UP', 'time': '2023-10-09T16:22:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-10T14:22:42Z'}, {'status': 'DELIVERED', 'time': '2023-10-11T03:22:42Z'}]",,,,,
+,,,,ORD-000706,Kwik,TRK4875401,"[{'status': 'CREATED', 'time': '2023-03-05 18:20'}, {'status': 'PICKED_UP', 'time': '2023-03-06T02:20:07Z'}]",
+,Kwik,344022281,,,,,,"[{'status': 'CREATED', 'time': '2023-04-07T22:47:48Z'}, {'status': 'PICKED_UP', 'time': '2023-04-08T17:47:48Z'}]"
+,DHL,416684077,,,,,,"[{'status': 'CREATED', 'time': '2023-02-27T18:58:11Z'}, {'status': 'PICKED_UP', 'time': '2023-03-01T03:58:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-03T03:58:11Z'}]"
+,,,,ORD-000968,Kwik,TRK2724269,"[{'status': 'CREATED', 'time': '2023-02-21 09:49'}, {'status': 'PICKED_UP', 'time': '2023-02-23T02:49:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-24T12:49:44Z'}]",
+ORD-001153,GIG,TRK-9a8891069a14,"[{'status': 'CREATED', 'time': '2023-06-11 02:08'}, {'status': 'PICKED_UP', 'time': '2023-06-11T05:08:51Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-12T19:08:51Z'}, {'status': 'DELIVERED', 'time': '2023-06-13T15:08:51Z'}]",,,,,
+ORD-001041,GIG,TRK-b3ea7c505a7b,"[{'status': 'CREATED', 'time': '2023-08-15T14:06:47Z'}, {'status': 'PICKED_UP', 'time': '2023-08-15T23:06:47Z'}]",,,,,
+,,,,ORD-000868,Local,TRK2198545,"[{'status': 'CREATED', 'time': '2023-07-17 19:31'}, {'status': 'PICKED_UP', 'time': '2023-07-18 00:31'}, {'status': 'IN_TRANSIT', 'time': '2023-07-18T13:31:15Z'}]",
+,,,,ORD-000004,GIG,TRK5437558,"[{'status': 'CREATED', 'time': '2023-09-09T09:33:45Z'}, {'status': 'PICKED_UP', 'time': '2023-09-10 10:33'}, {'status': 'IN_TRANSIT', 'time': '2023-09-11 21:33'}]",
+,,,,ORD-000719,Kwik,TRK5617642,"[{'status': 'CREATED', 'time': '2023-05-17T16:49:41Z'}]",
+,Kwik,755359603,,,,,,"[{'status': 'CREATED', 'time': '2023-12-05 23:13'}, {'status': 'PICKED_UP', 'time': '2023-12-07 03:13'}, {'status': 'IN_TRANSIT', 'time': '2023-12-07T18:13:11Z'}, {'status': 'DELIVERED', 'time': '2023-12-09T18:13:11Z'}]"
+ORD-000599,DHL,TRK-3f04cea5bdb9,"[{'status': 'CREATED', 'time': '2023-05-08 02:34'}, {'status': 'PICKED_UP', 'time': '2023-05-09T00:34:40Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-10T08:34:40Z'}, {'status': 'DELIVERED', 'time': '2023-05-12 06:34'}]",,,,,
+,Kwik,784389398,,,,,,"[{'status': 'CREATED', 'time': '2023-03-05T18:17:06Z'}]"
+ORD-000312,Local,TRK-5c4ae642711e,"[{'status': 'CREATED', 'time': '2023-09-15 01:42'}]",,,,,
+,DHL,785542167,,,,,,"[{'status': 'CREATED', 'time': '2023-03-27T17:24:08Z'}, {'status': 'PICKED_UP', 'time': '2023-03-27T22:24:08Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-28T01:24:08Z'}, {'status': 'DELIVERED', 'time': '2023-03-29T18:24:08Z'}]"
+ORD-000824,GIG,TRK-01db5a1b0839,"[{'status': 'CREATED', 'time': '2023-05-31T13:52:31Z'}, {'status': 'PICKED_UP', 'time': '2023-06-01 07:52'}]",,,,,
+,,,,ORD-000267,GIG,TRK8397562,"[{'status': 'CREATED', 'time': '2023-05-12T08:43:31Z'}, {'status': 'PICKED_UP', 'time': '2023-05-12T13:43:31Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-13T22:43:31Z'}, {'status': 'DELIVERED', 'time': '2023-05-15T08:43:31Z'}]",
+,,,,ORD-001060,DHL,TRK9710374,"[{'status': 'CREATED', 'time': '2023-07-13T21:18:14Z'}, {'status': 'PICKED_UP', 'time': '2023-07-15T12:18:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-16T02:18:14Z'}]",
+,,,,ORD-000616,FedEx,TRK3577182,"[{'status': 'CREATED', 'time': '2023-04-20 11:51'}, {'status': 'PICKED_UP', 'time': '2023-04-21T23:51:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-23 09:51'}]",
+ORD-001080,Local,TRK-68cc74484245,"[{'status': 'CREATED', 'time': '2023-06-05T09:07:50Z'}, {'status': 'PICKED_UP', 'time': '2023-06-06T09:07:50Z'}]",,,,,
+,,,,ORD-001183,GIG,TRK4239130,"[{'status': 'CREATED', 'time': '2023-03-07 16:44'}, {'status': 'PICKED_UP', 'time': '2023-03-09 04:44'}, {'status': 'IN_TRANSIT', 'time': '2023-03-10 13:44'}, {'status': 'DELIVERED', 'time': '2023-03-11T14:44:15Z'}]",
+ORD-000420,DHL,TRK-7e6b13073d4f,"[{'status': 'CREATED', 'time': '2023-09-10T04:03:44Z'}, {'status': 'PICKED_UP', 'time': '2023-09-12T00:03:44Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-12 21:03'}, {'status': 'DELIVERED', 'time': '2023-09-13 20:03'}]",,,,,
+,FedEx,430381858,,,,,,"[{'status': 'CREATED', 'time': '2023-02-08T13:18:07Z'}, {'status': 'PICKED_UP', 'time': '2023-02-08 22:18'}, {'status': 'IN_TRANSIT', 'time': '2023-02-09 01:18'}, {'status': 'DELIVERED', 'time': '2023-02-09T13:18:07Z'}]"
+,,,,ORD-001154,DHL,TRK6551676,"[{'status': 'CREATED', 'time': '2023-12-12T16:56:30Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-14T11:56:30Z'}, {'status': 'CREATED', 'time': '2023-12-16 06:56'}, {'status': 'PICKED_UP', 'time': '2023-12-16T20:56:30Z'}]",
+,,,,ORD-000442,FedEx,TRK5814800,"[{'status': 'CREATED', 'time': '2023-11-21T18:49:39Z'}, {'status': 'PICKED_UP', 'time': '2023-11-23T07:49:39Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-24 21:49'}, {'status': 'DELIVERED', 'time': '2023-11-26T18:49:39Z'}]",
+ORD-000789,Kwik,TRK-7ef7d1ab70e0,"[{'status': 'CREATED', 'time': '2023-03-13T09:16:11Z'}, {'status': 'PICKED_UP', 'time': '2023-03-14T07:16:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-14 13:16'}, {'status': 'DELIVERED', 'time': '2023-03-15T13:16:11Z'}]",,,,,
+,DHL,433376488,,,,,,"[{'status': 'CREATED', 'time': '2023-07-11T04:46:02Z'}, {'status': 'PICKED_UP', 'time': '2023-07-12T10:46:02Z'}]"
+,,,,ORD-000614,Local,TRK7448559,"[{'status': 'CREATED', 'time': '2023-09-12T10:01:19Z'}, {'status': 'PICKED_UP', 'time': '2023-09-14T00:01:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-14T19:01:19Z'}]",
+,FedEx,579700228,,,,,,"[{'status': 'CREATED', 'time': '2023-04-13 02:32'}, {'status': 'PICKED_UP', 'time': '2023-04-15 01:32'}]"
+,,,,ORD-000153,DHL,TRK6376993,"[{'status': 'CREATED', 'time': '2023-06-26T02:39:20Z'}, {'status': 'PICKED_UP', 'time': '2023-06-26T04:39:20Z'}]",
+,GIG,120338073,,,,,,"[{'status': 'CREATED', 'time': '2023-03-02 23:32'}, {'status': 'PICKED_UP', 'time': '2023-03-03T13:32:11Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-05T01:32:11Z'}]"
+,,,,ORD-000977,DHL,TRK7848158,"[{'status': 'CREATED', 'time': '2023-08-14T22:09:23Z'}]",
+,DHL,299038347,,,,,,"[{'status': 'CREATED', 'time': '2023-06-28 14:18'}, {'status': 'PICKED_UP', 'time': '2023-06-28 19:18'}, {'status': 'IN_TRANSIT', 'time': '2023-06-29T12:18:22Z'}, {'status': 'DELIVERED', 'time': '2023-06-29 14:18'}]"
+,FedEx,489503546,,,,,,"[{'status': 'CREATED', 'time': '2023-05-27T09:39:30Z'}, {'status': 'PICKED_UP', 'time': '2023-05-28T10:39:30Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-30 05:39'}]"
+ORD-000938,DHL,TRK-b0d0bf404383,"[{'status': 'CREATED', 'time': '2023-10-10T22:35:05Z'}, {'status': 'PICKED_UP', 'time': '2023-10-11T19:35:05Z'}]",,,,,
+ORD-000692,FedEx,TRK-fcc367354183,"[{'status': 'CREATED', 'time': '2023-06-20T05:54:32Z'}, {'status': 'PICKED_UP', 'time': '2023-06-20T22:54:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-21 19:54'}]",,,,,
+ORD-000381,DHL,TRK-e04f7b07562d,"[{'status': 'CREATED', 'time': '2023-05-02 19:10'}, {'status': 'PICKED_UP', 'time': '2023-05-03 21:10'}, {'status': 'IN_TRANSIT', 'time': '2023-05-04T20:10:34Z'}, {'status': 'DELIVERED', 'time': '2023-05-06T03:10:34Z'}]",,,,,
+ORD-000660,FedEx,TRK-7597ad14a8e9,"[{'status': 'CREATED', 'time': '2023-10-31T01:07:05Z'}, {'status': 'PICKED_UP', 'time': '2023-11-01 10:07'}, {'status': 'IN_TRANSIT', 'time': '2023-11-01T16:07:05Z'}]",,,,,
+,Kwik,160309196,,,,,,"[{'status': 'CREATED', 'time': '2023-03-22T09:26:15Z'}]"
+ORD-000981,DHL,TRK-594dfca3f829,"[{'status': 'CREATED', 'time': '2023-11-30T19:53:19Z'}]",,,,,
+,,,,ORD-000452,GIG,TRK2743305,"[{'status': 'CREATED', 'time': '2023-11-27T09:00:26Z'}, {'status': 'IN_TRANSIT', 'time': '2023-11-28T23:00:26Z'}, {'status': 'CREATED', 'time': '2023-11-30T20:00:26Z'}, {'status': 'CREATED', 'time': '2023-12-02T12:00:26Z'}]",
+,,,,ORD-001179,Local,TRK9222311,"[{'status': 'DELIVERED', 'time': '2023-06-11T20:55:34Z'}, {'status': 'CREATED', 'time': '2023-06-12 02:55'}, {'status': 'DELIVERED', 'time': '2023-06-12T13:55:34Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-13T23:55:34Z'}]",
+,Local,895440904,,,,,,"[{'status': 'CREATED', 'time': '2023-05-03T08:27:14Z'}, {'status': 'PICKED_UP', 'time': '2023-05-04T18:27:14Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-05T09:27:14Z'}, {'status': 'DELIVERED', 'time': '2023-05-07T02:27:14Z'}]"
+,FedEx,169581225,,,,,,"[{'status': 'CREATED', 'time': '2023-09-25 21:11'}, {'status': 'PICKED_UP', 'time': '2023-09-27T07:11:45Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-29T05:11:45Z'}, {'status': 'DELIVERED', 'time': '2023-09-29T09:11:45Z'}]"
+,,,,ORD-000665,GIG,TRK2473857,"[{'status': 'CREATED', 'time': '2023-07-10T13:40:22Z'}, {'status': 'PICKED_UP', 'time': '2023-07-11 03:40'}, {'status': 'IN_TRANSIT', 'time': '2023-07-11T18:40:22Z'}]",
+,,,,ORD-000135,FedEx,TRK6177204,"[{'status': 'CREATED', 'time': '2023-05-30 18:10'}, {'status': 'PICKED_UP', 'time': '2023-05-31T13:10:28Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-01 01:10'}, {'status': 'DELIVERED', 'time': '2023-06-01 14:10'}]",
+,Kwik,712096794,,,,,,"[{'status': 'CREATED', 'time': '2023-04-05T02:44:13Z'}, {'status': 'PICKED_UP', 'time': '2023-04-05T21:44:13Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-06T09:44:13Z'}, {'status': 'DELIVERED', 'time': '2023-04-07T00:44:13Z'}]"
+,DHL,861457705,,,,,,"[{'status': 'CREATED', 'time': '2023-04-02 20:54'}, {'status': 'PICKED_UP', 'time': '2023-04-03 05:54'}, {'status': 'IN_TRANSIT', 'time': '2023-04-04T22:54:24Z'}, {'status': 'DELIVERED', 'time': '2023-04-05T06:54:24Z'}]"
+,,,,ORD-000495,FedEx,TRK6121679,"[{'status': 'DELIVERED', 'time': '2023-11-12T03:10:26Z'}]",
+,DHL,452841707,,,,,,"[{'status': 'CREATED', 'time': '2023-04-14 12:24'}]"
+,DHL,768135778,,,,,,"[{'status': 'CREATED', 'time': '2023-10-23T20:09:54Z'}, {'status': 'PICKED_UP', 'time': '2023-10-25 10:09'}]"
+,,,,ORD-000329,FedEx,TRK9768380,"[{'status': 'DELIVERED', 'time': '2023-11-05T12:39:55Z'}]",
+,,,,ORD-000149,FedEx,TRK2610899,"[{'status': 'CREATED', 'time': '2023-05-02T11:34:14Z'}]",
+,,,,ORD-000211,Local,TRK6782090,"[{'status': 'CREATED', 'time': '2023-10-24T12:37:49Z'}, {'status': 'PICKED_UP', 'time': '2023-10-24T14:37:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-25T22:37:49Z'}, {'status': 'DELIVERED', 'time': '2023-10-26T01:37:49Z'}]",
+ORD-001136,Local,TRK-20e2ea164494,"[{'status': 'CREATED', 'time': '2023-04-21T14:00:21Z'}]",,,,,
+,Kwik,169256422,,,,,,"[{'status': 'CREATED', 'time': '2023-07-08T02:43:20Z'}, {'status': 'PICKED_UP', 'time': '2023-07-08T07:43:20Z'}]"
+,,,,ORD-001065,FedEx,TRK8035440,"[{'status': 'CREATED', 'time': '2023-02-07T09:53:41Z'}, {'status': 'PICKED_UP', 'time': '2023-02-07 22:53'}, {'status': 'IN_TRANSIT', 'time': '2023-02-09T19:53:41Z'}, {'status': 'DELIVERED', 'time': '2023-02-10T16:53:41Z'}]",
+,Local,140693459,,,,,,"[{'status': 'CREATED', 'time': '2023-02-10 01:06'}, {'status': 'PICKED_UP', 'time': '2023-02-10T16:06:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-02-11T17:06:19Z'}]"
+ORD-000170,FedEx,TRK-89500fc4344a,"[{'status': 'CREATED', 'time': '2023-02-23 16:16'}, {'status': 'PICKED_UP', 'time': '2023-02-24 02:16'}, {'status': 'IN_TRANSIT', 'time': '2023-02-25 08:16'}, {'status': 'DELIVERED', 'time': '2023-02-26T17:16:23Z'}]",,,,,
+,Kwik,383381242,,,,,,"[{'status': 'CREATED', 'time': '2023-05-08T15:20:43Z'}, {'status': 'PICKED_UP', 'time': '2023-05-09T04:20:43Z'}, {'status': 'IN_TRANSIT', 'time': '2023-05-11 00:20'}]"
+,Kwik,612484112,,,,,,"[{'status': 'CREATED', 'time': '2023-04-19T14:32:56Z'}, {'status': 'PICKED_UP', 'time': '2023-04-21T01:32:56Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-21T10:32:56Z'}]"
+,DHL,326260008,,,,,,"[{'status': 'CREATED', 'time': '2023-04-19 09:49'}]"
+,,,,ORD-001118,GIG,TRK9304244,"[{'status': 'CREATED', 'time': '2023-05-24T16:50:50Z'}, {'status': 'PICKED_UP', 'time': '2023-05-24T18:50:50Z'}]",
+ORD-000497,GIG,TRK-abcdc001c500,"[{'status': 'CREATED', 'time': '2023-06-30T16:01:58Z'}, {'status': 'PICKED_UP', 'time': '2023-07-02T15:01:58Z'}, {'status': 'IN_TRANSIT', 'time': '2023-07-03T10:01:58Z'}]",,,,,
+,DHL,627026427,,,,,,"[{'status': 'CREATED', 'time': '2023-03-22 18:13'}, {'status': 'PICKED_UP', 'time': '2023-03-23T23:13:49Z'}, {'status': 'IN_TRANSIT', 'time': '2023-03-25T04:13:49Z'}]"
+ORD-000405,Kwik,TRK-68547e2f8de9,"[{'status': 'IN_TRANSIT', 'time': '2023-05-28T01:56:11Z'}]",,,,,
+ORD-001072,Local,TRK-6b5413b52ee2,"[{'status': 'CREATED', 'time': '2023-12-14T09:43:13Z'}, {'status': 'PICKED_UP', 'time': '2023-12-15T05:43:13Z'}, {'status': 'IN_TRANSIT', 'time': '2023-12-17T02:43:13Z'}]",,,,,
+ORD-000777,GIG,TRK-96e29586d4e8,"[{'status': 'CREATED', 'time': '2023-05-23T09:58:29Z'}, {'status': 'PICKED_UP', 'time': '2023-05-25 09:58'}, {'status': 'IN_TRANSIT', 'time': '2023-05-25 12:58'}]",,,,,
+,GIG,548894021,,,,,,"[{'status': 'CREATED', 'time': '2023-07-01T06:46:55Z'}, {'status': 'PICKED_UP', 'time': '2023-07-02T06:46:55Z'}]"
+ORD-000295,DHL,TRK-fdb7098bcc8a,"[{'status': 'CREATED', 'time': '2024-01-01T05:13:08Z'}]",,,,,
+ORD-000131,GIG,TRK-cc87d5afc699,"[{'status': 'CREATED', 'time': '2023-05-26 11:30'}, {'status': 'PICKED_UP', 'time': '2023-05-26 14:30'}]",,,,,
+ORD-000616,FedEx,TRK-1eced009f087,"[{'status': 'CREATED', 'time': '2023-11-20T08:51:34Z'}, {'status': 'PICKED_UP', 'time': '2023-11-21 07:51'}, {'status': 'IN_TRANSIT', 'time': '2023-11-23T05:51:34Z'}]",,,,,
+,Local,676735980,,,,,,"[{'status': 'CREATED', 'time': '2023-07-10 14:19'}]"
+ORD-000968,Kwik,TRK-ca81d75a2f99,"[{'status': 'CREATED', 'time': '2023-07-25 19:28'}]",,,,,
+,GIG,807557481,,,,,,"[{'status': 'CREATED', 'time': '2023-03-15T12:54:13Z'}]"
+,,,,ORD-000800,GIG,TRK6497758,"[{'status': 'CREATED', 'time': '2023-06-27T16:20:32Z'}, {'status': 'PICKED_UP', 'time': '2023-06-28T18:20:32Z'}, {'status': 'IN_TRANSIT', 'time': '2023-06-29T14:20:32Z'}]",
+ORD-000786,Kwik,TRK-6003cc9da83e,"[{'status': 'CREATED', 'time': '2024-01-02 07:11'}, {'status': 'PICKED_UP', 'time': '2024-01-04T03:11:48Z'}]",,,,,
+,,,,ORD-000836,DHL,TRK8508945,"[{'status': 'CREATED', 'time': '2023-09-21T04:26:10Z'}, {'status': 'PICKED_UP', 'time': '2023-09-23 01:26'}, {'status': 'IN_TRANSIT', 'time': '2023-09-23T10:26:10Z'}]",
+,GIG,175809633,,,,,,"[{'status': 'DELIVERED', 'time': '2023-09-21T11:20:07Z'}, {'status': 'PICKED_UP', 'time': '2023-09-22T13:20:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-24T00:20:07Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-26T00:20:07Z'}]"
+ORD-000781,Kwik,TRK-9f9a898dfa90,"[{'status': 'PICKED_UP', 'time': '2023-08-15 10:38'}, {'status': 'DELIVERED', 'time': '2023-08-16T03:38:00Z'}, {'status': 'IN_TRANSIT', 'time': '2023-08-16T17:38:00Z'}, {'status': 'DELIVERED', 'time': '2023-08-17T18:38:00Z'}]",,,,,
+ORD-000851,DHL,TRK-fa44f42fb2f5,"[{'status': 'CREATED', 'time': '2023-05-04T19:07:58Z'}]",,,,,
+ORD-000288,DHL,TRK-f832d334cc26,"[{'status': 'CREATED', 'time': '2023-05-06T10:15:47Z'}, {'status': 'PICKED_UP', 'time': '2023-05-08 07:15'}]",,,,,
+,GIG,855903974,,,,,,"[{'status': 'CREATED', 'time': '2023-10-24T11:52:38Z'}, {'status': 'PICKED_UP', 'time': '2023-10-24T13:52:38Z'}, {'status': 'IN_TRANSIT', 'time': '2023-10-25T09:52:38Z'}, {'status': 'DELIVERED', 'time': '2023-10-25 22:52'}]"
+ORD-000820,FedEx,TRK-3219bfcbb270,"[{'status': 'CREATED', 'time': '2023-04-07T08:46:55Z'}, {'status': 'PICKED_UP', 'time': '2023-04-08T21:46:55Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-09T17:46:55Z'}, {'status': 'DELIVERED', 'time': '2023-04-10T12:46:55Z'}]",,,,,
+ORD-000276,GIG,TRK-d374dc1f0901,"[{'status': 'CREATED', 'time': '2023-11-25 08:13'}, {'status': 'PICKED_UP', 'time': '2023-11-26 17:13'}]",,,,,
+ORD-001145,Local,TRK-ea72126728fb,"[{'status': 'CREATED', 'time': '2023-10-29T12:45:48Z'}]",,,,,
+,,,,ORD-000113,FedEx,TRK9600230,"[{'status': 'CREATED', 'time': '2023-04-01 15:06'}, {'status': 'PICKED_UP', 'time': '2023-04-02T23:06:42Z'}, {'status': 'IN_TRANSIT', 'time': '2023-04-04T08:06:42Z'}]",
+ORD-000536,Local,TRK-225a23816d73,"[{'status': 'CREATED', 'time': '2023-02-15T16:48:04Z'}]",,,,,
+,,,,ORD-000968,GIG,TRK7483496,"[{'status': 'CREATED', 'time': '2023-07-01 15:14'}, {'status': 'PICKED_UP', 'time': '2023-07-02T07:14:14Z'}]",
+,FedEx,944552919,,,,,,"[{'status': 'CREATED', 'time': '2023-09-26T17:36:19Z'}, {'status': 'PICKED_UP', 'time': '2023-09-27T03:36:19Z'}, {'status': 'IN_TRANSIT', 'time': '2023-09-27T11:36:19Z'}, {'status': 'DELIVERED', 'time': '2023-09-28T20:36:19Z'}]"
+,,,,ORD-000035,DHL,TRK2331359,"[{'status': 'CREATED', 'time': '2023-03-12 09:35'}, {'status': 'PICKED_UP', 'time': '2023-03-13T20:35:55Z'}]",
+,,,,ORD-001092,FedEx,TRK3809588,"[{'status': 'PICKED_UP', 'time': '2023-08-27T01:14:34Z'}, {'status': 'CREATED', 'time': '2023-08-28T01:14:34Z'}]",
