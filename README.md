@@ -29,3 +29,29 @@ Output:
 Notes:
 - Historical data is intentionally inconsistent across vendors and missing stable event_ids.
 - Live events include out-of-order arrivals, duplicates, schema drift, and bad references.
+
+
+## Project Overview
+
+commercepulse is a simulated event-driven data pipeline built to demonstrate ingestion, transformation, and warehouse modeling using historical and live event data.
+
+
+## Architecture
+
+![Architecture Diagram](docs/architechture.png)
+
+
+
+## Tech Stack
+
+-Python
+-JSON
+-BigQuery
+Git & GitHub
+-Event-drivrn ingestion simulation
+
+## Data Layers
+
+-Ingestion Layer: Raw event ingestion and deduplication
+-Transformation Layer; Data Cleaning and normalization
+-Warehouse Layer: Analytical fact and dimension tables
