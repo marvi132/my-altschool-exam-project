@@ -1,5 +1,4 @@
 CommercePulse Case Study Data Pack
-=================================
 
 This folder contains:
 
